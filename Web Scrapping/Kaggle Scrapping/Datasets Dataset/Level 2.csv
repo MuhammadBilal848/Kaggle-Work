@@ -1,0 +1,1395 @@
+Country,Total Competitions,Total Datasets,Total Codes,Total Discussions,Highest Rank,Current Rank,Current Level
+"São Paulo, State of São Paulo, Brazil",19.0,101,20,185,,1,Datasets Grandmaster
+,,20,3,"1,758",,2,Datasets Grandmaster
+"Pittsburgh, Pennsylvania, United States",20.0,44,25,531,,3,Datasets Grandmaster
+"Singapore, Singapore",14.0,54,80,977,1.0,4,Datasets Grandmaster
+"Delhi, Delhi, India",9.0,64,28,933,,5,Datasets Master
+"Kolkata, West Bengal, India",,21,11,"1,080",,6,Datasets Grandmaster
+"Bucharest, Bucharest, Romania",106.0,114,254,"1,418",2.0,7,Datasets Grandmaster
+"Madrid, Community of Madrid, Spain",4.0,31,14,544,4.0,8,Datasets Grandmaster
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",21.0,228,"1,863","18,601",5.0,9,Discussion Grandmaster
+"Sydney, New South Wales, Australia",,17,25,136,5.0,10,Datasets Master
+"Varkala, Kerala, India",7.0,31,20,948,6.0,11,Datasets Grandmaster
+"Jaipur, Rajasthan, India",3.0,30,7,306,10.0,13,Datasets Grandmaster
+"Chennai, Tamil Nadu, India",113.0,17,82,802,1.0,12,Competitions Grandmaster
+,19.0,184,35,"3,893",,14,Notebooks Grandmaster
+"Mumbai, Maharashtra, India",17.0,215,17,576,11.0,15,Datasets Grandmaster
+"Austin, Texas, United States",1.0,118,47,475,1.0,17,Datasets Grandmaster
+"Amman, Amman Governorate, Jordan",1.0,12,33,"2,826",,16,Datasets Grandmaster
+"Washington, District of Columbia, United States",97.0,61,159,"1,246",16.0,18,Competitions Grandmaster
+"Vilnius, Vilnius County, Lithuania",68.0,26,49,"1,044",13.0,19,Competitions Grandmaster
+"Pune, Maharashtra, India",38.0,20,40,"1,130",12.0,20,Datasets Grandmaster
+"San Diego, California, United States",54.0,109,99,"8,090",1.0,21,Competitions Grandmaster
+"San Francisco, California, United States",2.0,6,4,68,2.0,22,Datasets Expert
+"Princeton, New Jersey, United States",11.0,38,37,421,10.0,23,Datasets Grandmaster
+"İstanbul, İstanbul, Turkey",6.0,21,19,17,23.0,24,Datasets Master
+"Stavanger, Rogaland, Norway",229.0,106,142,"2,308",2.0,25,Competitions Grandmaster
+"Bengaluru, Karnataka, India",66.0,35,21,"1,503",2.0,26,Datasets Grandmaster
+"Orvault, Pays de la Loire, France",377.0,"1,235",142,102,9.0,27,Competitions Master
+"Melbourne, Victoria, Australia",55.0,62,35,170,16.0,28,Competitions Master
+"Chennai, Tamil Nadu, India",10.0,15,8,630,28.0,29,Datasets Grandmaster
+"Pune, Maharashtra, India",,10,7,603,,30,Datasets Master
+"Greencastle, Indiana, United States",242.0,134,595,"1,442",5.0,31,Competitions Grandmaster
+,37.0,104,120,822,15.0,32,Datasets Grandmaster
+"Karachi, Sindh, Pakistan",2.0,19,8,80,30.0,33,Datasets Expert
+"Philadelphia, Pennsylvania, United States",5.0,29,64,"1,386",33.0,34,Notebooks Master
+"Bengaluru, Karnataka, India",62.0,18,77,670,6.0,36,Competitions Grandmaster
+"Seattle, Washington, United States",,107,272,"2,191",4.0,35,Datasets Grandmaster
+"Lahore, Punjab, Pakistan",,12,10,134,31.0,37,Datasets Master
+"Delhi, Delhi, India",1.0,82,2,1,,38,Datasets Expert
+"Sydney, New South Wales, Australia",2.0,87,19,924,30.0,39,Datasets Expert
+"Cleveland, Ohio, United States",,84,11,34,4.0,40,Datasets Grandmaster
+"Hyderabad, Telangana, India",118.0,397,"2,457",447,38.0,41,Datasets Expert
+"Haarlem, North Holland, Netherlands",118.0,84,88,"1,317",40.0,42,Notebooks Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",2.0,12,18,221,16.0,43,Datasets Master
+"Moscow, Russia",4.0,11,5,10,38.0,44,Datasets Master
+"Ahmedabad, Gujarat, India",14.0,33,76,369,35.0,45,Datasets Expert
+"Wellington, Wellington, New Zealand",2.0,84,133,124,31.0,46,Datasets Expert
+"Osaka, Osaka, Japan",33.0,10,39,824,26.0,48,Datasets Grandmaster
+,11.0,41,12,172,,47,Datasets Expert
+"Bangkok, Bangkok, Thailand",,62,10,2,32.0,49,Datasets Expert
+United Kingdom,3.0,6,,46,6.0,50,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",28.0,149,57,706,35.0,51,Notebooks Grandmaster
+"Ahmedabad, Gujarat, India",1.0,14,13,245,35.0,52,Datasets Master
+"Bucharest, Bucharest, Romania",10.0,33,47,338,33.0,53,Notebooks Grandmaster
+"Sohawa, Punjab, Pakistan",6.0,15,30,"2,134",47.0,54,Notebooks Master
+"Portland, Oregon, United States",18.0,87,461,124,3.0,55,Datasets Grandmaster
+,10.0,31,33,45,40.0,56,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",,7,21,169,51.0,57,Notebooks Master
+"Bengaluru, Karnataka, India",,38,56,84,31.0,58,Datasets Expert
+"Manila, Metro Manila, Philippines",,21,35,211,57.0,59,Datasets Expert
+"İstanbul, İstanbul, Turkey",,96,222,238,28.0,60,Datasets Expert
+"Burichang, Chittagong Division, Bangladesh",4.0,13,17,209,57.0,61,Notebooks Grandmaster
+"Scottsdale, Arizona, United States",2.0,20,586,169,56.0,62,Datasets Expert
+"Greater Noida, Uttar Pradesh, India",,5,11,427,26.0,63,Datasets Master
+"Baltimore, Maryland, United States",1.0,29,6,2,5.0,65,Datasets Grandmaster
+"Fort Worth, Texas, United States",130.0,30,48,998,38.0,66,Notebooks Grandmaster
+"Golden, Colorado, United States",19.0,19,190,613,21.0,67,Notebooks Grandmaster
+"Iloilo City, Western Visayas, Philippines",1.0,13,19,"1,018",57.0,68,Datasets Master
+"Hyderabad, Telangana, India",20.0,27,68,865,42.0,69,Notebooks Master
+"Abu Dhabi, Abu Dhabi, United Arab Emirates",2.0,18,20,452,62.0,64,Notebooks Master
+"Windsor, Ontario, Canada",1.0,86,56,800,24.0,70,Datasets Expert
+"Mumbai, Maharashtra, India",1.0,45,45,311,,71,Notebooks Master
+"Cork, County Cork, Ireland",16.0,30,25,244,54.0,72,Datasets Expert
+"Boston, Massachusetts, United States",55.0,12,23,"2,258",46.0,73,Notebooks Grandmaster
+"Kayseri, Kayseri, Turkey",,9,,,25.0,74,Datasets Master
+"Lviv, Lviv Oblast, Ukraine",3.0,12,16,80,51.0,76,Datasets Expert
+"Pune, Maharashtra, India",,12,18,"1,121",70.0,77,Notebooks Grandmaster
+"Pisa, Tuscany, Italy",,17,9,178,72.0,78,Datasets Expert
+"Tehran, Tehran Province, Iran",,14,16,228,,75,Notebooks Master
+"Dallas, Texas, United States",9.0,18,20,250,25.0,79,Datasets Master
+"Mashhad, Razavi Khorasan Province, Iran",,7,6,255,80.0,81,Datasets Expert
+,19.0,21,66,675,79.0,80,Notebooks Master
+"Mumbai, Maharashtra, India",,6,3,65,45.0,83,Datasets Master
+"Dhaka, Dhaka Division, Bangladesh",2.0,4,14,837,83.0,84,Notebooks Master
+"Dubai, Dubai, United Arab Emirates",3.0,13,14,"1,205",,82,Notebooks Master
+"New Delhi, Delhi, India",2.0,8,10,246,70.0,86,Datasets Expert
+"London, Ontario, Canada",38.0,150,126,"1,087",70.0,85,Notebooks Grandmaster
+"Amreli, Gujarat, India",,5,16,"1,274",82.0,88,Datasets Master
+"London, Ontario, Canada",28.0,16,29,300,22.0,87,Datasets Master
+"Konya, Konya, Turkey",,12,,1,64.0,89,Datasets Expert
+"London, England, United Kingdom",2.0,4,14,187,18.0,90,Datasets Expert
+"Charlotte, North Carolina, United States",22.0,26,77,363,54.0,91,Datasets Expert
+,,10,18,"2,280",91.0,93,Notebooks Grandmaster
+"Gurugram, Haryana, India",,3,7,40,7.0,92,Datasets Expert
+,34.0,14,41,450,73.0,94,Notebooks Grandmaster
+,2.0,12,32,"1,588",78.0,96,Notebooks Grandmaster
+"Navi Mumbai, Maharashtra, India",3.0,8,19,272,81.0,97,Notebooks Master
+"Bhopal, Madhya Pradesh, India",1.0,42,65,54,,95,Datasets Expert
+,4.0,37,27,732,55.0,98,Notebooks Master
+"Bengaluru, Karnataka, India",,190,1,22,16.0,100,Datasets Master
+"Florida City, Florida, United States",7.0,15,20,306,32.0,101,Datasets Master
+"Greenville, South Carolina, United States",1.0,13,12,89,92.0,102,Datasets Expert
+"Gdańsk, Pomeranian Voivodeship, Poland",26.0,19,35,"1,450",65.0,99,Notebooks Grandmaster
+"Hyderabad, Telangana, India",,7,,1,31.0,103,Datasets Master
+"Katihar, Bihar, India",,16,22,85,72.0,104,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",15.0,25,9,4,78.0,105,Datasets Expert
+"San Francisco, California, United States",8.0,40,34,551,62.0,106,Notebooks Master
+"Tokyo, Tokyo, Japan",67.0,20,55,400,54.0,108,Competitions Grandmaster
+"Moscow, Russia",,6,24,"2,281",108.0,110,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",,17,10,369,71.0,107,Datasets Expert
+"Alexandria, Virginia, United States",9.0,16,19,182,74.0,112,Datasets Master
+"Rotterdam, South Holland, Netherlands",,13,38,570,29.0,109,Datasets Master
+"Islamabad, Islamabad Capital Territory, Pakistan",,22,3,47,109.0,111,Datasets Expert
+"İstanbul, İstanbul, Turkey",8.0,22,18,311,14.0,113,Datasets Master
+"Waterloo, Ontario, Canada",7.0,8,11,"1,046",77.0,116,Notebooks Master
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",,18,,4,82.0,117,Datasets Expert
+"Salt Lake City, Utah, United States",10.0,16,28,400,107.0,119,Datasets Expert
+"Hyderabad, Telangana, India",1.0,5,10,162,,114,Datasets Master
+"Hangu, Khyber Pakhtunkhwa, Pakistan",,7,12,156,,115,Datasets Expert
+"Chennai, Tamil Nadu, India",9.0,23,30,298,66.0,120,Datasets Master
+"Ranchi, Jharkhand, India",3.0,10,3,995,41.0,121,Datasets Master
+"Lahore, Punjab, Pakistan",17.0,17,75,558,95.0,118,Notebooks Master
+"San Francisco, California, United States",3.0,5,3,6,18.0,123,Datasets Expert
+"New York, New York, United States",1.0,44,230,675,10.0,124,Notebooks Grandmaster
+"Buenos Aires, Buenos Aires, Argentina",18.0,79,56,286,43.0,125,Notebooks Grandmaster
+"Vinnytsia, Vinnytsia Oblast, Ukraine",66.0,19,159,541,16.0,126,Notebooks Grandmaster
+"Barisal Division, Bangladesh",4.0,7,25,109,74.0,127,Notebooks Master
+"Passau, Bavaria, Germany",,6,6,209,,122,Datasets Expert
+"Kolkata, West Bengal, India",14.0,6,12,330,40.0,128,Datasets Expert
+"Jakarta, Jakarta, Indonesia",2.0,5,18,"3,693",106.0,130,Notebooks Grandmaster
+"Amsterdam, North Holland, Netherlands",49.0,14,91,687,10.0,129,Notebooks Grandmaster
+"Pune, Maharashtra, India",,17,19,"1,325",122.0,134,Notebooks Grandmaster
+"İstanbul, İstanbul, Turkey",46.0,17,23,"2,411",9.0,132,Datasets Grandmaster
+"New Delhi, Delhi, India",8.0,11,32,433,82.0,135,Notebooks Master
+"Akola, Maharashtra, India",2.0,9,11,208,112.0,133,Datasets Expert
+"Kasaragod, Kerala, India",5.0,15,66,125,11.0,137,Datasets Master
+,,9,13,45,135.0,136,Datasets Expert
+"Los Angeles, California, United States",13.0,11,11,261,31.0,138,Datasets Master
+"Mumbai, Maharashtra, India",2.0,11,13,155,72.0,139,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",,3,11,94,132.0,140,Notebooks Master
+"Chennai, Tamil Nadu, India",13.0,40,46,100,89.0,141,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",31.0,69,41,940,92.0,142,Notebooks Master
+"Istanbul, Istanbul, Turkey",15.0,15,64,680,106.0,143,Discussion Master
+"Hyderabad, Telangana, India",9.0,21,52,281,29.0,145,Notebooks Grandmaster
+"Ernakulam, Kerala, India",,6,8,134,97.0,148,Datasets Expert
+"İstanbul, İstanbul, Turkey",3.0,23,30,16,135.0,146,Datasets Expert
+"Bhopal, Madhya Pradesh, India",11.0,19,9,444,101.0,147,Datasets Expert
+,10.0,10,12,250,136.0,151,Datasets Expert
+"Philadelphia, Pennsylvania, United States",16.0,14,13,196,99.0,152,Datasets Expert
+"New Delhi, Delhi, India",2.0,33,1,204,44.0,150,Datasets Expert
+"New Delhi, Delhi, India",6.0,8,15,"1,012",109.0,154,Notebooks Grandmaster
+"Shiraz, Fars Province, Iran",,15,26,95,,131,Datasets Expert
+"New Delhi, Delhi, India",,7,10,293,,144,Datasets Expert
+"Tehran, Tehran Province, Iran",2.0,12,19,139,144.0,156,Datasets Expert
+"Manila, Metro Manila, Philippines",1.0,11,16,121,150.0,155,Notebooks Master
+"Paris, Île-de-France, France",5.0,82,412,599,155.0,157,Datasets Expert
+"Chicago, Illinois, United States",13.0,18,11,99,45.0,158,Datasets Expert
+"Berlin, Berlin, Germany",26.0,6,22,222,75.0,160,Competitions Master
+"Dubai, Dubai, United Arab Emirates",2.0,7,15,"2,815",83.0,161,Notebooks Grandmaster
+"Gurugram, Haryana, India",9.0,25,43,908,15.0,163,Notebooks Grandmaster
+"Taunsa, Punjab, Pakistan",,7,,125,130.0,162,Datasets Expert
+"Hamedan, Hamadan Province, Iran",,7,8,86,,149,Datasets Expert
+"Patiala, Punjab, India",,3,31,270,82.0,164,Datasets Expert
+"Berlin, Berlin, Germany",,10,12,56,36.0,165,Datasets Expert
+"Bengaluru, Karnataka, India",,7,7,102,41.0,166,Datasets Master
+,1.0,23,7,8,127.0,167,Datasets Expert
+,,8,13,370,151.0,153,Notebooks Master
+"Bengaluru, Karnataka, India",9.0,19,18,"1,020",40.0,159,Notebooks Master
+"Nantes, Pays de la Loire, France",10.0,15,30,207,62.0,168,Notebooks Master
+"Gurugram, Haryana, India",11.0,14,26,263,118.0,173,Notebooks Master
+"Delhi, Delhi, India",9.0,15,23,14,136.0,169,Datasets Expert
+"San Francisco, California, United States",,12,13,48,111.0,171,Datasets Expert
+"Saint Petersburg, Russia",22.0,12,25,432,116.0,172,Notebooks Grandmaster
+"Lexington, South Carolina, United States",59.0,4,6,23,72.0,174,Datasets Expert
+"Manchester, England, United Kingdom",21.0,17,23,154,134.0,170,Competitions Expert
+"Bengaluru, Karnataka, India",9.0,11,13,190,169.0,176,Notebooks Master
+"Yazd, Yazd Province, Iran",,5,16,"1,234",67.0,175,Notebooks Grandmaster
+"Charlotte, North Carolina, United States",,14,33,10,151.0,177,Datasets Expert
+"Aydın, Aydın, Turkey",25.0,6,17,248,98.0,179,Notebooks Master
+"Valencia, Valencian Community, Spain",,8,9,69,58.0,180,Datasets Expert
+,2.0,9,9,116,28.0,178,Datasets Expert
+Singapore,67.0,18,30,"5,754",166.0,181,Discussion Grandmaster
+"Santa Clarita, California, United States",2.0,949,6,146,2.0,185,Datasets Expert
+"Ghaziabad, Uttar Pradesh, India",16.0,18,18,243,20.0,186,Datasets Master
+"Baghdad, Baghdad Governorate, Iraq",1.0,6,8,117,43.0,182,Datasets Master
+"Mandi, Himachal Pradesh, India",1.0,9,16,260,184.0,187,Datasets Expert
+"Chandigarh, Chandigarh, India",5.0,12,3,130,169.0,188,Datasets Expert
+"Campinas, State of São Paulo, Brazil",,11,51,124,67.0,184,Notebooks Master
+"Noida, Uttar Pradesh, India",,15,8,1,133.0,183,Datasets Expert
+"Shahrbabak, Kerman Province, Iran",1.0,17,40,"1,624",116.0,191,Notebooks Master
+"Gurugram, Haryana, India",1.0,21,21,9,30.0,189,Datasets Expert
+"Pune, Maharashtra, India",19.0,5,46,897,179.0,190,Notebooks Master
+"Colombo, Western Province, Sri Lanka",4.0,15,17,137,68.0,193,Datasets Expert
+"Fukuoka, Fukuoka, Japan",43.0,71,56,130,83.0,192,Competitions Grandmaster
+"Chennai, Tamil Nadu, India",14.0,19,24,309,167.0,194,Notebooks Master
+"Bengaluru, Karnataka, India",2.0,6,13,88,158.0,195,Datasets Expert
+"Thane, Maharashtra, India",5.0,6,9,327,147.0,196,Datasets Expert
+"Tangier, Tangier-Tétouan-Al Hoceima, Morocco",,10,19,"2,302",137.0,197,Datasets Expert
+"Warangal, Telangana, India",4.0,6,15,106,193.0,198,Datasets Expert
+"Buffalo, Minnesota, United States",,20,22,67,114.0,206,Datasets Expert
+"Chandannagar, West Bengal, India",5.0,5,15,658,161.0,199,Notebooks Master
+"Tokyo, Tokyo, Japan",44.0,10,29,290,51.0,200,Competitions Grandmaster
+"Abu Dhabi, Abu Dhabi, United Arab Emirates",22.0,13,5,21,172.0,201,Competitions Master
+"Aracaju, State of Sergipe, Brazil",,18,6,107,23.0,207,Datasets Master
+"Rio Grande, State of Rio Grande do Sul, Brazil",3.0,6,10,365,8.0,202,Datasets Grandmaster
+"Madrid, Community of Madrid, Spain",37.0,14,154,"2,025",106.0,203,Notebooks Grandmaster
+"Mumbai, Maharashtra, India",3.0,20,29,318,171.0,209,Datasets Expert
+"Jaipur, Rajasthan, India",,28,13,179,22.0,204,Notebooks Master
+"Delhi, Delhi, India",1.0,9,9,177,91.0,208,Datasets Expert
+"Cumilla, Chittagong Division, Bangladesh",29.0,29,56,456,160.0,219,Datasets Expert
+"Bengaluru, Karnataka, India",,22,18,174,170.0,210,Datasets Expert
+"Charlotte, North Carolina, United States",22.0,13,31,264,34.0,205,Notebooks Master
+"Thiruvananthapuram, Kerala, India",,8,2,100,150.0,221,Datasets Expert
+"Halifax, Nova Scotia, Canada",1.0,17,20,23,116.0,211,Datasets Expert
+"Toronto, Ontario, Canada",,4,6,124,,212,Datasets Expert
+"San Francisco, California, United States",,3,1,58,157.0,213,Datasets Expert
+"Singapore, Singapore",13.0,8,24,60,73.0,214,Datasets Expert
+"Guelph, Ontario, Canada",7.0,7,25,36,25.0,215,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",17.0,38,31,266,14.0,216,Notebooks Grandmaster
+"Menlo Park, California, United States",54.0,374,18,237,109.0,217,Competitions Grandmaster
+"Hamburg, Hamburg, Germany",55.0,8,8,93,114.0,223,Competitions Master
+"Cairo, Cairo Governorate, Egypt",3.0,8,22,1,198.0,220,Datasets Expert
+"Gurugram, Haryana, India",,15,30,145,147.0,222,Datasets Expert
+"Lausanne, Vaud, Switzerland",8.0,7,14,127,66.0,218,Competitions Expert
+"Santa Clara, California, United States",3.0,15,11,292,131.0,224,Datasets Expert
+,,15,14,479,213.0,231,Datasets Expert
+"Gomel, Gomel Region, Belarus",,12,16,75,151.0,226,Datasets Expert
+"Selangor, Malaysia",21.0,4,17,345,211.0,233,Notebooks Master
+"Chennai, Tamil Nadu, India",5.0,8,15,266,226.0,227,Datasets Expert
+,3.0,10,19,448,77.0,228,Notebooks Master
+"Kyiv, Ukraine",28.0,32,21,26,32.0,237,Competitions Expert
+"Honolulu, Hawaii, United States",2.0,5,10,41,142.0,229,Datasets Expert
+"Moscow, Russia",9.0,36,17,145,166.0,230,Notebooks Master
+"Pune, Maharashtra, India",10.0,8,13,71,,225,Datasets Expert
+"Raipur, Chhattisgarh, India",,7,7,45,181.0,232,Datasets Expert
+"Singapore, Singapore",,31,20,52,104.0,234,Datasets Expert
+"Shibuya City, Tokyo, Japan",34.0,119,39,365,28.0,235,Competitions Master
+,2.0,41,246,208,36.0,236,Datasets Expert
+"Bengaluru, Karnataka, India",1.0,17,75,50,225.0,238,Datasets Expert
+"San Francisco, California, United States",21.0,21,134,575,161.0,239,Datasets Expert
+"İstanbul, İstanbul, Turkey",12.0,11,42,867,38.0,244,Notebooks Grandmaster
+"Ankara, Ankara, Turkey",22.0,8,13,85,177.0,240,Datasets Expert
+"Surat, Gujarat, India",5.0,7,25,211,55.0,242,Notebooks Master
+"Mumbai, Maharashtra, India",,6,11,371,181.0,243,Notebooks Master
+"Prague, Prague, Czechia",18.0,12,66,197,240.0,241,Notebooks Master
+"Lagos, Lagos, Nigeria",,4,3,39,74.0,245,Datasets Expert
+"Kuwait City, Al Asimah Governate, Kuwait",2.0,8,,106,116.0,246,Datasets Expert
+"Paris, Île-de-France, France",1.0,4,7,191,225.0,248,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",1.0,21,53,437,42.0,249,Notebooks Master
+"Dhaka, Dhaka Division, Bangladesh",50.0,41,32,"2,165",35.0,250,Notebooks Grandmaster
+"Mandalay, Mandalay Region, Myanmar (Burma)",,5,6,7,119.0,251,Datasets Expert
+"Budapest, Hungary",,6,5,246,22.0,252,Datasets Master
+"Delhi, Delhi, India",7.0,10,7,8,181.0,253,Datasets Expert
+"Bengaluru, Karnataka, India",,44,,2,202.0,254,Datasets Expert
+"Vinnytsia, Vinnytsia Oblast, Ukraine",33.0,9,35,412,63.0,256,Notebooks Grandmaster
+"San Francisco, California, United States",10.0,9,6,324,229.0,257,Datasets Expert
+"Bhubaneswar, Odisha, India",,3,3,427,254.0,255,Datasets Expert
+"Bengaluru, Karnataka, India",27.0,23,46,200,52.0,258,Competitions Expert
+"Bengaluru, Karnataka, India",1.0,22,39,34,156.0,259,Datasets Expert
+"Seoul, Seoul, South Korea",2.0,8,39,214,251.0,262,Datasets Expert
+"Saint Petersburg, Russia",24.0,15,17,168,61.0,264,Competitions Expert
+"Nagpur, Maharashtra, India",,5,29,37,216.0,267,Datasets Expert
+,6.0,21,30,158,260.0,261,Datasets Expert
+"Paris, Île-de-France, France",48.0,44,43,423,54.0,270,Competitions Master
+"Ottawa, Ontario, Canada",3.0,6,12,6,237.0,265,Datasets Expert
+"Warsaw, Masovian Voivodeship, Poland",21.0,15,41,"1,824",115.0,266,Notebooks Grandmaster
+"Surat, Gujarat, India",1.0,10,12,23,125.0,273,Datasets Expert
+"Ahmedabad, Gujarat, India",3.0,10,29,123,241.0,263,Datasets Expert
+,,20,16,647,240.0,269,Notebooks Master
+"Dhaka, Dhaka Division, Bangladesh",13.0,21,73,810,44.0,271,Notebooks Master
+"Pune, Maharashtra, India",4.0,23,24,62,115.0,272,Datasets Expert
+"Petaling Jaya, Selangor, Malaysia",6.0,44,78,537,136.0,275,Notebooks Master
+"Baton Rouge, Louisiana, United States",4.0,14,,2,215.0,276,Datasets Expert
+"Kulmbach, Bavaria, Germany",,30,32,978,153.0,268,Notebooks Master
+"Antalya, Antalya, Turkey",21.0,9,37,988,259.0,261,Notebooks Grandmaster
+"Franca, State of São Paulo, Brazil",15.0,46,37,337,117.0,281,Notebooks Master
+"Chicago, Illinois, United States",2.0,5,15,103,180.0,274,Datasets Expert
+,31.0,18,35,"1,395",225.0,279,Discussion Grandmaster
+"Thiruvananthapuram, Kerala, India",,5,2,58,194.0,280,Datasets Expert
+"Tallinn, Harju County, Estonia",13.0,8,2,81,219.0,277,Competitions Expert
+"Barcelona, Catalonia, Spain",,6,2,2,183.0,283,Datasets Expert
+"Abadan, Khuzestan Province, Iran",,21,29,232,254.0,284,Datasets Expert
+"Rostock, Mecklenburg-Vorpommern, Germany",15.0,4,,111,244.0,285,Datasets Expert
+"London, England, United Kingdom",21.0,5,24,689,271.0,302,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",95.0,20,55,740,155.0,282,Discussion Grandmaster
+"Bengaluru, Karnataka, India",,8,27,480,25.0,286,Datasets Master
+,1.0,5,2,4,257.0,287,Datasets Expert
+"Bengaluru, Karnataka, India",,4,29,210,54.0,288,Datasets Expert
+"El-Mahalla El-Kubra, Gharbia Governorate, Egypt",1.0,6,11,223,,247,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",3.0,11,26,248,232.0,295,Datasets Expert
+"Bengaluru, Karnataka, India",,17,1,34,22.0,296,Datasets Master
+"Stanford, California, United States",,25,18,3,11.0,290,Datasets Master
+"Thiruvalla, Kerala, India",,8,3,14,216.0,291,Datasets Expert
+"Bengaluru, Karnataka, India",30.0,16,45,228,132.0,292,Datasets Expert
+"Coimbatore, Tamil Nadu, India",,9,11,286,231.0,293,Datasets Expert
+"Kobe, Hyogo, Japan",23.0,8,14,76,190.0,298,Competitions Master
+"Kraków, Lesser Poland Voivodeship, Poland",7.0,11,21,340,115.0,299,Competitions Master
+"Kobe, Hyogo, Japan",57.0,24,"1,264",293,215.0,300,Datasets Expert
+"Thiruvananthapuram, Kerala, India",3.0,5,15,136,111.0,301,Datasets Expert
+"Lahore, Punjab, Pakistan",2.0,7,8,49,288.0,289,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",15.0,9,35,179,41.0,310,Competitions Master
+"Seattle, Washington, United States",,22,7,,12.0,303,Datasets Master
+"Campina Grande, State of Paraíba, Brazil",35.0,37,58,"1,180",54.0,304,Notebooks Grandmaster
+"Gaithersburg, Maryland, United States",34.0,27,39,"1,255",20.0,305,Competitions Grandmaster
+,,7,5,16,81.0,306,Datasets Expert
+"Santiago, Santiago Metropolitan Region, Chile",,4,4,6,185.0,307,Datasets Expert
+"Seoul, Seoul, South Korea",20.0,4,3,127,12.0,311,Datasets Expert
+"Visakhapatnam, Andhra Pradesh, India",6.0,9,21,125,151.0,314,Datasets Expert
+"New Delhi, Delhi, India",,5,17,358,306.0,309,Datasets Expert
+"Sacramento, California, United States",38.0,8,91,575,153.0,297,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",2.0,18,8,179,111.0,319,Datasets Expert
+"Kyiv, Ukraine",4.0,9,30,134,273.0,312,Datasets Expert
+"Colombo, Western Province, Sri Lanka",4.0,36,,186,217.0,313,Datasets Expert
+"Raipur, Chhattisgarh, India",,3,5,24,280.0,315,Datasets Expert
+"Quetta, Balochistan, Pakistan",1.0,16,6,3,307.0,316,Datasets Expert
+"Patiala, Punjab, India",,10,9,165,252.0,317,Datasets Expert
+"Peravali, Andhra Pradesh, India",,4,14,"1,420",306.0,308,Notebooks Master
+,,6,2,8,316.0,320,Datasets Expert
+"Los Angeles, California, United States",43.0,8,17,735,149.0,326,Discussion Grandmaster
+"Islamabad, Islamabad Capital Territory, Pakistan",6.0,3,6,190,250.0,321,Datasets Expert
+"Gurugram, Haryana, India",,5,10,352,40.0,318,Datasets Master
+"Fortaleza, State of Ceará, Brazil",13.0,21,109,"1,516",40.0,322,Notebooks Master
+"Islamabad, Islamabad Capital Territory, Pakistan",1.0,4,12,222,277.0,278,Datasets Expert
+"Greater Noida, Uttar Pradesh, India",1.0,8,7,168,123.0,330,Datasets Expert
+,5.0,5,2,8,288.0,323,Datasets Expert
+"Bengaluru, Karnataka, India",,30,,,289.0,324,Datasets Expert
+"Guangzhou, Guangdong Province, China",16.0,19,29,32,181.0,333,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",,7,9,56,281.0,325,Datasets Expert
+"Thrissur, Kerala, India",32.0,12,,29,50.0,328,Datasets Expert
+"Feni, Chittagong Division, Bangladesh",20.0,6,35,312,282.0,336,Notebooks Master
+"Kawasaki, Kanagawa, Japan",9.0,8,17,125,180.0,329,Datasets Expert
+"London, England, United Kingdom",3.0,12,,7,195.0,331,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",,4,10,145,317.0,332,Datasets Expert
+"Sohawa, Punjab, Pakistan",,7,8,319,269.0,334,Datasets Expert
+"Howrah, West Bengal, India",6.0,8,15,96,294.0,339,Datasets Expert
+"Lahore, Punjab, Pakistan",2.0,11,13,52,242.0,340,Datasets Expert
+"Farrukhabad, Uttar Pradesh, India",2.0,9,10,5,306.0,343,Datasets Expert
+"Pune, Maharashtra, India",3.0,6,12,103,328.0,344,Datasets Expert
+"Liverpool, England, United Kingdom",4.0,8,22,85,202.0,348,Datasets Expert
+"Hwaseong-si, Gyeonggi-do, South Korea",3.0,4,37,"2,409",148.0,350,Notebooks Grandmaster
+"Surat, Gujarat, India",2.0,12,5,14,196.0,341,Datasets Expert
+"Maroua, Far North, Cameroon",2.0,5,7,29,283.0,342,Datasets Expert
+Muzaffarabad,,6,5,99,342.0,354,Datasets Expert
+"Bengaluru, Karnataka, India",11.0,6,24,100,234.0,345,Datasets Expert
+"Karachi, Sindh, Pakistan",4.0,7,25,165,29.0,327,Datasets Expert
+,,9,72,483,208.0,347,Datasets Expert
+"Guangzhou, Guangdong Province, China",53.0,22,132,346,172.0,349,Notebooks Master
+"Chandigarh, Chandigarh, India",6.0,4,9,208,231.0,351,Datasets Expert
+"Lahore, Punjab, Pakistan",5.0,13,11,33,,337,Datasets Expert
+"Curitiba, State of Paraná, Brazil",,14,13,4,184.0,352,Datasets Expert
+"Chennai, Tamil Nadu, India",8.0,7,46,24,,338,Datasets Expert
+"İzmir, İzmir, Turkey",,14,32,455,336.0,353,Notebooks Master
+"Dresden, Saxony, Germany",4.0,6,11,149,348.0,355,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",1.0,14,,6,,335,Datasets Expert
+"Zhukovskiy, Moscow Oblast, Russia",1.0,21,17,4,344.0,346,Datasets Expert
+"Al-Malikiyah, Al-Hasakah Governorate, Syria",1.0,5,6,67,345.0,356,Datasets Expert
+"Kaithal, Haryana, India",3.0,3,19,305,318.0,357,Notebooks Master
+"Maroua, Far North, Cameroon",2.0,5,11,97,287.0,358,Datasets Expert
+"Rolla, Missouri, United States",,8,6,39,272.0,359,Datasets Expert
+"Chennai, Tamil Nadu, India",2.0,3,17,115,74.0,372,Datasets Expert
+"Marseille, Provence-Alpes-Côte d'Azur, France",7.0,9,16,31,152.0,374,Datasets Expert
+,12.0,34,41,4,348.0,361,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",,4,5,35,340.0,362,Datasets Expert
+"Kochi, Kerala, India",3.0,16,15,246,163.0,363,Notebooks Master
+"Seoul, Seoul, South Korea",3.0,4,11,240,232.0,364,Notebooks Master
+"Mumbai, Maharashtra, India",1.0,4,13,300,191.0,365,Datasets Expert
+"Winnipeg, Manitoba, Canada",14.0,10,44,327,329.0,366,Datasets Expert
+"Bilaspur, Chhattisgarh, India",20.0,5,12,71,218.0,367,Notebooks Master
+"Ahmedabad, Gujarat, India",1.0,4,7,73,367.0,368,Datasets Expert
+"Thonnakkal, Kerala, India",,5,5,55,264.0,369,Datasets Expert
+"Shanghai, Shanghai, China",27.0,9,8,406,299.0,371,Competitions Master
+"Gandhinagar, Gujarat, India",5.0,5,24,20,289.0,360,Datasets Expert
+,51.0,7,1,10,323.0,375,Datasets Expert
+"Gainesville, Florida, United States",1.0,9,9,48,321.0,377,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",3.0,6,24,"1,042",137.0,378,Discussion Master
+"Karachi, Sindh, Pakistan",,11,15,866,109.0,379,Notebooks Master
+,,5,1,85,259.0,380,Datasets Expert
+"San Francisco, California, United States",55.0,16,746,"1,779",242.0,370,Competitions Master
+"Chiang Mai, Chiang Mai, Thailand",50.0,13,49,200,72.0,381,Datasets Expert
+"San Francisco, California, United States",15.0,35,28,31,296.0,373,Datasets Expert
+"Campinas, State of São Paulo, Brazil",3.0,6,7,66,14.0,382,Datasets Expert
+"Bengaluru, Karnataka, India",72.0,18,11,725,40.0,383,Competitions Expert
+"Fukuoka, Fukuoka, Japan",30.0,30,24,71,382.0,384,Competitions Master
+"Delhi, Delhi, India",4.0,17,44,24,230.0,385,Datasets Expert
+"Varanasi, Uttar Pradesh, India",2.0,6,13,15,244.0,386,Datasets Expert
+"Mumbai, Maharashtra, India",4.0,4,11,61,358.0,387,Datasets Expert
+"Tanuku, Andhra Pradesh, India",4.0,14,17,1,270.0,388,Datasets Expert
+,,3,,6,187.0,389,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",106.0,19,212,550,70.0,390,Competitions Expert
+,,50,3,44,9.0,391,Datasets Master
+"Okinawa, Okinawa, Japan",4.0,10,55,120,371.0,376,Datasets Expert
+"Halden, Viken, Norway",4.0,6,15,258,36.0,392,Notebooks Master
+"Gharo, Sindh, Pakistan",34.0,8,26,161,378.0,393,Competitions Master
+"Gurugram, Haryana, India",,10,6,5,252.0,394,Datasets Expert
+"St Andrews, Scotland, United Kingdom",27.0,32,31,382,294.0,395,Competitions Expert
+"Mumbai, Maharashtra, India",,15,28,263,36.0,402,Notebooks Master
+"Boston, Massachusetts, United States",,4,1,28,160.0,396,Datasets Expert
+"Pune, Maharashtra, India",4.0,9,18,267,143.0,397,Notebooks Master
+"Punjab, Pakistan",6.0,6,22,884,270.0,404,Notebooks Master
+"Tokyo, Tokyo, Japan",21.0,167,14,18,322.0,398,Competitions Expert
+"Surat, Gujarat, India",2.0,4,25,812,334.0,399,Notebooks Master
+,1.0,7,5,25,384.0,400,Datasets Expert
+"Gurugram, Haryana, India",39.0,8,38,"1,572",173.0,401,Discussion Master
+"Montreal, Quebec, Canada",42.0,26,158,"1,181",79.0,413,Notebooks Grandmaster
+,3.0,5,12,4,325.0,418,Datasets Expert
+"Bengaluru, Karnataka, India",,6,1,15,243.0,405,Datasets Expert
+"Manila, Metro Manila, Philippines",,6,14,157,381.0,406,Datasets Expert
+"Bhimavaram, Andhra Pradesh, India",1.0,11,18,,271.0,408,Datasets Expert
+"Saint Petersburg, Russia",,5,5,24,169.0,425,Datasets Expert
+"İstanbul, İstanbul, Turkey",,4,7,32,107.0,410,Datasets Expert
+"Kolkata, West Bengal, India",,4,14,40,65.0,411,Datasets Expert
+"Aarhus, Denmark",1.0,10,27,124,44.0,412,Datasets Expert
+"Lucknow, Uttar Pradesh, India",5.0,8,21,65,298.0,414,Datasets Expert
+"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,4,18,240,371.0,415,Notebooks Master
+"Mumbai, Maharashtra, India",1.0,7,15,255,62.0,403,Datasets Expert
+"Orlando, Florida, United States",,7,10,9,182.0,416,Datasets Expert
+"Rajkot, Gujarat, India",6.0,35,14,122,258.0,417,Datasets Expert
+"Bhopal, Madhya Pradesh, India",,5,12,34,230.0,420,Datasets Expert
+"Kolkata, West Bengal, India",1.0,3,18,137,369.0,421,Notebooks Master
+"İstanbul, İstanbul, Turkey",1.0,5,9,263,,407,Datasets Expert
+,,7,11,2,401.0,422,Datasets Expert
+"Battle Mountain, Nevada, United States",42.0,6,50,"1,591",400.0,423,Notebooks Master
+"Bengaluru, Karnataka, India",,7,38,71,22.0,424,Datasets Expert
+"Kolkata, West Bengal, India",3.0,13,39,228,205.0,436,Datasets Expert
+"Suwon-si, Gyeonggi-do, South Korea",5.0,3,15,425,265.0,426,Notebooks Master
+,1.0,4,8,27,362.0,428,Datasets Expert
+"Madurai, Tamil Nadu, India",51.0,15,61.0,666.0,341.0,429,Notebooks Master
+"Mumbai, Maharashtra, India",2.0,7,,7.0,347.0,430,Datasets Expert
+"Seoul, Seoul, South Korea",18.0,9,5.0,55.0,387.0,431,Datasets Expert
+"Jodhpur, Rajasthan, India",,11,11.0,40.0,423.0,444,Datasets Expert
+,,10,,,362.0,432,Datasets Expert
+"Osaka, Osaka, Japan",,14,22.0,219.0,412.0,419,Datasets Expert
+"Nanchong, Sichuan, China",2.0,14,,3.0,239.0,448,Datasets Expert
+"Tokyo, Tokyo, Japan",35.0,20,111.0,271.0,205.0,434,Notebooks Master
+"London, England, United Kingdom",34.0,3,103.0,379.0,29.0,435,Notebooks Master
+"Seoul, Seoul, South Korea",16.0,6,90.0,654.0,195.0,437,Notebooks Grandmaster
+"Bordeaux, Nouvelle-Aquitaine, France",1.0,13,19.0,5.0,237.0,427,Datasets Expert
+"Budapest, Hungary",28.0,62,35.0,175.0,304.0,439,Notebooks Master
+"Athens, Greece",,3,7.0,516.0,68.0,441,Datasets Expert
+"Navi Mumbai, Maharashtra, India",31.0,9,53.0,538.0,321.0,442,Notebooks Grandmaster
+"Seoul, Seoul, South Korea",47.0,39,809.0,8.0,179.0,443,Datasets Expert
+"Seoul, Seoul, South Korea",1.0,9,18.0,43.0,274.0,433,Datasets Expert
+"Hafizabad, Punjab, Pakistan",8.0,4,12.0,271.0,421.0,446,Datasets Expert
+"Bengaluru, Karnataka, India",,10,12.0,105.0,208.0,449,Datasets Expert
+"Rome, Lazio, Italy",6.0,5,3.0,76.0,188.0,450,Datasets Expert
+"College Park, Maryland, United States",4.0,21,45.0,138.0,411.0,462,Competitions Expert
+"Sofia, Sofia City Province, Bulgaria",2.0,7,2.0,123.0,326.0,451,Datasets Expert
+"Austin, Texas, United States",7.0,9,28,139,299.0,452,Datasets Expert
+"Nijmegen, Gelderland, Netherlands",21.0,64,46,160,205.0,440,Notebooks Master
+"Ahmedabad, Gujarat, India",,10,2,9,388.0,453,Datasets Expert
+"Gassaway, West Virginia, United States",36.0,17,42,338,227.0,465,Notebooks Master
+"Nanded, Maharashtra, India",17.0,50,4,336,363.0,454,Competitions Expert
+"Gurugram, Haryana, India",,11,70,41,295.0,455,Datasets Expert
+"Pune, Maharashtra, India",,10,,5,356.0,456,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",,9,8,42,184.0,457,Datasets Expert
+"Chennai, Tamil Nadu, India",2.0,6,20,429,259.0,467,Datasets Expert
+"Coimbatore, Tamil Nadu, India",7.0,4,12,121,395.0,445,Datasets Expert
+"Raipur, Chhattisgarh, India",,3,2,5,436.0,458,Datasets Expert
+"Chennai, Tamil Nadu, India",1.0,17,20,26,187.0,469,Datasets Expert
+"Nagpur, Maharashtra, India",,8,,5,400.0,459,Datasets Expert
+"Indore, Madhya Pradesh, India",,3,11,26,445.0,447,Datasets Expert
+,,8,,,34.0,461,Datasets Expert
+"Paris, Île-de-France, France",61.0,67,45,820,151.0,473,Competitions Grandmaster
+"Greater Noida, Uttar Pradesh, India",2.0,11,21,57,,438,Datasets Expert
+"Gurugram, Haryana, India",4.0,10,4,206,218.0,464,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",90.0,32,62,132,145.0,466,Competitions Expert
+,,7,15,274,190.0,468,Datasets Expert
+"Karachi, Sindh, Pakistan",1.0,4,16,193,466.0,470,Datasets Expert
+"Lucknow, Uttar Pradesh, India",77.0,10,37,993,226.0,483,Competitions Expert
+"Dhaka, Dhaka Division, Bangladesh",2.0,7,5,253,36.0,463,Datasets Expert
+"Amsterdam, North Holland, Netherlands",11.0,4,2,4,412.0,474,Datasets Expert
+"New Delhi, Delhi, India",,4,15,3,387.0,475,Datasets Expert
+"Pune, Maharashtra, India",1.0,4,10,92,377.0,476,Datasets Expert
+"Chicago, Illinois, United States",6.0,21,62,491,89.0,477,Datasets Expert
+"Ahmedabad, Gujarat, India",3.0,3,2,38,288.0,478,Datasets Expert
+"Tiruppur, Tamil Nadu, India",1.0,4,3,8,467.0,479,Datasets Expert
+"Ottawa, Ontario, Canada",,6,5,29,360.0,480,Datasets Expert
+"Atlanta, Georgia, United States",18.0,5,11,10,236.0,481,Datasets Expert
+,1.0,10,,5,242.0,482,Datasets Expert
+"Hyderabad, Telangana, India",6.0,11,20,90,470.0,472,Datasets Expert
+"Pune, Maharashtra, India",1.0,4,29,21,370.0,484,Datasets Expert
+"Varanasi, Uttar Pradesh, India",1.0,11,16,9,45.0,485,Datasets Expert
+"Mumbai, Maharashtra, India",4.0,5,14,207,406.0,486,Datasets Expert
+"Chennai, Tamil Nadu, India",,5,5,277,34.0,487,Datasets Master
+"Ankara, Ankara, Turkey",2.0,7,13,147,422.0,488,Datasets Expert
+"Thiruvananthapuram, Kerala, India",1.0,4,9,74,204.0,489,Datasets Expert
+"6th of October City, Giza Governorate, Egypt",13.0,12,95,"1,545",196.0,507,Notebooks Master
+,,5,12,6,384.0,490,Datasets Expert
+"Moscow, Russia",4.0,4,2,20,484.0,491,Datasets Expert
+"São Paulo, State of São Paulo, Brazil",,16,7,,368.0,492,Datasets Expert
+Jammu,13.0,6,33,168,329.0,493,Datasets Expert
+"Bengaluru, Karnataka, India",,7,5,9,299.0,494,Datasets Expert
+,1.0,5,17,40,492.0,495,Datasets Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,8,12,59,196.0,496,Datasets Expert
+"Kolkata, West Bengal, India",1.0,5,10,146,472.0,497,Datasets Expert
+"Kolkata, West Bengal, India",,10,14,16,429.0,498,Datasets Expert
+"Sydney, New South Wales, Australia",2.0,12,13,43,277.0,499,Datasets Expert
+"Nakhon Ratchasima, Thailand",31.0,80,35,838,73.0,500,Notebooks Master
+"Moradabad, Uttar Pradesh, India",11.0,8,87,46,381.0,501,Datasets Expert
+"Charlotte, North Carolina, United States",,3,17,487,278.0,502,Notebooks Master
+"New Delhi, Delhi, India",,4,13,60,125.0,518,Datasets Expert
+"Kanpur, Uttar Pradesh, India",13.0,7,27,778,57.0,519,Notebooks Master
+"Los Angeles, California, United States",3.0,7,9,179,272.0,503,Datasets Expert
+"Bengaluru, Karnataka, India",,8,14,367,325.0,504,Datasets Expert
+"Santiago, Santiago Metropolitan Region, Chile",2.0,6,5,10,429.0,522,Datasets Expert
+"Rawalpindi, Punjab, Pakistan",1.0,5,8,91,442.0,505,Datasets Expert
+"Tehran, Tehran Province, Iran",,5,44,"1,079",115.0,506,Notebooks Master
+"Sadiqabad, Punjab, Pakistan",2.0,7,39,297,78.0,508,Datasets Expert
+"Haldwani, Uttarakhand, India",13.0,13,16,188,421.0,509,Datasets Expert
+"Portland, Oregon, United States",2.0,3,3,27,279.0,510,Datasets Expert
+"Bengaluru, Karnataka, India",2.0,4,14,155,,460,Datasets Expert
+"Budapest, Hungary",81.0,15,78,714,16.0,512,Competitions Grandmaster
+"Bengaluru, Karnataka, India",39.0,13,98,315,52.0,513,Competitions Expert
+"Santiago, Santiago Metropolitan Region, Chile",57.0,92,63,596,90.0,514,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",2.0,7,8,205,53.0,530,Datasets Expert
+"Gothenburg, Västra Götaland County, Sweden",1.0,4,,3,206.0,515,Datasets Expert
+"Irvine, California, United States",1.0,21,22,14,39.0,516,Datasets Expert
+"New Delhi, Delhi, India",4.0,7,32,44,239.0,517,Datasets Expert
+"Lucknow, Uttar Pradesh, India",,4,9,47,249.0,520,Datasets Expert
+"Coimbatore, Tamil Nadu, India",1.0,4,3,19,277.0,521,Datasets Expert
+"Tunis, Tunis, Tunisia",1.0,13,17,143,297.0,535,Datasets Expert
+"Hawally, Hawalli Governorate, Kuwait",17.0,25,87,315,176.0,523,Notebooks Grandmaster
+"Meerut, Uttar Pradesh, India",7.0,14,27,81,350.0,524,Datasets Expert
+"Ludhiana, Punjab, India",,6,5,254,353.0,525,Datasets Expert
+"Ankara, Ankara, Turkey",3.0,3,14,10,516.0,526,Datasets Expert
+,,3,22,141,454.0,527,Notebooks Master
+"Tabriz, East Azerbaijan Province, Iran",,4,14,166,,471,Datasets Expert
+"Srikakulam, Andhra Pradesh, India",3.0,5,6,96,527.0,528,Datasets Expert
+,,3,19,"1,680",124.0,529,Notebooks Grandmaster
+"Kyiv, Ukraine",10.0,8,15,13,252.0,531,Datasets Expert
+,,9,2,2,383.0,532,Datasets Expert
+"İstanbul, Istanbul, Turkey",4.0,17,51,281,233.0,533,Datasets Expert
+"Burhanpur, Madhya Pradesh, India",1.0,4,29,288,524.0,534,Datasets Expert
+"Bengaluru, Karnataka, India",,8,12,10,186.0,549,Datasets Expert
+,3.0,8,5,58,409.0,536,Datasets Expert
+"Nagpur, Maharashtra, India",,7,1,16,304.0,537,Datasets Expert
+"Bogor, West Java, Indonesia",14.0,4,29,402,209.0,538,Datasets Expert
+"Kolkata, West Bengal, India",3.0,5,17,18,351.0,539,Datasets Expert
+,,10,28,18,228.0,540,Datasets Expert
+"Thiruvananthapuram, Kerala, India",,3,6,44,359.0,541,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",,3,7,122,538.0,543,Datasets Expert
+"Rome, Lazio, Italy",46.0,18,40,180,445.0,544,Competitions Master
+"Los Angeles, California, United States",21.0,10,35,156,515.0,545,Competitions Expert
+"Bengaluru, Karnataka, India",10.0,5,98,62,129.0,546,Notebooks Master
+"Delhi, Delhi, India",13.0,6,34,232,543.0,547,Datasets Expert
+"Paris, Île-de-France, France",137.0,20,29,435,36.0,557,Notebooks Master
+"Chennai, Tamil Nadu, India",,8,14,17,408.0,548,Datasets Expert
+"Jaipur, Rajasthan, India",7.0,24,26,242,349.0,562,Competitions Expert
+"Hyderabad, Telangana, India",,5,,138,227.0,566,Datasets Expert
+"Zhuhai, Guangdong Province, China",5.0,9,12,8,477.0,550,Competitions Expert
+,,6,11,241,187.0,551,Notebooks Master
+,6.0,6,11,158,425.0,552,Datasets Expert
+"Seoul, Seoul, South Korea",2.0,17,,2,32.0,553,Datasets Expert
+"London, England, United Kingdom",1.0,3,5,35,146.0,554,Datasets Expert
+"Munich, Bavaria, Germany",65.0,21,38,"1,070",31.0,555,Competitions Grandmaster
+,4.0,5,7,63,106.0,556,Datasets Expert
+"Bengaluru, Karnataka, India",9.0,17,78,619,172.0,559,Datasets Expert
+"Kazan, Republic of Tatarstan, Russia",,5,12,9,505.0,577,Datasets Expert
+"Bengaluru, Karnataka, India",,6,13,71,62.0,560,Datasets Expert
+"Kolkata, West Bengal, India",,4,6,9,414.0,561,Datasets Expert
+"Mumbai, Maharashtra, India",,7,5,40,123.0,563,Datasets Expert
+"Mumbai, Maharashtra, India",12.0,7,24,383,188.0,564,Notebooks Master
+"Kafr El-Shaikh, Gharbia Governorate, Egypt",1.0,6,32,658,392.0,565,Notebooks Master
+"Feni, Chittagong Division, Bangladesh",8.0,21,1,5,473.0,568,Datasets Expert
+,9.0,10,9,130,400.0,583,Datasets Expert
+"Nagpur, Maharashtra, India",,5,1,1,455.0,569,Datasets Expert
+,,3,8,160,440.0,570,Datasets Expert
+"Pune, Maharashtra, India",2.0,5,7,41,507.0,571,Datasets Expert
+,1.0,5,5,4,484.0,572,Datasets Expert
+"Bhilai, Chhattisgarh, India",2.0,4,7,19,454.0,590,Datasets Expert
+"London, England, United Kingdom",3.0,6,20,54,,542,Datasets Expert
+"Barcelona, Catalonia, Spain",,8,17,889,16.0,573,Notebooks Grandmaster
+"Pune, Maharashtra, India",1.0,7,7,11,547.0,574,Datasets Expert
+"Moscow, Russia",3.0,12,11,13,132.0,575,Datasets Expert
+"Vadodara, Gujarat, India",17.0,48,44,123,258.0,576,Notebooks Master
+"Mangalore, Karnataka, India",27.0,5,12,182,103.0,578,Notebooks Master
+"Karachi, Sindh, Pakistan",1.0,4,2,3,307.0,579,Datasets Expert
+"Surat, Gujarat, India",1.0,6,16,615,92.0,580,Notebooks Master
+"Amaravati, Andhra Pradesh, India",1.0,6,15,379,272.0,581,Datasets Expert
+"Montevideo, Montevideo Department, Uruguay",2.0,8,17,37,562.0,567,Datasets Expert
+"Moscow, Russia",1.0,4,3,60,278.0,582,Datasets Expert
+"Naya Raipur, Chhattisgarh, India",2.0,6,6,18,370.0,584,Datasets Expert
+"Khulna, Khulna Division, Bangladesh",10.0,5,9,47,274.0,585,Datasets Expert
+,,3,3,85,398.0,586,Datasets Expert
+"London, England, United Kingdom",1.0,5,22,200,461.0,587,Datasets Expert
+"Parma, Emilia-Romagna, Italy",1.0,4,7,22,584.0,588,Datasets Expert
+,2.0,5,6,3,300.0,589,Datasets Expert
+,,3,8,104,454.0,591,Datasets Expert
+"İstanbul, İstanbul, Turkey",,3,4,18,482.0,592,Datasets Expert
+,1.0,8,22,8,382.0,593,Datasets Expert
+,,6,7,8,583.0,594,Datasets Expert
+"Boston, Massachusetts, United States",23.0,36,3,198,212.0,616,Competitions Grandmaster
+,,4,4,5,518.0,617,Datasets Expert
+"Kharkiv, Kharkiv Oblast, Ukraine",44.0,5,55,356,150.0,595,Notebooks Grandmaster
+"Mumbai, Maharashtra, India",1.0,13,20,121,529.0,596,Datasets Expert
+"Anyang, Gyeonggi-do, South Korea",30.0,24,7,49,361.0,597,Competitions Expert
+"Chennai, Tamil Nadu, India",6.0,6,6,326,66.0,598,Datasets Expert
+"Minsk, Minsk Region, Belarus",43.0,74,53,135,53.0,599,Notebooks Master
+"Mumbai, Maharashtra, India",7.0,19,27,182,90.0,600,Notebooks Master
+"Tokyo, Tokyo, Japan",31.0,66,41,418,135.0,601,Competitions Grandmaster
+"Shanghai, Shanghai, China",10.0,6,11,26,596.0,602,Competitions Expert
+"New Delhi, Delhi, India",9.0,14,186,74,267.0,603,Datasets Expert
+"Phagwara, Punjab, India",1.0,5,19,459,43.0,604,Datasets Expert
+"Surabaya, East Java, Indonesia",13.0,6,5,91,591.0,605,Datasets Expert
+"Kyiv, Ukraine",,7,2,14,583.0,622,Datasets Expert
+"İstanbul, İstanbul, Turkey",17.0,5,13,567,595.0,606,Notebooks Master
+"Pune, Maharashtra, India",1.0,4,8,61,476.0,607,Datasets Expert
+"Mumbai, Maharashtra, India",4.0,4,20,42,515.0,608,Datasets Expert
+"Jaipur, Rajasthan, India",1.0,4,4,9,527.0,631,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",1.0,5,7,60,504.0,634,Datasets Expert
+,,3,,67,409.0,609,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",2.0,15,23,81,441.0,610,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",1.0,8,18,41,597.0,611,Datasets Expert
+"Amman, Amman Governorate, Jordan",12.0,6,20,206,455.0,612,Datasets Expert
+"Hangzhou, Zhejiang, China",5.0,6,14,89,372.0,613,Datasets Expert
+"New York, New York, United States",12.0,5,5,1,35.0,614,Datasets Expert
+France,84.0,15,58,"9,737",94.0,615,Competitions Grandmaster
+"Vijayawada, Andhra Pradesh, India",6.0,6,23,209,415.0,618,Datasets Expert
+"Eindhoven, North Brabant, Netherlands",36.0,8,25,821,45.0,619,Notebooks Master
+"Canterbury, England, United Kingdom",5.0,288,"1,003",205,38.0,620,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",2.0,5,5,4,446.0,645,Datasets Expert
+"Mumbai, Maharashtra, India",2.0,4,10,371,148.0,621,Datasets Expert
+"Tunis, Tunis, Tunisia",,35,106,561,73.0,623,Notebooks Master
+"Baku, Azerbaijan",,14,13,462,269.0,624,Notebooks Master
+"Bristol, England, United Kingdom",1.0,4,10,163,83.0,647,Datasets Expert
+"Gurugram, Haryana, India",92.0,93,41,690,187.0,625,Competitions Master
+"Chennai, Tamil Nadu, India",4.0,4,16,179,206.0,626,Datasets Expert
+"Milan, Lombardy, Italy",1.0,3,1,2,615.0,627,Datasets Expert
+,6.0,4,11,3,616.0,628,Datasets Expert
+"Mumbai, Maharashtra, India",,5,6,41,513.0,629,Datasets Expert
+"Nagpur, Maharashtra, India",,8,13,69,168.0,630,Datasets Expert
+"Kolkata, West Bengal, India",20.0,10,39,405,170.0,632,Notebooks Master
+"Prayagraj, Uttar Pradesh, India",4.0,9,19,514,538.0,635,Datasets Expert
+"Tiruppur, Tamil Nadu, India",,4,7,91,233.0,636,Datasets Expert
+"Minneapolis, Minnesota, United States",,18,,1,195.0,638,Datasets Expert
+"Jaipur, Rajasthan, India",11.0,5,3,93,635.0,639,Competitions Expert
+"Rajkot, Gujarat, India",2.0,4,3,30,465.0,640,Datasets Expert
+"Tehran, Tehran Province, Iran",,12,14,18,637.0,641,Datasets Expert
+"Faridabad, Haryana, India",15.0,4,11,25,529.0,642,Datasets Expert
+"Curitiba, State of Paraná, Brazil",22.0,83,41,152,357.0,643,Notebooks Master
+"Cairo, Cairo Governorate, Egypt",52.0,7,7,302,166.0,644,Competitions Expert
+"Bengaluru, Karnataka, India",73.0,4,5,229,,558,Competitions Expert
+"Mumbai, Maharashtra, India",18.0,3,12,70,483.0,646,Datasets Expert
+"Howrah, West Bengal, India",5.0,4,9,50,458.0,648,Datasets Expert
+"Brussels, Brussels, Belgium",19.0,87,13,273,187.0,664,Notebooks Master
+"Pau, Nouvelle-Aquitaine, France",,9,11,3,375.0,649,Datasets Expert
+"Dehradun, Uttarakhand, India",,4,7,18,494.0,650,Datasets Expert
+"Thiruvananthapuram, Kerala, India",,3,13,190,150.0,651,Datasets Expert
+"Vadodara, Gujarat, India",14.0,7,21,372,275.0,652,Datasets Expert
+,5.0,4,9,8,228.0,637,Datasets Expert
+"Mirandópolis, State of São Paulo, Brazil",2.0,8,16,45,414.0,653,Datasets Expert
+,,7,4,3,511.0,654,Datasets Expert
+"Ahmedabad, Gujarat, India",,9,2,6,264.0,655,Datasets Expert
+,,5,9,171,560.0,656,Datasets Expert
+,13.0,5,6,48,529.0,657,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",1.0,5,7,57,654.0,658,Datasets Expert
+,2.0,6,9,7,439.0,659,Datasets Expert
+"San Diego, California, United States",2.0,5,1,6,118.0,669,Datasets Expert
+"Jersey City, New Jersey, United States",1.0,3,5,32,452.0,660,Datasets Expert
+"İstanbul, Istanbul, Turkey",2.0,14,12,47,64.0,676,Datasets Expert
+"Paris, Île-de-France, France",31.0,13,23,215,98.0,661,Competitions Master
+"Casteldelfino, Piedmont, Italy",1.0,19,14,67,660.0,662,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",,7,35,37,661.0,663,Datasets Expert
+"Beijing, Beijing, China",30.0,4,1,2,308.0,684,Datasets Expert
+"Brisbane, Queensland, Australia",19.0,7,28,320,30.0,666,Competitions Grandmaster
+,83.0,12,96,449,397.0,667,Competitions Master
+"Tel Aviv-Yafo, Tel Aviv District, Israel",7.0,7,43,51,83.0,668,Datasets Expert
+"Tokyo, Tokyo, Japan",16.0,17,41,623,81.0,670,Notebooks Grandmaster
+"Warsaw, Masovian Voivodeship, Poland",30.0,15,64,409,252.0,671,Competitions Master
+,,3,2,,417.0,672,Datasets Expert
+"Oslo, Oslo, Norway",9.0,31,46,222,277.0,673,Datasets Expert
+"Amsterdam, North Holland, Netherlands",2.0,8,42,744,159.0,675,Notebooks Master
+"Mumbai, Maharashtra, India",,5,5,177,110.0,677,Datasets Expert
+,1.0,22,,6,645.0,678,Datasets Expert
+"Thane, Maharashtra, India",8.0,7,33,369,101.0,679,Notebooks Master
+"Melbourne, Victoria, Australia",3.0,101,8,2,646.0,680,Datasets Expert
+"Bareilly, Uttar Pradesh, India",,3,1,7,214.0,697,Datasets Expert
+"Boston, Massachusetts, United States",13.0,5,20,379,68.0,681,Notebooks Master
+Katra,2.0,7,10,74,290.0,682,Datasets Expert
+"Thane, Maharashtra, India",3.0,6,,17,326.0,683,Datasets Expert
+"Chennai, Tamil Nadu, India",3.0,5,8,37,392.0,685,Datasets Expert
+"Mumbai, Maharashtra, India",4.0,4,5,5,673.0,686,Datasets Expert
+"Gujrat, Punjab, Pakistan",,7,20,36,198.0,687,Datasets Expert
+"Polatsk, Vitebsk Region, Belarus",32.0,8,68,904,326.0,688,Notebooks Master
+"Mumbai, Maharashtra, India",1.0,4,8,25,314.0,689,Datasets Expert
+"Peravali, Andhra Pradesh, India",,3,14,375,678.0,690,Notebooks Master
+"Surat, Gujarat, India",5.0,3,8,16,684.0,691,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",1.0,3,6.0,67,644.0,692,Datasets Expert
+"Taxila, Punjab, Pakistan",1.0,9,4.0,11,510.0,511,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",89.0,13,100.0,"1,630",22.0,694,Notebooks Grandmaster
+"Chennai, Tamil Nadu, India",10.0,14,6.0,95,167.0,695,Competitions Expert
+"Bandung, West Java, Indonesia",109.0,22,69.0,400,153.0,696,Notebooks Master
+"Riga, Latvia",9.0,14,26.0,36,112.0,674,Datasets Expert
+"Vladivostok, Primorsky Krai, Russia",5.0,5,4.0,3,599.0,719,Datasets Expert
+"Thane, Maharashtra, India",17.0,7,6.0,21,224.0,698,Competitions Expert
+"Mumbai, Maharashtra, India",1.0,4,5.0,4,203.0,699,Datasets Expert
+,1.0,8,,1,299.0,700,Datasets Expert
+"Ernakulam, Kerala, India",,5,8.0,87,261.0,701,Datasets Expert
+"Vadodara, Gujarat, India",,6,13.0,63,650.0,702,Datasets Expert
+"Munich, Bavaria, Germany",,3,3.0,1,584.0,703,Datasets Expert
+"Palo Alto, California, United States",2.0,4,3.0,188,367.0,704,Datasets Expert
+"Monterrey, Nuevo Leon, Mexico",,5,,19,477.0,705,Datasets Expert
+"Pune, Maharashtra, India",2.0,4,5.0,7,515.0,706,Datasets Expert
+,,5,6.0,133,703.0,707,Datasets Expert
+,2.0,6,10.0,29,554.0,708,Datasets Expert
+,3.0,6,8.0,47,410.0,709,Datasets Expert
+"Bengaluru, Karnataka, India",2.0,28,,1,230.0,710,Datasets Expert
+"Hsinchu, Taiwan",68.0,84,23.0,275,131.0,711,Competitions Grandmaster
+"Miami, Florida, United States",3.0,8,11.0,394,55.0,712,Notebooks Master
+"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,10.0,301,682.0,713,Datasets Expert
+"Saint Petersburg, Russia",2.0,16,9.0,82,95.0,714,Datasets Expert
+"Saharanpur, Uttar Pradesh, India",2.0,6,65.0,216,555.0,715,Datasets Expert
+"Sofia, Sofia City Province, Bulgaria",13.0,3,17.0,47,599.0,716,Datasets Expert
+,18.0,16,66.0,583,199.0,717,Notebooks Grandmaster
+"Putrajaya, Putrajaya, Malaysia",2.0,8,5.0,285,191.0,718,Datasets Expert
+"Bengaluru, Karnataka, India",10.0,13,18.0,78,125.0,720,Datasets Expert
+"Gurugram, Haryana, India",17.0,27,29.0,458,112.0,737,Notebooks Master
+"Ahmedabad, Gujarat, India",,3,15.0,209,592.0,721,Datasets Expert
+"Karachi, Sindh, Pakistan",2.0,4,9.0,115,718.0,722,Datasets Expert
+"Edmonton, Alberta, Canada",1.0,3,3.0,189,369.0,723,Datasets Expert
+"Antalya, Antalya, Turkey",,5,3.0,17,449.0,724,Datasets Expert
+"Majitar, Sikkim, India",5.0,5,50.0,714,251.0,633,Notebooks Master
+,7.0,3,2.0,22,592.0,725,Datasets Expert
+,,5,,,189.0,726,Datasets Expert
+"Durgapur, West Bengal, India",1.0,12,24.0,33,276.0,747,Datasets Expert
+"San Mateo, California, United States",,5,4.0,1,482.0,727,Datasets Expert
+,8.0,4,13.0,209,400.0,728,Datasets Expert
+,3.0,5,8.0,204,573.0,729,Datasets Expert
+,,3,7.0,161,640.0,730,Datasets Expert
+"Philadelphia, Pennsylvania, United States",3.0,10,186.0,155,22.0,751,Datasets Expert
+"Delhi, Delhi, India",8.0,7,39.0,230,551.0,732,Datasets Expert
+"Singapore, Singapore",114.0,195,60.0,481,80.0,733,Notebooks Grandmaster
+"Hamburg, Hamburg, Germany",9.0,4,,3,502.0,734,Datasets Expert
+,,10,19.0,147,573.0,735,Datasets Expert
+"Rajkot, Gujarat, India",3.0,6,13.0,27,113.0,768,Datasets Expert
+,,4,4.0,4,651.0,736,Datasets Expert
+"Amsterdam, North Holland, Netherlands",2.0,5,3.0,3,496.0,770,Datasets Expert
+"Theni, Tamil Nadu, India",26.0,5,45.0,149,565.0,738,Datasets Expert
+"Guwahati, Assam, India",8.0,5,12.0,35,248.0,739,Datasets Expert
+"Bengaluru, Karnataka, India",,5,5.0,765,143.0,740,Datasets Expert
+"Kochi, Kerala, India",,3,2.0,120,219.0,741,Datasets Expert
+"Florence, Tuscany, Italy",7.0,3,22.0,136,739.0,742,Notebooks Master
+"Mumbai, Maharashtra, India",1.0,9,14.0,8,492.0,743,Datasets Expert
+"Bengaluru, Karnataka, India",11.0,36,33.0,109,169.0,744,Notebooks Master
+"Agadir, Souss-Massa, Morocco",8.0,24,10.0,119,520.0,745,Datasets Expert
+"Damanhour, El Beheira Governorate, Egypt",3.0,4,16.0,88,383.0,746,Datasets Expert
+"Ibadan, Oyo, Nigeria",1.0,5,7.0,5,715.0,786,Datasets Expert
+,,6,,,510.0,748,Datasets Expert
+"Tianjin, Tianjin, China",6.0,6,17.0,36,,693,Datasets Expert
+"Verona, Veneto, Italy",226.0,6,87.0,901,372.0,749,Discussion Grandmaster
+"Los Angeles, California, United States",110.0,15,30.0,166,160.0,750,Competitions Master
+"Yogyakarta, Special Region of Yogyakarta, Indonesia",,7,6.0,14,288.0,752,Datasets Expert
+"London, England, United Kingdom",,4,22.0,210,548.0,753,Datasets Expert
+"Singapore, Singapore",43.0,22,44.0,155,220.0,754,Datasets Expert
+"Chennai, Tamil Nadu, India",,3,2.0,10,212.0,755,Datasets Expert
+,,3,4.0,17,588.0,798,Datasets Expert
+"Neyveli, Tamil Nadu, India",4.0,8,11.0,90,256.0,756,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",,5,7.0,4,756.0,758,Datasets Expert
+"New York, New York, United States",17.0,7,23.0,530,442.0,759,Notebooks Master
+"Seoul, Seoul, South Korea",6.0,9,7.0,13,55.0,761,Datasets Expert
+"Gurugram, Haryana, India",14.0,14,16.0,66,218.0,762,Datasets Expert
+"California City, California, United States",42.0,33,30.0,695,148.0,763,Notebooks Grandmaster
+"London, England, United Kingdom",20.0,9,17.0,112,474.0,764,Notebooks Master
+"Bengaluru, Karnataka, India",1.0,5,7.0,91,206.0,765,Datasets Expert
+"Hyderabad, Telangana, India",2.0,30,64.0,608,313.0,766,Notebooks Master
+,12.0,4,48.0,502,60.0,767,Notebooks Master
+"Antalya, Antalya, Turkey",26.0,9,17.0,40,444.0,769,Datasets Expert
+"İstanbul, İstanbul, Turkey",3.0,26,11.0,306,17.0,772,Datasets Expert
+"Calgary, Alberta, Canada",12.0,8,10.0,284,146.0,773,Competitions Expert
+"Kharagpur, West Bengal, India",14.0,11,40.0,217,154.0,774,Datasets Expert
+,,9,,,246.0,775,Datasets Expert
+"Portland, Oregon, United States",,6,5.0,17,383.0,776,Datasets Expert
+,,3,8.0,36,443.0,777,Datasets Expert
+"Cheruvathur, Kerala, India",,6,7.0,23,200.0,778,Datasets Expert
+"Guwahati, Assam, India",1.0,4,13.0,103,723.0,779,Datasets Expert
+"Shanghai, Shanghai, China",1.0,3,1.0,2,738.0,780,Datasets Expert
+"Thane, Maharashtra, India",1.0,5,7.0,8,367.0,782,Datasets Expert
+,1.0,3,6.0,12,442.0,783,Datasets Expert
+,,5,19.0,4,673.0,784,Datasets Expert
+"Sydney, New South Wales, Australia",,5,2.0,2,476.0,785,Datasets Expert
+"Ahmedabad, Gujarat, India",,4,3.0,5,456.0,787,Datasets Expert
+"Cincinnati, Ohio, United States",,5,,3,562.0,788,Datasets Expert
+"Hyderabad, Telangana, India",2.0,7,18.0,"1,293",582.0,789,Datasets Expert
+"Sanford, North Carolina, United States",,5,7.0,2,423.0,790,Datasets Expert
+"Clovis, California, United States",6.0,5,7.0,29,146.0,791,Datasets Expert
+,10.0,8,27.0,693,414.0,792,Notebooks Master
+"York, England, United Kingdom",3.0,12,59.0,85,41.0,793,Datasets Expert
+"San Jose, California, United States",4.0,3,6.0,253,528.0,794,Datasets Expert
+"Austin, Texas, United States",,9,,23,28.0,795,Datasets Expert
+"Minneapolis, Minnesota, United States",,5,,,488.0,796,Datasets Expert
+"Irving, Texas, United States",51.0,12,26.0,"1,129",303.0,797,Discussion Grandmaster
+"Guwahati, Assam, India",20.0,8,106.0,390,494.0,799,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",3.0,6,31.0,55,331.0,800,Datasets Expert
+"Tokyo, Tokyo, Japan",41.0,7,34.0,86,,757,Competitions Expert
+"Tokyo, Tokyo, Japan",151.0,20,11.0,63,,760,Competitions Expert
+"İstanbul, İstanbul, Turkey",13.0,8,33.0,90,255.0,801,Notebooks Master
+"Noida, Uttar Pradesh, India",1.0,3,18.0,235,208.0,802,Datasets Expert
+"Bengaluru, Karnataka, India",10.0,5,12.0,364,216.0,803,Datasets Expert
+"Mumbai, Maharashtra, India",1.0,4,6.0,87,206.0,771,Datasets Expert
+"Frankfurt, Hesse, Germany",11.0,5,46.0,437,129.0,804,Notebooks Master
+"Pune, Maharashtra, India",26.0,140,61.0,246,327.0,805,Competitions Expert
+"London, Ontario, Canada",1.0,5,5.0,32,252.0,806,Datasets Expert
+"Kolkata, West Bengal, India",2.0,7,25.0,49,240.0,807,Datasets Expert
+Jammu,10.0,4,13.0,118,557.0,808,Datasets Expert
+"Bengaluru, Karnataka, India",,11,16.0,181,154.0,809,Datasets Expert
+"Beijing, Beijing, China",26.0,12,11.0,82,202.0,810,Competitions Master
+"Lahore, Punjab, Pakistan",,4,1.0,5,800.0,811,Datasets Expert
+"Abu Dhabi, Abu Dhabi, United Arab Emirates",6.0,6,33.0,169,443.0,840,Datasets Expert
+"Karachi, Sindh, Pakistan",,3,7.0,689,264.0,842,Datasets Expert
+,4.0,5,4.0,6,632.0,812,Datasets Expert
+"Rourkela, Odisha, India",5.0,5,18.0,160,510.0,813,Datasets Expert
+"Houston, Texas, United States",,5,4.0,1,518.0,814,Datasets Expert
+"Jodhpur, Rajasthan, India",1.0,6,,15,437.0,815,Datasets Expert
+"Bengaluru, Karnataka, India",,8,3.0,1,777.0,816,Datasets Expert
+"Düsseldorf, North Rhine-Westphalia, Germany",1.0,4,8.0,17,669.0,817,Datasets Expert
+"Lahore, Punjab, Pakistan",,3,,1,648.0,850,Datasets Expert
+,1.0,3,4.0,141,,731,Datasets Expert
+,2.0,139,55.0,52,33.0,818,Datasets Expert
+"Chesterfield, Missouri, United States",3.0,10,19.0,20,464.0,819,Competitions Expert
+"Guildford, England, United Kingdom",76.0,5,120.0,613,19.0,820,Competitions Grandmaster
+"São Paulo, State of São Paulo, Brazil",19.0,10,12.0,193,122.0,821,Competitions Expert
+"Pune, Maharashtra, India",3.0,5,9.0,15,812.0,823,Datasets Expert
+"Ghaziabad, Uttar Pradesh, India",11.0,8,10.0,40,64.0,824,Datasets Expert
+"Barcelona, Catalonia, Spain",8.0,5,3.0,81,274.0,825,Competitions Expert
+"Paris, Île-de-France, France",23.0,74,7.0,191,78.0,826,Competitions Grandmaster
+,1.0,3,9.0,281,384.0,827,Datasets Expert
+"Saint Petersburg, Russia",16.0,3,17.0,344,82.0,828,Notebooks Master
+"Bengaluru, Karnataka, India",1.0,6,7.0,182,105.0,829,Datasets Expert
+"Medford, Massachusetts, United States",,6,,2,413.0,856,Datasets Expert
+"Vienna, Vienna, Austria",1.0,5,33.0,306,417.0,830,Datasets Expert
+,5.0,10,51.0,269,655.0,831,Datasets Expert
+"Bandung, West Java, Indonesia",,4,2.0,8,368.0,832,Datasets Expert
+"Anantapur, Andhra Pradesh, India",12.0,7,14.0,26,343.0,831,Competitions Expert
+"Hyderabad, Telangana, India",,20,30.0,8,260.0,832,Datasets Expert
+,,3,6.0,14,732.0,833,Datasets Expert
+,8.0,13,40.0,398,485.0,834,Competitions Expert
+"Pune, Maharashtra, India",1.0,8,20.0,145,121.0,835,Datasets Expert
+"Mumbai, Maharashtra, India",1.0,6,4.0,8,306.0,836,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,21.0,191,320.0,837,Datasets Expert
+"Santiago, Santiago Metropolitan Region, Chile",,15,34.0,20,403.0,839,Datasets Expert
+,2.0,3,3.0,21,668.0,841,Datasets Expert
+"New Delhi, Delhi, India",8.0,12,56.0,229,275.0,842,Datasets Expert
+"Heidelberg, Baden-Württemberg, Germany",12.0,5,20.0,315,241.0,843,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",,4,11.0,12,539.0,844,Datasets Expert
+"Chunian, Punjab, Pakistan",1.0,3,2.0,5,,778,Datasets Expert
+"Tiruppur, Tamil Nadu, India",3.0,4,8.0,107,328.0,845,Datasets Expert
+"Vijayawada, Andhra Pradesh, India",6.0,4,17.0,84,327.0,846,Datasets Expert
+,,4,8.0,3,728.0,868,Datasets Expert
+"Cologne, North Rhine-Westphalia, Germany",25.0,23,39.0,254,152.0,849,Notebooks Grandmaster
+"Dubai, Dubai, United Arab Emirates",,26,32.0,44,332.0,850,Datasets Expert
+"Shibuya City, Tokyo, Japan",,14,45.0,38,59.0,852,Datasets Expert
+"Moscow, Russia",2.0,3,,1,402.0,853,Datasets Expert
+"Munich, Bavaria, Germany",3.0,3,4.0,67,406.0,854,Datasets Expert
+"Lahore, Punjab, Pakistan",6.0,8,24.0,102,411.0,878,Datasets Expert
+"Delhi, Delhi, India",7.0,3,5.0,137,81.0,879,Competitions Expert
+"Saint Petersburg, Russia",,8,17.0,8,369.0,881,Datasets Expert
+"Navi Mumbai, Maharashtra, India",3.0,4,10.0,16,850.0,857,Datasets Expert
+"Hyderabad, Telangana, India",,7,19.0,32,353.0,858,Datasets Expert
+"Kolkata, West Bengal, India",30.0,12,5.0,15,384.0,885,Competitions Expert
+"Tehran, Tehran Province, Iran",1.0,4,4.0,31,694.0,859,Datasets Expert
+"Karachi, Sindh, Pakistan",,6,11.0,6,446.0,860,Datasets Expert
+"Thiruvananthapuram, Kerala, India",,13,2.0,8,202.0,889,Datasets Expert
+"Charlotte, North Carolina, United States",1.0,8,33.0,24,825.0,861,Datasets Expert
+,,8,8.0,29,70.0,862,Datasets Expert
+"Surat, Gujarat, India",,3,4.0,28,387.0,863,Datasets Expert
+"Tehran, Tehran Province, Iran",1.0,3,2.0,1,657.0,864,Datasets Expert
+"Meta, Missouri, United States",15.0,33,55.0,104,295.0,865,Datasets Expert
+"Daejeon, Daejeon, South Korea",9.0,5,26.0,277,494.0,866,Datasets Expert
+"Moscow, Russia",17.0,5,6.0,18,649.0,896,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",,4,11.0,49,829.0,897,Datasets Expert
+,15.0,4,10.0,180,395.0,867,Datasets Expert
+"Kolkata, West Bengal, India",1.0,3,11.0,21,389.0,898,Datasets Expert
+"El Jem, Mahdia, Tunisia",2.0,6,31.0,214,493.0,900,Datasets Expert
+"Dortmund, North Rhine-Westphalia, Germany",,3,2.0,2,542.0,869,Datasets Expert
+"Kolkata, West Bengal, India",,3,16.0,59,,870,Datasets Expert
+"Melbourne, Victoria, Australia",23.0,3,9.0,101,412.0,871,Competitions Grandmaster
+Taiwan,70.0,16,15.0,143,286.0,872,Competitions Master
+Japan,47.0,99,41.0,119,418.0,873,Competitions Grandmaster
+"Beirut, Beirut Governorate, Lebanon",5.0,4,41.0,"1,180",321.0,874,Notebooks Master
+"Montreal, Quebec, Canada",6.0,8,17.0,70,34.0,820,Datasets Expert
+"Istanbul, Istanbul, Turkey",,6,8.0,143,139.0,875,Datasets Expert
+"Colombo, Western Province, Sri Lanka",1.0,4,1.0,3,676.0,876,Datasets Expert
+"Madison, Wisconsin, United States",3.0,9,13.0,97,531.0,828,Datasets Expert
+"Pune, Maharashtra, India",4.0,13,12.0,107,238.0,877,Datasets Expert
+"Taipei, Taiwan",24.0,6,29.0,9,760.0,906,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",11.0,10,20.0,63,75.0,880,Datasets Expert
+"Mumbai, Maharashtra, India",3.0,3,9.0,188,76.0,911,Datasets Expert
+"Moscow, Russia",27.0,20,14.0,84,806.0,882,Datasets Expert
+"Bizerte, Bizerte, Tunisia",34.0,5,27.0,498,382.0,883,Notebooks Master
+"Natal, State of Rio Grande do Norte, Brazil",2.0,7,24.0,94,306.0,884,Datasets Expert
+"Kolkata, West Bengal, India",14.0,10,38.0,370,776.0,886,Competitions Expert
+"Noida, Uttar Pradesh, India",17.0,6,20.0,723,334.0,887,Notebooks Master
+"Perth, Western Australia, Australia",12.0,6,71.0,174,651.0,888,Datasets Expert
+"Mahdia, Mahdia, Tunisia",,10,45.0,139,153.0,921,Notebooks Master
+"Bengaluru, Karnataka, India",1.0,4,5.0,210,714.0,890,Datasets Expert
+"New York, New York, United States",4.0,7,8.0,186,643.0,891,Datasets Expert
+"İstanbul, İstanbul, Turkey",14.0,3,15.0,235,567.0,892,Notebooks Master
+"Córdoba, Cordoba, Argentina",14.0,3,14.0,562,454.0,893,Notebooks Master
+,,3,5.0,2,724.0,895,Datasets Expert
+"Kolkata, West Bengal, India",43.0,72,47.0,7,315.0,899,Competitions Master
+"Anand, Gujarat, India",,3,16.0,92,692.0,901,Datasets Expert
+"Taipei, Taiwan",2.0,7,18.0,14,869.0,902,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",33.0,5,51.0,138,635.0,903,Competitions Expert
+"Knoxville, Tennessee, United States",31.0,6,88.0,343,199.0,932,Notebooks Master
+"Bengaluru, Karnataka, India",9.0,4,13.0,210,107.0,904,Competitions Expert
+"Toronto, Ontario, Canada",56.0,16,52.0,406,28.0,905,Notebooks Master
+"Moscow, Russia",48.0,9,23.0,239,74.0,907,Competitions Expert
+"Coimbatore, Tamil Nadu, India",13.0,6,13.0,263,36.0,908,Notebooks Master
+"Thrissur, Kerala, India",2.0,3,7.0,48,260.0,909,Datasets Expert
+"New Delhi, Delhi, India",,4,11.0,308,102.0,910,Datasets Expert
+,1.0,11,42.0,34,555.0,912,Datasets Expert
+"Jamnagar, Gujarat, India",15.0,8,22.0,226,602.0,915,Datasets Expert
+"Wilmington, North Carolina, United States",3.0,14,30.0,287,432.0,916,Datasets Expert
+"Atlanta, Georgia, United States",20.0,24,27.0,264,214.0,917,Competitions Expert
+"Boston, Massachusetts, United States",16.0,13,63.0,288,437.0,945,Datasets Expert
+"Rourkela, Odisha, India",20.0,16,23.0,176,264.0,918,Datasets Expert
+"Paris, Île-de-France, France",,3,10.0,72,386.0,919,Notebooks Master
+"Dublin, County Dublin, Ireland",10.0,4,22.0,192,185.0,920,Datasets Expert
+"Ghaziabad, Uttar Pradesh, India",,8,26.0,40,190.0,922,Datasets Expert
+"Bengaluru, Karnataka, India",10.0,9,26.0,437,153.0,923,Notebooks Master
+"Madrid, Community of Madrid, Spain",9.0,3,18.0,58,919.0,964,Competitions Expert
+"Auckland, Auckland, New Zealand",2.0,5,22.0,88,658.0,925,Datasets Expert
+"Alexandria, Alexandria Governorate, Egypt",1.0,3,8.0,363,593.0,926,Datasets Expert
+"Tiruppur, Tamil Nadu, India",2.0,4,6.0,150,464.0,966,Datasets Expert
+,9.0,4,26.0,342,774.0,927,Notebooks Master
+"Pune, Maharashtra, India",1.0,6,25.0,197,372.0,928,Datasets Expert
+"Sivasagar, Assam, India",10.0,4,53.0,200,802.0,968,Datasets Expert
+"Almería, Andalusia, Spain",,3,1.0,1,685.0,969,Datasets Expert
+"Linz, Upper Austria, Austria",9.0,5,8.0,191,237.0,929,Competitions Expert
+"Melbourne, Victoria, Australia",,6,7.0,62,90.0,930,Datasets Expert
+"Mumbai, Maharashtra, India",14.0,4,51.0,81,884.0,931,Datasets Expert
+"Accra, Greater Accra Region, Ghana",1.0,8,15.0,4,548.0,933,Datasets Expert
+"Bengaluru, Karnataka, India",37.0,8,17.0,195,456.0,934,Datasets Expert
+"Chennai, Tamil Nadu, India",13.0,10,37.0,337,88.0,935,Datasets Expert
+"Baku, Azerbaijan",1.0,7,8.0,1,619.0,936,Datasets Expert
+"Bengaluru, Karnataka, India",1.0,3,12.0,171,519.0,937,Datasets Expert
+"Jabalpur, Madhya Pradesh, India",2.0,44,62.0,71,413.0,980,Datasets Expert
+"Hyderabad, Telangana, India",6.0,6,11.0,244,111.0,938,Datasets Expert
+"İzmit, Kocaeli, Turkey",1.0,6,27.0,180,333.0,939,Datasets Expert
+"Hosur, Tamil Nadu, India",,3,2.0,131,583.0,940,Datasets Expert
+"London, England, United Kingdom",25.0,16,55.0,"1,137",219.0,941,Notebooks Grandmaster
+"New Delhi, Delhi, India",1.0,10,27.0,46,231.0,913,Datasets Expert
+"Hong Kong, Hong Kong",3.0,5,10.0,385,561.0,942,Notebooks Master
+"Kolkata, West Bengal, India",,9,48.0,95,437.0,914,Datasets Expert
+"Belfast, Northern Ireland, United Kingdom",2.0,6,11.0,137,312.0,985,Datasets Expert
+"Madrid, Community of Madrid, Spain",8.0,4,25.0,"1,646",326.0,943,Notebooks Grandmaster
+"Jaipur, Rajasthan, India",3.0,16,37.0,31,631.0,944,Datasets Expert
+"Shimla, Himachal Pradesh, India",20.0,3,10.0,18,636.0,988,Datasets Expert
+"İstanbul, İstanbul, Turkey",29.0,70,25.0,419.0,342.0,991,Notebooks Grandmaster
+"São Paulo, State of São Paulo, Brazil",,5,5.0,91.0,109.0,947,Datasets Expert
+"Coimbatore, Tamil Nadu, India",,3,7.0,40.0,60.0,995,Datasets Expert
+"Kota, Rajasthan, India",16.0,3,16.0,563.0,591.0,948,Notebooks Master
+"Mangalore, Karnataka, India",3.0,6,2.0,9.0,369.0,949,Datasets Expert
+"Patna, Bihar, India",17.0,6,15.0,183.0,435.0,950,Notebooks Master
+"Kolkata, West Bengal, India",5.0,4,25.0,592.0,558.0,951,Notebooks Master
+"Delhi, Delhi, India",,3,10.0,164.0,349.0,952,Datasets Expert
+"Melbourne, Victoria, Australia",,14,31.0,188.0,130.0,953,Datasets Expert
+"Johannesburg, Gauteng, South Africa",,4,4.0,99.0,90.0,954,Datasets Expert
+"Chennai, Tamil Nadu, India",4.0,14,54.0,22.0,837.0,955,Datasets Expert
+"Temara, Rabat-Salé-Kénitra, Morocco",1.0,4,1.0,137.0,955.0,956,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",,4,16.0,498.0,495.0,957,Notebooks Master
+"Mumbai, Maharashtra, India",2.0,10,20.0,33.0,344.0,958,Datasets Expert
+"Kafr El-Shaikh, Gharbia Governorate, Egypt",,3,9.0,97.0,565.0,1002,Datasets Expert
+"Ranchi, Jharkhand, India",3.0,3,1.0,13.0,589.0,959,Datasets Expert
+"Taipei, Taiwan",8.0,19,59.0,171.0,180.0,961,Competitions Expert
+"Bengaluru, Karnataka, India",6.0,3,34.0,528.0,436.0,962,Notebooks Master
+"Giza, Giza Governorate, Egypt",,13,29.0,161.0,343.0,963,Datasets Expert
+,,4,9.0,28.0,639.0,965,Datasets Expert
+"Tehran, Tehran Province, Iran",,5,19.0,503.0,510.0,967,Datasets Expert
+"Kolkata, West Bengal, India",42.0,17,129.0,683.0,462.0,970,Notebooks Master
+"Mumbai, Maharashtra, India",24.0,20,50.0,217.0,98.0,971,Datasets Expert
+"Moscow, Russia",20.0,11,11.0,80.0,215.0,972,Competitions Expert
+"Dublin, County Dublin, Ireland",4.0,4,6.0,125.0,302.0,973,Competitions Expert
+"Los Angeles, California, United States",4.0,18,21.0,116.0,37.0,974,Datasets Expert
+"Palaiseau, Île-de-France, France",84.0,13,23.0,243.0,184.0,975,Competitions Master
+"Singapore, Singapore",3.0,3,3.0,4.0,727.0,976,Datasets Expert
+,,6,,,178.0,1011,Datasets Expert
+"Chennai, Tamil Nadu, India",1.0,10,9.0,18.0,106.0,977,Datasets Expert
+"Pune, Maharashtra, India",10.0,8,13.0,191.0,286.0,978,Datasets Expert
+"Ahmedabad, Gujarat, India",19.0,74,61.0,394.0,387.0,979,Datasets Expert
+"Gandhinagar, Gujarat, India",6.0,3,,53.0,333.0,981,Datasets Expert
+"Bengaluru, Karnataka, India",2.0,4,16.0,941.0,410.0,982,Datasets Expert
+"Seattle, Washington, United States",1.0,6,4.0,10.0,107.0,983,Datasets Expert
+"İstanbul, Istanbul, Turkey",12.0,5,12.0,84.0,317.0,1017,Datasets Expert
+"Gazipur, Dhaka Division, Bangladesh",22.0,17,56.0,280.0,174.0,1018,Datasets Expert
+"Setif, Sétif Province, Algeria",44.0,4,45.0,572.0,63.0,984,Notebooks Master
+"New Delhi, Delhi, India",3.0,3,12.0,332.0,231.0,986,Notebooks Master
+"Tehran, Tehran Province, Iran",,3,7.0,284.0,79.0,987,Datasets Expert
+"Yokohama, Kanagawa, Japan",56.0,29,36.0,342.0,743.0,989,Notebooks Grandmaster
+"Tunis, Tunis, Tunisia",4.0,10,13.0,359.0,124.0,990,Competitions Expert
+"Nagpur, Maharashtra, India",9.0,22,36.0,140.0,216.0,992,Datasets Expert
+"Kharagpur, West Bengal, India",,14,19.0,5.0,532.0,993,Datasets Expert
+,2.0,8,,,164.0,994,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",,4,18.0,204.0,571.0,996,Datasets Expert
+"Tehran, Tehran Province, Iran",15.0,4,24.0,173.0,406.0,997,Notebooks Master
+"Greater Noida, Uttar Pradesh, India",,6,42.0,107.0,202.0,1028,Datasets Expert
+"New Delhi, Delhi, India",,3,6.0,168.0,279.0,1029,Datasets Expert
+"Nagpur, Maharashtra, India",,6,11.0,92.0,345.0,998,Datasets Expert
+"Lima, Callao Region, Peru",13.0,6,7.0,148.0,285.0,999,Datasets Expert
+"Pune, Maharashtra, India",1.0,4,38.0,57.0,872.0,1000,Datasets Expert
+"Kazakhstan, Almaty Province, Kazakhstan",,6,,3.0,357.0,1001,Datasets Expert
+"Moscow, Russia",,3,16.0,83.0,959.0,960,Datasets Expert
+"Bhagalpur, Bihar, India",13.0,7,68.0,179.0,486.0,1003,Datasets Expert
+"Jaipur, Rajasthan, India",,5,21.0,651.0,277.0,1004,Notebooks Master
+"Lisbon, Lisbon, Portugal",,3,6.0,2.0,658.0,1005,Datasets Expert
+"Visakhapatnam, Andhra Pradesh, India",1.0,9,9.0,21.0,288.0,1006,Datasets Expert
+"Sirsa, Haryana, India",3.0,4,2.0,12.0,531.0,1007,Datasets Expert
+"Kanpur, Uttar Pradesh, India",3.0,6,16.0,80.0,445.0,1008,Datasets Expert
+"Chattogram, Chittagong Division, Bangladesh",1.0,3,3.0,16.0,839.0,1009,Datasets Expert
+"New Orleans, Louisiana, United States",,4,7.0,36.0,535.0,1046,Datasets Expert
+"Bad Berka, Thuringia, Germany",4.0,5,,194.0,166.0,1048,Competitions Expert
+"Paris, Île-de-France, France",25.0,9,5.0,92.0,205.0,1010,Competitions Expert
+"Yokohama, Kanagawa, Japan",40.0,62,68.0,183.0,453.0,1012,Competitions Master
+"Mumbai, Maharashtra, India",2.0,6,7.0,21.0,123.0,1013,Datasets Expert
+"Santiago, Santiago Metropolitan Region, Chile",3.0,3,7.0,516.0,187.0,1014,Datasets Expert
+"Hong Kong, Hong Kong",1.0,10,14.0,200.0,168.0,1015,Datasets Expert
+"İstanbul, İstanbul, Turkey",20.0,5,19.0,114.0,832.0,1016,Notebooks Master
+"Chennai, Tamil Nadu, India",37.0,14,27.0,169.0,232.0,1019,Competitions Expert
+"Mumbai, Maharashtra, India",5.0,10,33.0,489.0,357.0,1020,Datasets Expert
+"Delhi, Delhi, India",15.0,13,89.0,829.0,1010.0,1021,Notebooks Master
+"Hyderabad, Telangana, India",1.0,4,6.0,21.0,713.0,1022,Datasets Expert
+"Noida, Uttar Pradesh, India",3.0,9,10.0,278.0,147.0,1023,Datasets Expert
+"Calgary, Alberta, Canada",,4,9.0,118.0,878.0,1024,Datasets Expert
+"Kyiv, Ukraine",1.0,4,3.0,16.0,831.0,1025,Datasets Expert
+"New Delhi, Delhi, India",,11,1.0,1.0,633.0,1026,Datasets Expert
+"Kolkata, West Bengal, India",3.0,3,8.0,51.0,279.0,1027,Datasets Expert
+"Karur, Tamil Nadu, India",1.0,6,9.0,81.0,163.0,1030,Datasets Expert
+"Bhubaneswar, Odisha, India",6.0,6,10.0,119.0,355.0,1031,Datasets Expert
+"Delhi, Delhi, India",3.0,7,13.0,39.0,174.0,1032,Datasets Expert
+"Bikaner, Rajasthan, India",1.0,4,3.0,3.0,352.0,1033,Datasets Expert
+"Houston, Texas, United States",,6,3.0,3.0,654.0,1034,Datasets Expert
+"Bangkok, Bangkok, Thailand",,6,15.0,25.0,438.0,1035,Datasets Expert
+"Dresden, Saxony, Germany",,5,9.0,4.0,921.0,1036,Datasets Expert
+"Columbus, Ohio, United States",,6,4.0,91.0,329.0,1037,Datasets Expert
+"Chandannagar, West Bengal, India",,4,13.0,61.0,808.0,1038,Datasets Expert
+"São Paulo, State of São Paulo, Brazil",2.0,4,9.0,52.0,739.0,1039,Datasets Expert
+"Anand, Gujarat, India",2.0,5,23.0,117.0,1031.0,1040,Datasets Expert
+,,5,4.0,5.0,395.0,1041,Datasets Expert
+"Potsdam, Brandenburg, Germany",,6,7.0,6.0,467.0,1042,Datasets Expert
+"Lahore, Punjab, Pakistan",,4,16.0,111.0,829.0,1043,Datasets Expert
+"Seattle, Washington, United States",,3,,,613.0,1044,Datasets Expert
+"Gaza, Iowa, United States",4.0,7,121.0,58.0,325.0,1045,Datasets Expert
+"Tokyo, Tokyo, Japan",29.0,7,8.0,79.0,345.0,1047,Competitions Master
+,,5,1.0,,511.0,1049,Datasets Expert
+,,5,6.0,90.0,408.0,1050,Datasets Expert
+"Kalyani, West Bengal, India",17.0,5,12.0,234.0,74.0,1051,Notebooks Master
+"Ranchi, Jharkhand, India",8.0,5,43.0,282.0,109.0,1053,Notebooks Master
+"Belgrade, Serbia",2.0,5,6.0,3.0,1035.0,1054,Datasets Expert
+"Tokyo, Tokyo, Japan",3.0,4,30.0,41.0,520.0,1055,Datasets Expert
+"Pune, Maharashtra, India",11.0,3,7.0,17.0,455.0,1056,Datasets Expert
+"Kharkiv, Kharkiv Oblast, Ukraine",16.0,6,25.0,216.0,395.0,1057,Notebooks Master
+,3.0,6,31.0,202.0,200.0,1058,Datasets Expert
+"Bengaluru, Karnataka, India",7.0,9,10.0,86.0,160.0,1059,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",1.0,4,3.0,1.0,981.0,1060,Datasets Expert
+"Latina, Lazio, Italy",5.0,8,20.0,4.0,556.0,1061,Datasets Expert
+"Ahmedabad, Gujarat, India",15.0,5,5.0,282.0,289.0,1092,Datasets Expert
+"Boston, Massachusetts, United States",,8,7.0,13.0,229.0,1093,Datasets Expert
+"Chicago, Illinois, United States",2.0,6,25.0,44.0,101.0,1062,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",1.0,3,9.0,272.0,134.0,1063,Datasets Expert
+"Munshiganj, Dhaka Division, Bangladesh",10.0,4,17.0,220.0,359.0,1064,Datasets Expert
+"Lucknow, Uttar Pradesh, India",,6,10.0,100.0,303.0,1065,Datasets Expert
+"6th of October City, Giza Governorate, Egypt",,3,6.0,124.0,181.0,1066,Datasets Expert
+"Hyderabad, Telangana, India",,3,1.0,1.0,734.0,1067,Datasets Expert
+"Mumbai, Maharashtra, India",1.0,6,6.0,2.0,514.0,1068,Datasets Expert
+"Bursa, Bursa, Turkey",3.0,4,6.0,59.0,177.0,1069,Datasets Expert
+"Wah Cantt, Punjab, Pakistan",1.0,4,1.0,4.0,262.0,1070,Datasets Expert
+,2.0,3,5.0,8.0,960.0,1071,Datasets Expert
+"Bengaluru, Karnataka, India",1.0,8,10.0,200.0,213.0,1072,Datasets Expert
+"Chennai, Tamil Nadu, India",1.0,3,9.0,175.0,197.0,1073,Datasets Expert
+"Bengaluru, Karnataka, India",9.0,6,38.0,25.0,487.0,1074,Datasets Expert
+"Enschede, Overijssel, Netherlands",8.0,9,10.0,4.0,514.0,1075,Datasets Expert
+"Pune, Maharashtra, India",6.0,14,22.0,120.0,253.0,1076,Datasets Expert
+"Hyderabad, Telangana, India",23.0,10,24.0,924.0,395.0,1077,Discussion Grandmaster
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",14.0,4,67.0,302.0,88.0,1078,Notebooks Master
+"Hermosillo, Sonora, Mexico",,3,10.0,9.0,485.0,1079,Datasets Expert
+"Helsinki, Finland",44.0,22,57.0,701.0,90.0,1116,Notebooks Master
+"Lemgo, North Rhine-Westphalia, Germany",,6,,15.0,70.0,1080,Datasets Expert
+"Hyderabad, Telangana, India",1.0,7,24.0,55.0,898.0,1081,Datasets Expert
+"Pune, Maharashtra, India",3.0,4,7.0,103.0,629.0,1083,Datasets Expert
+"Rajshahi, Rajshahi Division, Bangladesh",28.0,9,24.0,224.0,124.0,1084,Competitions Expert
+"Hyderabad, Telangana, India",,5,8.0,2.0,960.0,1052,Datasets Expert
+"Chicago, Illinois, United States",15.0,55,10.0,307.0,605.0,1085,Competitions Expert
+"Bengaluru, Karnataka, India",13.0,7,22.0,200.0,165.0,1086,Competitions Expert
+"Alexandria, Alexandria Governorate, Egypt",15.0,38,28.0,29.0,178.0,1088,Competitions Expert
+"Saharanpur, Uttar Pradesh, India",5.0,8,20.0,141.0,423.0,1089,Datasets Expert
+"Dehradun, Uttarakhand, India",4.0,4,12.0,254.0,351.0,1090,Datasets Expert
+"Copenhagen, Denmark",,3,,,749.0,1091,Datasets Expert
+"Bhubaneswar, Odisha, India",4.0,4,12.0,191.0,216.0,1094,Notebooks Master
+"Faisalabad, Punjab, Pakistan",1.0,16,47.0,325.0,332.0,1095,Datasets Expert
+"Mumbai, Maharashtra, India",7.0,13,45.0,64.0,191.0,1096,Datasets Expert
+"Ankara, Ankara, Turkey",3.0,5,35.0,6.0,554.0,1097,Datasets Expert
+"Delhi, Delhi, India",1.0,3,5.0,39.0,674.0,1098,Datasets Expert
+"Accra, Greater Accra Region, Ghana",7.0,4,,6.0,475.0,1100,Datasets Expert
+,6.0,5,7.0,108.0,361.0,1101,Datasets Expert
+"Budapest, Hungary",12.0,3,10.0,158.0,737.0,1102,Datasets Expert
+"Tiruppur, Tamil Nadu, India",,7,8.0,118.0,557.0,1103,Datasets Expert
+"Rahim Yar Khan, Punjab, Pakistan",,6,20.0,254.0,247.0,1139,Datasets Expert
+,,5,4.0,2.0,814.0,1104,Datasets Expert
+"Vellore, Tamil Nadu, India",,3,6.0,1.0,436.0,1105,Datasets Expert
+,2.0,5,11.0,164.0,318.0,1107,Datasets Expert
+"Manhattan Beach, California, United States",,4,3.0,3.0,924.0,1108,Datasets Expert
+"New York, New York, United States",4.0,5,6.0,9.0,523.0,1109,Datasets Expert
+"Chelyabinsk, Chelyabinsk Oblast, Russia",53.0,4,19.0,5.0,1067.0,1110,Competitions Expert
+"Shanghai, Shanghai, China",33.0,10,11.0,182.0,758.0,1111,Competitions Master
+"Albany, New York, United States",12.0,11,43.0,64.0,897.0,1112,Datasets Expert
+"San Diego, California, United States",35.0,11,48.0,789.0,31.0,1113,Discussion Grandmaster
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",3.0,6,30.0,134.0,764.0,1114,Datasets Expert
+"Seoul, Seoul, South Korea",95.0,9,31.0,152.0,97.0,1115,Notebooks Master
+"Melbourne, Victoria, Australia",,3,29.0,45.0,86.0,1151,Datasets Expert
+"Hà Nội, Vietnam",12.0,64,45.0,491.0,29.0,1117,Competitions Master
+"Chennai, Tamil Nadu, India",1.0,10,4.0,9.0,254.0,1118,Datasets Expert
+"Gurugram, Haryana, India",2.0,7,6.0,125.0,102.0,1119,Datasets Expert
+"Leuven, Flanders, Belgium",13.0,6,14.0,226.0,34.0,1120,Notebooks Master
+"Warsaw, Masovian Voivodeship, Poland",3.0,11,15.0,2.0,243.0,1121,Datasets Expert
+"New York, New York, United States",25.0,4,8.0,85.0,278.0,1082,Competitions Expert
+"Kolkata, West Bengal, India",46.0,14,31.0,203.0,91.0,1122,Competitions Expert
+"Chennai, Tamil Nadu, India",1.0,4,7.0,2.0,211.0,1123,Datasets Expert
+"Chicago, Illinois, United States",37.0,4,24.0,228.0,295.0,1124,Notebooks Master
+"Sonipat, Haryana, India",,4,4.0,1.0,869.0,1087,Datasets Expert
+"Neuchâtel, Neuchâtel, Switzerland",6.0,9,8.0,15.0,929.0,1125,Datasets Expert
+"Dhanbad, Jharkhand, India",,5,7.0,168.0,245.0,1126,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",2.0,22,35.0,285.0,177.0,1127,Datasets Expert
+"Kolkata, West Bengal, India",5.0,3,59.0,792.0,258.0,1128,Notebooks Master
+"Nazareth, Tamil Nadu, India",,3,10.0,61.0,698.0,1129,Datasets Expert
+"Hyderabad, Telangana, India",37.0,6,27.0,143.0,561.0,1130,Notebooks Master
+"New Delhi, Delhi, India",,6,6.0,1.0,597.0,1131,Datasets Expert
+"Kolkata, West Bengal, India",,12,18.0,77.0,457.0,1132,Datasets Expert
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",,11,13.0,48.0,266.0,1133,Datasets Expert
+"Bengaluru, Karnataka, India",1.0,5,14.0,201.0,196.0,1134,Datasets Expert
+"Bengaluru, Karnataka, India",,6,21.0,297.0,227.0,1135,Datasets Expert
+"New Delhi, Delhi, India",,6,47.0,291.0,202.0,1099,Notebooks Master
+"Sapporo, Hokkaido, Japan",10.0,4,19.0,425.0,249.0,1136,Notebooks Master
+"Dhaka, Dhaka Division, Bangladesh",,7,14.0,85.0,181.0,1137,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",,5,14.0,219.0,1043.0,1138,Notebooks Master
+"Newark, New Jersey, United States",2.0,3,5.0,7.0,928.0,1140,Datasets Expert
+"Karachi, Sindh, Pakistan",,12,5.0,74.0,299.0,1141,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",,4,7.0,80.0,242.0,1142,Datasets Expert
+,,3,2.0,103.0,444.0,1143,Datasets Expert
+"Solapur, Maharashtra, India",1.0,3,5.0,83.0,543.0,1144,Datasets Expert
+,8.0,16,19.0,128.0,442.0,1169,Notebooks Master
+,,4,,3.0,548.0,1106,Datasets Expert
+"Santiago de Querétaro, Querétaro, Mexico",3.0,4,9.0,3.0,739.0,1145,Datasets Expert
+"New Cairo City, Cairo Governorate, Egypt",,4,12.0,7.0,595.0,1146,Datasets Expert
+"London, England, United Kingdom",,3,,,859.0,1147,Datasets Expert
+"Goiânia, State of Goiás, Brazil",9.0,5,21.0,20.0,286.0,1148,Datasets Expert
+"Boston, Massachusetts, United States",1.0,3,5.0,17.0,547.0,1149,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",12.0,12,29.0,80.0,138.0,1150,Datasets Expert
+"Madison, Wisconsin, United States",,5,16.0,87.0,134.0,1152,Datasets Expert
+"Mumbai, Maharashtra, India",2.0,4,55.0,160.0,186.0,1153,Datasets Expert
+"Gurugram, Haryana, India",2.0,5,37.0,849.0,327.0,1154,Notebooks Master
+"Cascais, Lisbon, Portugal",20.0,3,41.0,860.0,967.0,1155,Notebooks Grandmaster
+"Jaipur, Rajasthan, India",36.0,4,8.0,279.0,107.0,1156,Datasets Expert
+"Delhi, Delhi, India",2.0,6,2.0,95.0,270.0,1184,Datasets Expert
+"Minato City, Tokyo, Japan",8.0,4,5.0,106.0,239.0,1157,Datasets Expert
+"Boston, Massachusetts, United States",1.0,3,5.0,19.0,523.0,1158,Datasets Expert
+"Pune, Maharashtra, India",3.0,6,20.0,116.0,293.0,1187,Datasets Expert
+,2.0,3,1.0,51.0,405.0,1159,Datasets Expert
+"Mangalore, Karnataka, India",3.0,4,8.0,102.0,259.0,1160,Datasets Expert
+"Noisy-le-Grand, Île-de-France, France",12.0,5,21.0,102.0,287.0,1161,Datasets Expert
+"Guwahati, Assam, India",1.0,5,11.0,174.0,179.0,1162,Datasets Expert
+"Coimbatore, Tamil Nadu, India",5.0,5,8.0,108.0,196.0,1163,Datasets Expert
+"Greater Noida, Uttar Pradesh, India",,3,7.0,404.0,381.0,1164,Datasets Expert
+"Hyderabad, Telangana, India",14.0,5,29.0,33.0,376.0,1165,Datasets Expert
+"Greater Noida, Uttar Pradesh, India",8.0,3,22.0,178.0,211.0,1166,Notebooks Master
+"Mumbai, Maharashtra, India",4.0,4,11.0,391.0,201.0,1167,Notebooks Master
+"Samarkand, Samarqand Region, Uzbekistan",2.0,11,3.0,51.0,378.0,1168,Datasets Expert
+,1.0,3,14.0,5.0,497.0,1170,Datasets Expert
+"Toronto, Ontario, Canada",,12,42.0,43.0,147.0,1171,Datasets Expert
+"Karachi, Sindh, Pakistan",,12,5.0,34.0,348.0,1172,Datasets Expert
+"Budapest, Hungary",27.0,4,47.0,608.0,404.0,1173,Notebooks Grandmaster
+"Gelderland, Netherlands",45.0,9,16.0,477.0,579.0,1174,Competitions Expert
+"Amherst, Massachusetts, United States",38.0,4,70.0,391.0,389.0,1175,Notebooks Grandmaster
+"Kathmandu, Central Development Region, Nepal",7.0,37,105.0,112.0,127.0,1176,Datasets Expert
+"İstanbul, Istanbul, Turkey",,4,18.0,40.0,124.0,1177,Datasets Expert
+"Lucknow, Uttar Pradesh, India",3.0,5,8.0,126.0,96.0,1178,Datasets Expert
+"Hanoi, Hanoi, Vietnam",78.0,13,18.0,646.0,381.0,1179,Competitions Master
+"Sahibzada Ajit Singh Nagar, Punjab, India",,5,24.0,236.0,85.0,1180,Notebooks Master
+"Pune, Maharashtra, India",1.0,11,21.0,27.0,290.0,1182,Datasets Expert
+"Bengaluru, Karnataka, India",10.0,7,16.0,43.0,198.0,1216,Competitions Expert
+"Khulna, Khulna Division, Bangladesh",,3,1.0,95.0,488.0,1183,Datasets Expert
+"Bikaner, Rajasthan, India",6.0,14,26.0,151.0,256.0,1185,Datasets Expert
+"Stockholm, Stockholm County, Sweden",4.0,5,17.0,94.0,322.0,1186,Datasets Expert
+"Nawabshah, Sindh, Pakistan",3.0,3,11.0,546.0,248.0,1188,Notebooks Master
+"Pune, Maharashtra, India",37.0,20,34.0,385.0,235.0,1189,Notebooks Master
+"Jabalpur, Madhya Pradesh, India",4.0,11,11.0,95.0,196.0,1190,Datasets Expert
+"Karnal, Haryana, India",,7,28.0,156.0,135.0,1191,Datasets Expert
+"Mogalturu, Andhra Pradesh, India",2.0,3,7.0,181.0,177.0,1192,Datasets Expert
+,2.0,8,33.0,10.0,1036.0,1193,Datasets Expert
+"Kyiv, Ukraine",2.0,3,5.0,133.0,352.0,1194,Datasets Expert
+"Bengaluru, Karnataka, India",,4,10.0,146.0,672.0,1195,Datasets Expert
+"Adelaide, South Australia, Australia",,9,29.0,459.0,445.0,1196,Datasets Expert
+"Jaipur, Rajasthan, India",,3,7.0,31.0,368.0,1197,Datasets Expert
+"Guwahati, Assam, India",2.0,4,,2.0,397.0,1198,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",6.0,5,6.0,252.0,483.0,1199,Datasets Expert
+"Mashhad, Razavi Khorasan Province, Iran",,3,7.0,126,436.0,1200,Datasets Expert
+"Hyderabad, Telangana, India",51.0,16,27.0,167,633.0,1201,Competitions Expert
+,,7,1.0,,61.0,1202,Datasets Expert
+"São Paulo, State of São Paulo, Brazil",8.0,13,27.0,299,182.0,1203,Datasets Expert
+"São Paulo, State of São Paulo, Brazil",18.0,3,43.0,773,522.0,1204,Notebooks Grandmaster
+"Austin, Texas, United States",,6,1.0,6,39.0,1205,Datasets Expert
+"Kaiserslautern, Rhineland-Palatinate, Germany",6.0,19,11.0,132,34.0,1206,Competitions Expert
+"Dhaka, Dhaka Division, Bangladesh",2.0,6,46.0,114,233.0,1207,Datasets Expert
+"Bandung, West Java, Indonesia",21.0,11,87.0,130,424.0,1208,Competitions Expert
+"Karachi, Sindh, Pakistan",3.0,5,18.0,392,359.0,1209,Datasets Expert
+"Thane, Maharashtra, India",25.0,13,24.0,130,177.0,1243,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",19.0,10,10.0,476,25.0,1210,Competitions Grandmaster
+"Navi Mumbai, Maharashtra, India",1.0,3,9.0,72,171.0,1211,Datasets Expert
+,12.0,5,27.0,139,37.0,1212,Notebooks Grandmaster
+"Haifa, Haifa District, Israel",17.0,5,16.0,528,61.0,1213,Competitions Grandmaster
+"Orlando, Florida, United States",28.0,10,13.0,139,331.0,1214,Datasets Expert
+"Chicago, Illinois, United States",4.0,5,7.0,16,333.0,1215,Datasets Expert
+,1.0,3,7.0,4,708.0,1217,Datasets Expert
+"Gurugram, Haryana, India",14.0,16,18.0,25,420.0,1218,Datasets Expert
+,1.0,5,3.0,76,433.0,1220,Datasets Expert
+"Hanoi, Hanoi, Vietnam",6.0,3,3.0,3,737.0,1221,Datasets Expert
+"Bengaluru, Karnataka, India",8.0,3,5.0,64,549.0,1222,Datasets Expert
+"Chennai, Tamil Nadu, India",9.0,9,17.0,314,78.0,1223,Datasets Expert
+"Rajshahi, Rajshahi Division, Bangladesh",5.0,5,16.0,100,199.0,1224,Datasets Expert
+"San Francisco, California, United States",2.0,10,8.0,155,121.0,1225,Datasets Expert
+"Erode, Tamil Nadu, India",22.0,4,6.0,40,410.0,1226,Datasets Expert
+"Kolkata, West Bengal, India",1.0,6,8.0,181,789.0,1227,Datasets Expert
+"Hyderabad, Telangana, India",2.0,25,18.0,191,224.0,1228,Datasets Expert
+"Çanakkale, Çanakkale, Turkey",3.0,3,8.0,40,405.0,1229,Datasets Expert
+"Bhubaneswar, Odisha, India",9.0,13,25.0,14,357.0,1230,Datasets Expert
+"Tehran, Tehran Province, Iran",8.0,4,7.0,51,358.0,1231,Datasets Expert
+"Busan, Busan, South Korea",2.0,4,8.0,226,660.0,1232,Datasets Expert
+"Ankara, Ankara, Turkey",,5,5.0,33,242.0,1233,Datasets Expert
+"Alexandria, Alexandria Governorate, Egypt",,4,12.0,9,1064.0,1234,Datasets Expert
+"Osmaniye, Osmaniye, Turkey",4.0,3,5.0,22,471.0,1235,Datasets Expert
+"Amsterdam, North Holland, Netherlands",,3,12.0,86,559.0,1236,Datasets Expert
+"Bharatpur, Rajasthan, India",,3,14.0,231,395.0,1237,Datasets Expert
+"Patna, Bihar, India",1.0,4,6.0,124,418.0,1238,Datasets Expert
+"Bengaluru, Karnataka, India",,5,,9,391.0,1239,Datasets Expert
+"Mumbai, Maharashtra, India",,3,5.0,1,539.0,1240,Datasets Expert
+"Stuttgart, Baden-Württemberg, Germany",2.0,3,18.0,186,227.0,1241,Datasets Expert
+"Hanoi, Hanoi, Vietnam",81.0,5,17.0,137,25.0,1242,Competitions Grandmaster
+"Nairobi, Nairobi County, Kenya",7.0,7,30.0,31,708.0,1244,Datasets Expert
+"New Delhi, Delhi, India",36.0,25,12.0,223,175.0,1245,Competitions Master
+"Visakhapatnam, Andhra Pradesh, India",28.0,10,16.0,447,71.0,1246,Notebooks Master
+"New Delhi, Delhi, India",,10,16.0,287,125.0,1247,Datasets Expert
+,,8,25.0,,1062.0,1248,Datasets Expert
+"Moscow, Russia",,3,10.0,496,228.0,1249,Datasets Expert
+"Erbil, Kurdistan Region, Iraq",1.0,4,11.0,83,487.0,1250,Datasets Expert
+"Bengaluru, Karnataka, India",5.0,6,18.0,66,340.0,1251,Competitions Expert
+"Jaipur, Rajasthan, India",4.0,3,22.0,"1,008",106.0,1252,Notebooks Master
+"Detroit, Michigan, United States",18.0,3,5.0,59,217.0,1253,Competitions Expert
+"Bengaluru, Karnataka, India",,7,7.0,117,234.0,1254,Datasets Expert
+"Chennai, Tamil Nadu, India",14.0,4,15.0,237,53.0,1219,Notebooks Master
+"Navi Mumbai, Maharashtra, India",4.0,7,22.0,400,494.0,1255,Datasets Expert
+"San Jose, California, United States",1.0,6,2.0,1,434.0,1256,Datasets Expert
+"Moscow, Russia",6.0,5,8.0,16,80.0,1257,Datasets Expert
+"Solapur, Maharashtra, India",5.0,3,8.0,109,425.0,1258,Datasets Expert
+"Bandung, West Java, Indonesia",21.0,5,16.0,29,203.0,1295,Datasets Expert
+"Chennai, Tamil Nadu, India",,5,10.0,50,412.0,1259,Datasets Expert
+"Bengaluru, Karnataka, India",1.0,5,7.0,4,362.0,1260,Datasets Expert
+"İzmir, İzmir, Turkey",16.0,4,56.0,164,411.0,1261,Datasets Expert
+"Roorkee, Uttarakhand, India",9.0,6,5.0,267,302.0,1262,Datasets Expert
+"Ahmedabad, Gujarat, India",3.0,3,9.0,101,504.0,1263,Datasets Expert
+"Lucknow, Uttar Pradesh, India",,4,6.0,139,374.0,1264,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",,3,25.0,101,387.0,1265,Datasets Expert
+"Lucknow, Uttar Pradesh, India",,5,6.0,294,262.0,1266,Datasets Expert
+"Navi Mumbai, Maharashtra, India",6.0,10,81.0,195,185.0,1267,Datasets Expert
+"Faridabad, Haryana, India",2.0,5,18.0,234,380.0,1268,Datasets Expert
+"Vemulawada, Telangana, India",12.0,4,14.0,89,487.0,1269,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",1.0,7,,1,314.0,1270,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",6.0,18,24.0,232,43.0,1271,Competitions Master
+"Baltimore, Maryland, United States",7.0,7,18.0,131,42.0,1272,Competitions Expert
+,151.0,31,87.0,161,279.0,1273,Competitions Master
+"London, England, United Kingdom",14.0,5,116.0,580,392.0,1274,Competitions Expert
+Ramallah,6.0,6,26.0,60,119.0,1275,Datasets Expert
+"Bengaluru, Karnataka, India",15.0,4,91.0,516,775.0,1276,Notebooks Master
+"Kyiv, Ukraine",29.0,6,2.0,233,390.0,1277,Competitions Grandmaster
+"Bengaluru, Karnataka, India",1.0,5,11.0,9,789.0,1278,Datasets Expert
+"West Lafayette, Indiana, United States",,6,,1,1260.0,1279,Datasets Expert
+"Antwerp, Flanders, Belgium",9.0,5,11.0,105,259.0,1280,Datasets Expert
+"Tokyo, Tokyo, Japan",12.0,15,16.0,77,40.0,1281,Competitions Expert
+"Buffalo, New York, United States",6.0,3,5.0,44,406.0,1282,Competitions Expert
+"Mumbai, Maharashtra, India",,3,5.0,82,397.0,1283,Datasets Expert
+"Concord, California, United States",6.0,3,12.0,129,678.0,1284,Datasets Expert
+"İstanbul, İstanbul, Turkey",1.0,3,2.0,35,234.0,1285,Datasets Expert
+"Beijing, Beijing, China",49.0,93,22.0,264,485.0,1286,Competitions Master
+"Khulna, Khulna Division, Bangladesh",1.0,7,27.0,200.0,121.0,1287,Datasets Expert
+"Vancouver, Washington, United States",11.0,14,11.0,664.0,58.0,1288,Datasets Expert
+"Pune, Maharashtra, India",1.0,11,5.0,75.0,159.0,1289,Datasets Expert
+"São Paulo, State of São Paulo, Brazil",7.0,14,31.0,180.0,751.0,1290,Datasets Expert
+,3.0,5,1.0,107.0,462.0,1291,Datasets Expert
+"Tunis, Tunis, Tunisia",1.0,4,8.0,350.0,123.0,1292,Datasets Expert
+"Rome, Lazio, Italy",3.0,5,7.0,105.0,73.0,1293,Datasets Expert
+"Bokaro Steel City, Jharkhand, India",1.0,3,19.0,73.0,135.0,1294,Datasets Expert
+"Greater Noida, Uttar Pradesh, India",1.0,4,65.0,357.0,192.0,1296,Datasets Expert
+"Riga, Latvia",,3,1.0,79.0,280.0,1297,Datasets Expert
+"New Delhi, Delhi, India",1.0,3,10.0,4.0,237.0,1298,Datasets Expert
+"Pune, Maharashtra, India",,4,3.0,13.0,472.0,1299,Datasets Expert
+"İstanbul, İstanbul, Turkey",,3,6.0,133.0,205.0,1300,Datasets Expert
+"Jersey City, New Jersey, United States",,3,18.0,260.0,296.0,1301,Datasets Expert
+"Delhi, Delhi, India",,3,,77.0,332.0,1302,Datasets Expert
+"Novi Sad, Vojvodina, Serbia",6.0,4,23.0,115.0,495.0,1303,Notebooks Master
+"Boston, Massachusetts, United States",2.0,3,8.0,30.0,504.0,1304,Datasets Expert
+,17.0,5,8.0,39.0,25.0,1305,Competitions Expert
+"London, England, United Kingdom",2.0,4,2.0,12.0,187.0,1306,Datasets Expert
+"Chicago, Illinois, United States",5.0,3,6.0,4.0,561.0,1307,Datasets Expert
+"Irvine, California, United States",,5,2.0,30.0,758.0,1308,Datasets Expert
+"Delhi, Delhi, India",11.0,11,21.0,403.0,119.0,1309,Notebooks Master
+"Enerhodar, Zaporizhia Oblast, Ukraine",51.0,6,22.0,151.0,498.0,1310,Notebooks Master
+"New Delhi, Delhi, India",,3,6.0,36.0,141.0,1311,Datasets Expert
+,7.0,4,17.0,235.0,483.0,1312,Datasets Expert
+"Hanoi, Hanoi, Vietnam",3.0,7,10.0,91.0,414.0,1313,Notebooks Master
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",20.0,5,11.0,144.0,485.0,1314,Notebooks Master
+"Colombo, Western Province, Sri Lanka",,4,14.0,165.0,148.0,1315,Datasets Expert
+"Saarbrücken, Saarland, Germany",19.0,4,22.0,916.0,1054.0,1316,Competitions Expert
+"Pratapgarh, Uttar Pradesh, India",7.0,8,19.0,93.0,294.0,1317,Datasets Expert
+"Mumbai, Maharashtra, India",1.0,4,2.0,1.0,1079.0,1318,Datasets Expert
+"New Delhi, Delhi, India",4.0,3,10.0,157.0,277.0,1319,Datasets Expert
+"Bengaluru, Karnataka, India",,3,3.0,91.0,194.0,1320,Datasets Expert
+,2.0,5,6.0,107.0,194.0,1321,Datasets Expert
+"Mombasa, Mombasa County, Kenya",2.0,4,11.0,130.0,125.0,1322,Datasets Expert
+"Gurugram, Haryana, India",1.0,4,8.0,21.0,106.0,1323,Datasets Expert
+"Chennai, Tamil Nadu, India",5.0,3,20.0,141.0,614.0,1324,Datasets Expert
+"Bengaluru, Karnataka, India",,3,5.0,169.0,297.0,1325,Datasets Expert
+"Noida, Uttar Pradesh, India",,3,4.0,110.0,474.0,1326,Datasets Expert
+"West Lafayette, Indiana, United States",9.0,10,22.0,17.0,137.0,1327,Datasets Expert
+"Greater Noida, Uttar Pradesh, India",,3,36.0,61.0,445.0,1328,Datasets Expert
+"İstanbul, İstanbul, Turkey",,4,5.0,2.0,526.0,1329,Datasets Expert
+"İzmir, İzmir, Turkey",,3,2.0,113.0,269.0,1330,Datasets Expert
+"Pune, Maharashtra, India",,3,2.0,111.0,322.0,1331,Datasets Expert
+"Hyderabad, Telangana, India",3.0,4,6.0,102.0,370.0,1332,Datasets Expert
+"San Diego, California, United States",6.0,3,,3.0,455.0,1333,Datasets Expert
+,2.0,3,29.0,138.0,599.0,1334,Datasets Expert
+"Casablanca, Casablanca-Settat, Morocco",25.0,3,13.0,619.0,122.0,1335,Notebooks Master
+"Greater Noida, Uttar Pradesh, India",5.0,9,19.0,127.0,201.0,1336,Datasets Expert
+"Mumbai, Maharashtra, India",7.0,4,14.0,131.0,962.0,1337,Notebooks Master
+"São Paulo, State of São Paulo, Brazil",1.0,3,7.0,42.0,415.0,1338,Datasets Expert
+"Dhanbad, Jharkhand, India",9.0,3,7.0,7.0,336.0,1339,Datasets Expert
+,18.0,3,16.0,113.0,578.0,1340,Notebooks Master
+"Barcelona, Catalonia, Spain",1.0,5,20.0,157.0,185.0,1341,Datasets Expert
+"Chennai, Tamil Nadu, India",,5,11.0,214.0,251.0,1342,Datasets Expert
+"Paris, Île-de-France, France",,8,11.0,203.0,72.0,1181,Datasets Expert
+"New Delhi, Delhi, India",3.0,3,5.0,335.0,296.0,1343,Datasets Expert
+"Dramaga, West Java, Indonesia",19.0,6,20.0,167.0,128.0,1344,Datasets Expert
+"Madrid, Community of Madrid, Spain",3.0,4,4.0,8.0,553.0,1345,Datasets Expert
+"Coimbatore, Tamil Nadu, India",,4,7.0,181.0,1086.0,1346,Datasets Expert
+"Pune, Maharashtra, India",,4,2.0,24.0,396.0,1347,Datasets Expert
+"Tunis, Tunis, Tunisia",8.0,4,9.0,93.0,73.0,1348,Competitions Expert
+"Gurugram, Haryana, India",4.0,4,8.0,124.0,251.0,1368,Datasets Expert
+"Toronto, Ontario, Canada",7.0,8,43.0,353.0,111.0,1349,Datasets Expert
+"Jaipur, Rajasthan, India",,3,19.0,101.0,309.0,1350,Datasets Expert
+"Mathura, Uttar Pradesh, India",,3,5.0,92.0,148.0,1351,Datasets Expert
+"Beijing, Beijing, China",7.0,3,,1.0,489.0,1352,Datasets Expert
+"Rangpur, Rangpur Division, Bangladesh",,7,16.0,102.0,225.0,1353,Datasets Expert
+"Jaipur, Rajasthan, India",,3,10.0,43.0,459.0,1354,Datasets Expert
+"Bronxville, New York, United States",2.0,3,3.0,5.0,367.0,1355,Datasets Expert
+"Bloomington, Indiana, United States",1.0,3,20.0,266.0,443.0,1356,Datasets Expert
+,4.0,3,,4.0,485.0,1357,Datasets Expert
+,3.0,3,,6.0,483.0,1358,Datasets Expert
+"Mumbai, Maharashtra, India",53.0,4,6.0,103.0,202.0,1359,Competitions Expert
+"Austin, Texas, United States",8.0,4,1.0,6.0,1183.0,1360,Datasets Expert
+"Toronto, Ontario, Canada",2.0,3,49.0,221.0,607.0,1361,Notebooks Master
+"Bengaluru, Karnataka, India",42.0,3,10.0,305.0,157.0,1362,Competitions Expert
+"Bengaluru, Karnataka, India",17.0,7,10.0,181.0,190.0,1363,Competitions Expert
+"Patiala, Punjab, India",3.0,4,7.0,7.0,331.0,1364,Datasets Expert
+"Warangal, Telangana, India",20.0,12,15.0,79.0,103.0,1365,Datasets Expert
+"Incheon, Incheon, South Korea",5.0,6,59.0,87.0,431.0,1366,Datasets Expert
+"Pune, Maharashtra, India",1.0,3,11.0,344.0,968.0,1367,Datasets Expert
+"Bengaluru, Karnataka, India",6.0,4,42.0,254.0,206.0,1369,Datasets Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",1.0,6,9.0,48.0,125.0,1370,Datasets Expert
+"Gurugram, Haryana, India",,3,10.0,135.0,190.0,1371,Datasets Expert
+"Rajshahi, Rajshahi Division, Bangladesh",1.0,3,5.0,70.0,165.0,1372,Datasets Expert
+"Sandhikharka, Western Development Region, Nepal",1.0,6,14.0,201.0,118.0,1373,Datasets Expert
+"Kathmandu, Central Development Region, Nepal",,3,6.0,48.0,215.0,1374,Datasets Expert
+"Turin, Piedmont, Italy",1.0,4,7.0,338.0,96.0,1375,Datasets Expert
+"Delhi, Delhi, India",34.0,6,5.0,24.0,598.0,1376,Competitions Expert
+"Surat, Gujarat, India",1.0,3,6.0,114.0,277.0,1377,Datasets Expert
+"Nellore, Andhra Pradesh, India",1.0,3,19.0,132.0,311.0,1378,Datasets Expert
+"Mysuru, Karnataka, India",2.0,3,5.0,81.0,185.0,1379,Datasets Expert
+"Bengaluru, Karnataka, India",6.0,3,1.0,13.0,331.0,1396,Datasets Expert
+,,5,3.0,,82.0,1380,Datasets Expert
+"Paris, Île-de-France, France",5.0,5,7.0,5.0,345.0,1381,Datasets Expert
+"Hanoi, Hanoi, Vietnam",2.0,18,17.0,39.0,1232.0,1382,Datasets Expert
+"Hyderabad, Telangana, India",5.0,10,15.0,19.0,205.0,1383,Datasets Expert
+"Bengaluru, Karnataka, India",20.0,3,25.0,87.0,408.0,1384,Datasets Expert
+"Istanbul, Istanbul, Turkey",,3,1.0,8.0,71.0,1385,Datasets Expert
+"Karachi, Sindh, Pakistan",13.0,5,9.0,27.0,137.0,1386,Datasets Expert
+"New Delhi, Delhi, India",1.0,3,5.0,80.0,314.0,1387,Datasets Expert
+"İstanbul, İstanbul, Turkey",3.0,6,11.0,280.0,154.0,1388,Datasets Expert
+"Tampa, Florida, United States",,5,16.0,79.0,172.0,1389,Datasets Expert
+"São Bernardo do Campo, State of São Paulo, Brazil",1.0,3,5.0,138.0,99.0,1390,Datasets Expert
+"Mansoura, Dakahlia Governorate, Egypt",5.0,4,17.0,163.0,185.0,1391,Datasets Expert
+,1.0,3,6.0,36.0,122.0,1392,Datasets Expert
+"Da Nang, Da Nang, Vietnam",,3,,5.0,173.0,1393,Datasets Expert
+"Shanghai, West Virginia, United States",,3,1.0,8.0,159.0,1394,Datasets Expert
+"Bengaluru, Karnataka, India",13.0,9,19.0,84.0,273.0,1395,Datasets Expert
+,,8,,,719.0,1397,Datasets Expert
+"Guna, Madhya Pradesh, India",6.0,3,1.0,16.0,82.0,1398,Datasets Expert
+"Saharsa, Bihar, India",,3,5.0,52.0,110.0,1399,Datasets Expert
+"Bhawanipatna, Odisha, India",,3,5.0,58.0,114.0,1400,Datasets Expert
