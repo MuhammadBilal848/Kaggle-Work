@@ -1,0 +1,727 @@
+Country,Total Competitions,Total Datasets,Total Codes,Total Discussions,Highest Rank,Current Rank,Current Level
+"San Diego, California, United States",54,109,99,NA,NA,1,Competitions Grandmaster
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",21,230,"1,880",NA,NA,2,Discussion Grandmaster
+Singapore,67,18,30,"5,756",139,NA,Discussion Grandmaster
+France,84,15,58,"9,743",12,NA,Competitions Grandmaster
+NA,19,326,38,NA,19,NA,Notebooks Grandmaster
+"Dubai, Dubai, United Arab Emirates",16,NA,14,"5,200",NA,89,Notebooks Master
+NA,14,2,46,663,NA,4,Notebooks Grandmaster
+"Madrid, Community of Madrid, Spain",37,14,154,NA,8,NA,Notebooks Grandmaster
+"London, Ontario, Canada",38,150,126,NA,NA,9,Notebooks Grandmaster
+"Vienna, Vienna, Austria",63,9,17,"2,194",254,NA,Competitions Grandmaster
+NA,31,18,36,"1,394",80,NA,Discussion Grandmaster
+"Warsaw, Masovian Voivodeship, Poland",21,15,41,"1,824",10,NA,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",67,35,23,"1,506",14,NA,Datasets Grandmaster
+"Vilnius, Vilnius County, Lithuania",68,26,49,"1,044",18,NA,Competitions Grandmaster
+"Amman, Amman Governorate, Jordan",1,12,33,"2,957",70,NA,Datasets Grandmaster
+"Stavanger, Rogaland, Norway",229,106,142,NA,1,NA,Competitions Grandmaster
+"Sohawa, Punjab, Pakistan",6,15,30,"2,142",157,NA,Notebooks Master
+"Ankara, Ankara, Turkey",35,3,40,"1,202",24,NA,Discussion Grandmaster
+"Osaka, Osaka, Japan",33,10,39,824,59,NA,Datasets Grandmaster
+"Jakarta, Jakarta, Indonesia",2,5,18,"3,735",53,NA,Notebooks Grandmaster
+NA,NA,20,3,"1,756",NA,NA,Datasets Grandmaster
+"Verona, Veneto, Italy",226,6,87,901,43,NA,Discussion Grandmaster
+,37,104,120,NA,5,NA,Datasets Grandmaster
+"Paris, Île-de-France, France",61,67,45,824,27,NA,Competitions Grandmaster
+"Paris, Île-de-France, France",19,7,67,971,26,NA,Notebooks Grandmaster
+"Pittsburgh, Pennsylvania, United States",20,44,25,531,25,NA,Datasets Grandmaster
+"Bucharest, Bucharest, Romania",11,34,48,348,5,NA,Notebooks Grandmaster
+"Tokyo, Tokyo, Japan",67,20,55,400,4,NA,Competitions Grandmaster
+NA,NA,10,18,"2,306",NA,43,Notebooks Grandmaster
+"Dehradun, Uttarakhand, India",48,3,13,835,189,NA,Discussion Grandmaster
+"Stockholm, Stockholm County, Sweden",101,103,27,NA,1592,NA,Discussion Grandmaster
+"Cleveland, Ohio, United States",36,58,69,916,665,NA,Discussion Grandmaster
+"Moscow, Russia",NA,6,24,"2,282",42,NA,Notebooks Grandmaster
+"Gdańsk, Pomeranian Voivodeship, Poland",26,19,35,"1,465",71,NA,Notebooks Grandmaster
+"Gurugram, Haryana, India",39,8,38,"1,576",229,NA,Discussion Master
+NA,18,NA,30,"1,346",98,NA,Notebooks Master
+"Lewisville, Texas, United States",20,7,16,160,293,NA,Competitions Expert
+"Dhaka, Dhaka Division, Bangladesh",28,149,57,706,5,NA,Notebooks Grandmaster
+"Munich, Bavaria, Germany",65,21,38,"1,070",6,NA,Competitions Grandmaster
+"Bozeman, Montana, United States",26,2,44,"1,775",10,NA,Discussion Grandmaster
+"İstanbul, İstanbul, Turkey",101,42,62,875,47,NA,Competitions Grandmaster
+"London, England, United Kingdom",25,16,55,"1,137",23,NA,Notebooks Grandmaster
+"Tokyo, Tokyo, Japan",46,79,24,553,48,NA,Competitions Grandmaster
+"Tokyo, Tokyo, Japan",22,2,49,395,70,NA,Competitions Grandmaster
+"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",19,NA,16,"2,191",37,NA,Notebooks Grandmaster
+"San Francisco, California, United States",8,40,34,553,116,NA,Notebooks Master
+"Cascais, Lisbon, Portugal",20,3,41,860,5,NA,Notebooks Grandmaster
+NA,1,12,35,"1,583",NA,39,Notebooks Grandmaster
+"Washington, District of Columbia, United States",97,61,160,NA,5,NA,Competitions Grandmaster
+"Tangier, Tangier-Tétouan-Al Hoceima, Morocco",NA,10,19,"2,305",328,NA,Datasets Expert
+"Chennai, Tamil Nadu, India",113,17,82,801,1,NA,Competitions Grandmaster
+"Curitiba, State of Paraná, Brazil",249,20,116,NA,23,NA,Competitions Grandmaster
+"Lahore, Punjab, Pakistan",2,14,15,"1,341",NA,132,Notebooks Master
+"Boston, Massachusetts, United States",56,12,23,"2,258",1,NA,Notebooks Grandmaster
+"Peravali, Andhra Pradesh, India",NA,4,14,"1,509",NA,56,Notebooks Master
+NA,18,21,67,686,NA,18,Notebooks Master
+"Los Angeles, California, United States",43,8,17,735,452,NA,Discussion Grandmaster
+"Amreli, Gujarat, India",NA,5,16,"1,299",89,NA,Datasets Master
+"Philadelphia, Pennsylvania, United States",5,29,64,"1,385",NA,55,Notebooks Master
+"Dubai, Dubai, United Arab Emirates",2,7,15,"2,821",40,NA,Notebooks Grandmaster
+"Kolkata, West Bengal, India",NA,21,11,"1,081",107,NA,Datasets Grandmaster
+"Warsaw, Masovian Voivodeship, Poland",30,15,64,411,51,NA,Competitions Master
+"Ghent, Flanders, Belgium",25,11,28,731,257,NA,Competitions Master
+"Bengaluru, Karnataka, India",95,20,55,741,376,NA,Discussion Grandmaster
+"Zagreb, Croatia",13,3,NA,390,NA,NA,Competitions Master
+NA,10,1,36,218,58,NA,Notebooks Master
+"Ikeda, Osaka, Japan",16,NA,38,326,85,NA,Notebooks Master
+"Pune, Maharashtra, India",NA,17,23,"1,350",65,NA,Notebooks Grandmaster
+"Hwaseong-si, Gyeonggi-do, South Korea",3,4,37,"2,409",17,NA,Notebooks Grandmaster
+"Pune, Maharashtra, India",38,20,40,"1,131",10,NA,Datasets Grandmaster
+"Bengaluru, Karnataka, India",9,19,18,"1,173",115,NA,Notebooks Master
+"Bucharest, Bucharest, Romania",106,114,254,NA,3,NA,Datasets Grandmaster
+"Cairo, Cairo Governorate, Egypt",2,NA,24,"1,586",NA,62,Notebooks Master
+"Santa Clara, California, United States",30,6,17,500,1399,NA,Competitions Master
+"Kraków, Lesser Poland Voivodeship, Poland",7,11,21,340,48,NA,Competitions Master
+"Sydney, New South Wales, Australia",NA,NA,15,"1,484",64,NA,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",7,NA,14,"1,027",315,NA,Discussion Master
+"Paris, Île-de-France, France",48,44,43,423,35,NA,Competitions Master
+"Brisbane, Queensland, Australia",20,11,20,430,NA,155,Competitions Master
+"California City, California, United States",42,33,30,695,8,NA,Notebooks Grandmaster
+"Polatsk, Vitebsk Region, Belarus",34,10,68,"1,521",136,NA,Notebooks Master
+NA,10,10,15,268,NA,200,Notebooks Master
+"Pune, Maharashtra, India",NA,12,18,"1,122",NA,60,Notebooks Grandmaster
+"Iloilo City, Western Visayas, Philippines",1,13,19,"1,037",78,NA,Datasets Master
+"Greencastle, Indiana, United States",242,134,595,NA,5,NA,Competitions Grandmaster
+"Ashburn, Virginia, United States",35,1,3,757,NA,NA,Discussion Grandmaster
+"Hanoi, Hanoi, Vietnam",79,13,18,649,125,NA,Competitions Master
+"Singapore, Singapore",14,54,80,977,2,NA,Datasets Grandmaster
+"Hyderabad, Telangana, India",20,27,68,869,124,NA,Notebooks Master
+"Antalya, Antalya, Turkey",21,9,37,"1,000",25,NA,Notebooks Grandmaster
+"Hyderabad, Telangana, India",1,7,18,"1,354",1203,NA,Datasets Expert
+"Tokyo, Tokyo, Japan",90,2,45,287,415,NA,Competitions Grandmaster
+NA,9,NA,25,597,165,NA,Notebooks Master
+"Amsterdam, North Holland, Netherlands",37,3,23,329,341,NA,Discussion Master
+"Bordeaux, France, France",36,5,64,"1,615",126,NA,Discussion Master
+"Delhi, Delhi, India",9,64,28,927,129,NA,Datasets Master
+NA,4,NA,11,132,167,NA,Notebooks Master
+"Burichang, Chittagong Division, Bangladesh",4,13,17,209,36,NA,Notebooks Grandmaster
+"Saarbrücken, Saarland, Germany",19,4,22,916,794,NA,Competitions Expert
+"Isfahan, Isfahan Province, Iran",2,NA,16,"1,273",98,NA,Notebooks Master
+"Santiago, Santiago Metropolitan Region, Chile",58,93,63,599,11,NA,Notebooks Grandmaster
+,3,NA,11,"1,182",NA,101,Notebooks Master
+,13,12,16,770,538,NA,Notebooks Expert
+"Munich, Bavaria, Germany",111,6,27,"1,246",9,NA,Notebooks Grandmaster
+"Battle Mountain, Nevada, United States",42,6,52,"1,624",96,NA,Notebooks Master
+"Shahrbabak, Kerman Province, Iran",1,17,41,"1,623",70,NA,Notebooks Master
+"Dammam, Eastern Province, Saudi Arabia",83,NA,24,454,638,NA,Discussion Master
+"Irving, Texas, United States",51,12,26,"1,129",322,NA,Discussion Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",50,41,32,"2,165",27,NA,Notebooks Grandmaster
+"Moscow, Russia",98,16,69,474,NA,25,Competitions Grandmaster
+"Gurugram, Haryana, India",92,93,41,690,217,NA,Competitions Master
+"Pune, Maharashtra, India",1,NA,13,986,NA,66,Notebooks Master
+"Chennai, Tamil Nadu, India",10,15,8,630,484,NA,Datasets Grandmaster
+NA,36,7,16,525,313,NA,Competitions Master
+"Lucknow, Uttar Pradesh, India",78,10,37,993,246,NA,Competitions Expert
+"Haarlem, North Holland, Netherlands",118,86,89,"1,318",NA,34,Notebooks Grandmaster
+"Fukuoka, Fukuoka, Japan",43,73,56,130,156,NA,Competitions Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",2,5,15,889,NA,87,Notebooks Master
+"Kyiv, Ukraine",13,1,40,"1,350",118,NA,Notebooks Master
+"New Delhi, Delhi, India",6,8,15,"1,013",104,NA,Notebooks Grandmaster
+"Fort Worth, Texas, United States",130,30,48,NA,36,NA,Notebooks Grandmaster
+"Cairo, Cairo Governorate, Egypt",3,6,24,"1,042",456,NA,Discussion Master
+"Dubai, Dubai, United Arab Emirates",90,13,100,NA,1,NA,Notebooks Grandmaster
+"Surat, Gujarat, India",2,4,25,830,NA,111,Notebooks Master
+"Shibuya City, Tokyo, Japan",79,6,20,544,305,NA,Competitions Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",31,69,41,940,145,NA,Notebooks Master
+"Shibuya City, Tokyo, Japan",34,119,39,365,56,NA,Competitions Master
+NA,13,6,29,251,625,NA,Competitions Expert
+"Paris, Île-de-France, France",59,27,7,"1,243",21,NA,Discussion Grandmaster
+"Beijing, Beijing, China",12,145,5,388,NA,NA,Competitions Grandmaster
+"Paris, Île-de-France, France",5,84,422,614,NA,201,Datasets Expert
+"Osaka, Osaka, Japan",12,NA,4,390,NA,NA,Discussion Master
+"Osaka, Osaka, Japan",40,2,1,166,NA,NA,Competitions Master
+"Sydney, New South Wales, Australia",2,87,19,928,729,NA,Datasets Expert
+"Cologne, North Rhine-Westphalia, Germany",60,36,21,874,164,NA,Competitions Grandmaster
+"San Diego, California, United States",35,11,48,789,50,NA,Discussion Grandmaster
+"Istanbul, Istanbul, Turkey",15,15,64,680,344,NA,Discussion Master
+NA,8,13,40,402,412,NA,Competitions Expert
+"Budapest, Hungary",27,4,47,608,15,NA,Notebooks Grandmaster
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",32,11,27,511,34,NA,Competitions Grandmaster
+"Osaka, Osaka, Japan",42,139,19,436,235,NA,Competitions Master
+"Princeton, New Jersey, United States",121,6,34,"1,366",29,NA,Competitions Grandmaster
+"Kota, Rajasthan, India",16,3,16,563,158,NA,Notebooks Master
+"Abu Dhabi, Abu Dhabi, United Arab Emirates",2,18,20,501,150,NA,Notebooks Master
+"6th of October City, Giza Governorate, Egypt",13,12,95,"1,554",90,NA,Notebooks Master
+"Boston, Massachusetts, United States",13,4,10,"1,169",371,NA,Discussion Master
+"Osaka, Osaka, Japan",18,2,13,196,312,NA,Competitions Grandmaster
+"Osaka, Osaka, Japan",1,NA,1,284,NA,NA,Discussion Master
+"Kulmbach, Bavaria, Germany",NA,30,33,990,167,NA,Notebooks Master
+"Shanghai, Shanghai, China",36,56,45,447,141,NA,Notebooks Master
+"Toronto, Ontario, Canada",4,3,9,363,1205,NA,Competitions Expert
+"Singapore, Singapore",7,NA,2,404,NA,NA,Discussion Expert
+"Colombo, Western Province, Sri Lanka",2,NA,14,"1,153",135,NA,Notebooks Master
+"Wuhan, Hubei, China",27,33,10,361,200,NA,Competitions Master
+"Waterloo, Ontario, Canada",7,8,11,"1,049",297,NA,Notebooks Master
+"Ranchi, Jharkhand, India",3,10,3,994,NA,NA,Datasets Master
+"Yazd, Yazd Province, Iran",NA,5,16,"1,234",89,NA,Notebooks Grandmaster
+"Bhubaneswar, Odisha, India",NA,4,4,436,NA,NA,Datasets Expert
+NA,34,14,41,450,9,NA,Notebooks Grandmaster
+"Varkala, Kerala, India",7,31,20,948,121,NA,Datasets Grandmaster
+"Beijing, Beijing, China",52,34,12,362,1400,NA,Discussion Master
+"Rohtak, Haryana, India",33,31,8,585,NA,NA,Competitions Master
+NA,104,NA,NA,"2,476",NA,NA,Discussion Expert
+"Bengaluru, Karnataka, India",62,18,77,670,10,NA,Competitions Grandmaster
+"Navi Mumbai, Maharashtra, India",31,9,53,538,24,NA,Notebooks Grandmaster
+"Pune, Maharashtra, India",19,5,46,898,59,NA,Notebooks Master
+"Dindigul, Tamil Nadu, India",8,NA,27,977,117,NA,Notebooks Master
+"Beijing, Beijing, China",49,98,22,265,250,NA,Competitions Master
+"Guangzhou, Guangdong Province, China",25,48,12,204,NA,NA,Competitions Master
+"Tokyo, Tokyo, Japan",50,154,49,116,117,NA,Competitions Master
+"Berlin, Berlin, Germany",15,6,10,206,979,NA,Competitions Expert
+"Bucharest, Bucharest, Romania",19,1,5,455,761,NA,Discussion Master
+"Yokohama, Kanagawa, Japan",41,62,69,188,168,NA,Competitions Master
+"Paris, Île-de-France, France",25,8,43,590,119,NA,Notebooks Master
+"Gaithersburg, Maryland, United States",34,27,39,"1,255",16,NA,Competitions Grandmaster
+"Pittsburgh, Pennsylvania, United States",109,1,5,"1,453",NA,NA,Competitions Expert
+"Haifa, Haifa District, Israel",17,5,16,528,136,NA,Competitions Grandmaster
+"Córdoba, Cordoba, Argentina",14,3,14,577,330,NA,Notebooks Master
+"Tokyo, Tokyo, Japan",32,66,41,418,23,NA,Competitions Grandmaster
+"Warsaw, Masovian Voivodeship, Poland",33,1,5,277,NA,NA,Competitions Grandmaster
+"Kobe, Hyogo, Japan",23,8,14,76,164,NA,Competitions Master
+"Yokohama, Kanagawa, Japan",56,29,36,342,16,NA,Notebooks Grandmaster
+"Jakarta, Jakarta, Indonesia",13,1,19,"1,930",41,NA,Notebooks Grandmaster
+"Bursa, Bursa, Turkey",NA,NA,15,812,NA,69,Notebooks Master
+"Nagano, Nagano, Japan",7,2,6,124,1162,NA,Competitions Master
+"Bengaluru, Karnataka, India",26,160,17,NA,1876,NA,Competitions Master
+"Kolkata, West Bengal, India",2,2,16,607,144,NA,Notebooks Master
+"Hyderabad, Telangana, India",23,10,24,924,101,NA,Discussion Grandmaster
+"Jastrzębie-Zdrój, Silesian Voivodeship, Poland",12,5,17,383,404,NA,Competitions Expert
+"Bengaluru, Karnataka, India",32,13,31,"2,174",76,NA,Competitions Master
+"London, England, United Kingdom",38,6,11,514,413,NA,Competitions Master
+"London, England, United Kingdom",16,1,8,612,556,NA,Competitions Master
+"Chennai, Tamil Nadu, India",4,NA,16,714,123,NA,Notebooks Grandmaster
+"Beijing, Beijing, China",12,6,7,113,NA,570,Competitions Master
+"New Delhi, Delhi, India",5,3,21,884,140,NA,Notebooks Master
+"Zürich, Zurich, Switzerland",92,1,4,209,NA,NA,Competitions Grandmaster
+"Boston, Massachusetts, United States",23,36,3,198,NA,NA,Competitions Grandmaster
+"Pune, Maharashtra, India",NA,11,8,627,NA,205,Datasets Master
+"Karachi, Sindh, Pakistan",9,NA,16,634,142,NA,Notebooks Master
+"London, England, United Kingdom",64,124,NA,473,NA,NA,Competitions Master
+"Xiamen, Fujian, China",19,6,5,241,NA,NA,Competitions Grandmaster
+"Chengdu, Sichuan, China",25,3,28,166,NA,NA,Competitions Master
+"Paris, Île-de-France, France",11,1,14,229,556,NA,Competitions Expert
+"Helsinki, Finland",1,NA,22,986,103,NA,Notebooks Master
+"Kyoto, Kyoto, Japan",23,NA,13,121,151,NA,Notebooks Master
+"Punjab, Pakistan",6,6,22,885,165,NA,Notebooks Master
+"St Andrews, Scotland, United Kingdom",28,32,31,390,710,NA,Competitions Expert
+NA,14,3,1,110,NA,NA,Competitions Grandmaster
+NA,NA,NA,10,"1,074",200,NA,Notebooks Master
+NA,29,13,27,214,NA,NA,Competitions Expert
+"Pauri, Uttarakhand, India",2,NA,10,581,224,NA,Notebooks Master
+"Seoul, Seoul, South Korea",9,NA,16,686,NA,75,Notebooks Grandmaster
+NA,10,8,27,694,182,NA,Notebooks Master
+"Palaiseau, Île-de-France, France",84,13,23,243,91,NA,Competitions Master
+"Chengdu, Sichuan, China",20,60,5,200,NA,NA,Competitions Master
+"Pittsburgh, Pennsylvania, United States",7,NA,12,170,703,NA,Competitions Expert
+NA,1,NA,16,730,203,NA,Notebooks Master
+"İzmir, İzmir, Turkey",NA,14,32,454,138,NA,Notebooks Master
+"Osaka, Osaka, Japan",24,NA,20,139,128,NA,Competitions Master
+"New York, New York, United States",67,1,5,265,NA,NA,Competitions Grandmaster
+NA,NA,22,14,487,620,NA,Datasets Expert
+NA,38,18,13,247,85,NA,Competitions Grandmaster
+"Wolfsburg, Lower Saxony, Germany",34,4,12,288,2328,NA,Competitions Master
+Singapore,12,3,NA,184,NA,NA,Competitions Grandmaster
+"Bandar Bushehr, Bushehr Province, Iran",NA,1,13,772,212,NA,Notebooks Master
+NA,2,4,10,259,485,NA,Notebooks Expert
+"Indianapolis, Indiana, United States",15,1,1,150,NA,NA,Competitions Master
+"İstanbul, İstanbul, Turkey",17,5,13,578,265,NA,Notebooks Master
+"Curitiba, State of Paraná, Brazil",22,83,41,152,172,NA,Notebooks Master
+"Budapest, Hungary",81,15,78,714,7,NA,Competitions Grandmaster
+"Toulouse, Occitanie, France",23,12,18,670,257,NA,Competitions Grandmaster
+"Liverpool, England, United Kingdom",2,5,6,512,NA,NA,Datasets Expert
+NA,41,18,72,"1,180",253,NA,Competitions Grandmaster
+"Singapore, Singapore",18,6,50,278,329,NA,Competitions Expert
+"Beijing, Beijing, China",60,101,31,772,333,NA,Notebooks Expert
+"Seattle, Washington, United States",2,1,11,604,491,NA,Notebooks Expert
+"Yerevan, Yerevan, Armenia",64,216,22,760,355,NA,Notebooks Expert
+"Madurai, Tamil Nadu, India",51,15,61,666,115,NA,Notebooks Master
+"Tokyo, Tokyo, Japan",28,NA,4,101,NA,NA,Competitions Master
+"New York, New York, United States",11,NA,3,355,NA,NA,Competitions Master
+"Tashkent, Tashkent Region, Uzbekistan",41,1,21,457,927,NA,Notebooks Expert
+"Kolkata, West Bengal, India",20,10,39,405,86,NA,Notebooks Master
+"Gwacheon-si, Gyeonggi-do, South Korea",40,25,7,299,NA,NA,Competitions Master
+"Paris, Île-de-France, France",41,NA,3,151,NA,NA,Competitions Master
+"Bengaluru, Karnataka, India",2,4,16,959,719,NA,Datasets Expert
+"Bengaluru, Karnataka, India",73,4,5,230,871,NA,Competitions Expert
+"Cumilla, Chittagong Division, Bangladesh",29,29,56,456,376,NA,Datasets Expert
+"Saitama, Saitama, Japan",8,2,212,815,NA,41,Notebooks Master
+"Peravali, Andhra Pradesh, India",1,3,14,436,203,NA,Notebooks Master
+NA,23,1,10,824,353,NA,Competitions Master
+"Chandannagar, West Bengal, India",5,5,15,658,129,NA,Notebooks Master
+"Osaka, Osaka, Japan",11,2,9,120,129,NA,Competitions Expert
+"Seattle, Washington, United States",8,1,17,350,363,NA,Competitions Master
+NA,NA,20,16,646,210,NA,Notebooks Master
+"Bahawalpur, Punjab, Pakistan",NA,7,21,171,176,NA,Datasets Master
+"Bengaluru, Karnataka, India",NA,17,10,369,1538,NA,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",NA,3,11,99,224,NA,Notebooks Master
+"New York, New York, United States",6,2,6,310,280,NA,Notebooks Expert
+"St. Gallen, St. Gallen, Switzerland",22,25,24,250,NA,NA,Competitions Master
+NA,54,NA,2,260,NA,NA,Competitions Grandmaster
+"New York, New York, United States",37,30,5,160,120,NA,Competitions Grandmaster
+"Chennai, Tamil Nadu, India",34,109,28,NA,85,NA,Discussion Master
+"Tokyo, Tokyo, Japan",8,4,5,322,NA,NA,Competitions Grandmaster
+"Campina Grande, State of Paraíba, Brazil",35,37,58,"1,180",40,NA,Notebooks Grandmaster
+"Moscow, Russia",7,1,14,656,115,NA,Notebooks Master
+NA,1,NA,NA,404,NA,NA,Discussion Expert
+"Guangzhou, Guangdong Province, China",36,24,16,168,NA,NA,Competitions Grandmaster
+"Hsinchu, Taiwan",68,84,23,276,58,NA,Competitions Grandmaster
+NA,NA,1,13,569,NA,247,Notebooks Master
+Japan,47,99,41,119,124,NA,Competitions Grandmaster
+"Bengaluru, Karnataka, India",NA,5,5,765,520,NA,Datasets Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",NA,NA,11,521,165,NA,Notebooks Master
+NA,26,7,37,250,297,NA,Notebooks Expert
+"Lahore, Punjab, Pakistan",NA,NA,9,505,352,NA,Notebooks Expert
+"Volos, Greece",225,9,17,863,718,NA,Competitions Grandmaster
+NA,7,2,13,171,659,NA,Competitions Master
+"Sacramento, California, United States",38,8,91,575,55,NA,Notebooks Grandmaster
+"Mumbai, Maharashtra, India",17,215,17,576,143,NA,Datasets Grandmaster
+"Kyiv, Ukraine",7,6,53,250,412,NA,Competitions Expert
+NA,2,NA,31,843,186,NA,Notebooks Master
+"Aswan, Aswan Governorate, Egypt",4,1,15,471,285,NA,Notebooks Master
+"Seoul, Seoul, South Korea",63,16,33,591,45,NA,Notebooks Master
+"Beirut, Beirut Governorate, Lebanon",5,4,41,"1,193",40,NA,Notebooks Master
+"Hyderabad, Telangana, India",16,NA,3,361,NA,NA,Competitions Expert
+"Kyiv, Ukraine",29,6,2,233,NA,NA,Competitions Grandmaster
+"Saint Petersburg, Russia",16,3,17,344,29,NA,Notebooks Master
+"Madrid, Community of Madrid, Spain",8,4,25,"1,646",27,NA,Notebooks Grandmaster
+"New Delhi, Delhi, India",NA,7,11,342,243,NA,Notebooks Master
+"Tokyo, Tokyo, Japan",44,10,29,290,11,NA,Competitions Grandmaster
+"Chemnitz, Saxony, Germany",NA,NA,5,152,581,NA,Notebooks Expert
+"Beijing, Beijing, China",12,148,9,175,NA,NA,Competitions Master
+"Karachi, Sindh, Pakistan",NA,11,15,866,171,NA,Notebooks Master
+"Warsaw, Masovian Voivodeship, Poland",44,4,9,333,NA,NA,Competitions Grandmaster
+"Shanghai, Shanghai, China",27,9,8,406,452,NA,Competitions Master
+"Fukuoka, Fukuoka, Japan",30,30,24,71,211,NA,Competitions Master
+"Brisbane, Queensland, Australia",16,7,41,93,193,NA,Notebooks Master
+"London, England, United Kingdom",13,NA,NA,282,NA,NA,Competitions Expert
+"Tokyo, Tokyo, Japan",17,NA,5,85,504,NA,Competitions Master
+"Singapore, Singapore",36,23,17,575,100,NA,Notebooks Master
+"Frankfurt, Hesse, Germany",11,1,37,228,31,NA,Notebooks Grandmaster
+"Gassaway, West Virginia, United States",37,17,42,341,135,NA,Notebooks Master
+"Kolkata, West Bengal, India",13,34,67,322,58,NA,Notebooks Master
+"Lviv, Lviv Oblast, Ukraine",76,24,16,274,211,NA,Competitions Master
+NA,12,48,22,246,2077,NA,Competitions Master
+"Bogotá, Bogota, Colombia",4,3,10,391,NA,467,Datasets Expert
+"Tokyo, Tokyo, Japan",62,8,64,114,329,NA,Competitions Grandmaster
+"İstanbul, İstanbul, Turkey",46,17,23,"2,411",35,NA,Datasets Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",9,8,14,203,831,NA,Notebooks Expert
+"Chandigarh, Punjab, India",NA,1,3,418,NA,NA,Discussion Expert
+"Selangor, Malaysia",22,5,17,356,248,NA,Notebooks Master
+"Delhi, Delhi, India",5,9,19,522,1617,NA,Datasets Expert
+"Sohawa, Punjab, Pakistan",NA,7,8,315,1806,NA,Datasets Expert
+"Charlotte, North Carolina, United States",22,26,77,379,236,NA,Datasets Expert
+"Seoul, Seoul, South Korea",23,10,15,498,126,NA,Competitions Master
+"San Diego, California, United States",30,16,15,371,62,NA,Competitions Grandmaster
+"Salt Lake City, Utah, United States",10,16,28,407,257,NA,Datasets Expert
+"Seoul, Seoul, South Korea",4,1,11,490,238,NA,Notebooks Master
+NA,2,1,15,352,247,NA,Notebooks Expert
+"Menlo Park, California, United States",54,374,18,237,118,NA,Competitions Grandmaster
+"Detroit, Michigan, United States",31,3,7,145,1089,NA,Competitions Master
+"College Station, Texas, United States",33,64,22,288,NA,NA,Competitions Grandmaster
+"Chakwal, Punjab, Pakistan",1,NA,8,309,NA,725,Notebooks Expert
+"New York, New York, United States",26,3,11,329,1042,NA,Competitions Expert
+"San Diego, California, United States",11,NA,6,234,NA,NA,Discussion Expert
+"New York, New York, United States",17,7,23,530,142,NA,Notebooks Master
+"Athens, Greece",46,41,16,493,575,NA,Competitions Master
+"Saint Petersburg, Russia",24,15,17,168,204,NA,Competitions Expert
+NA,60,6,27,647,1469,NA,Competitions Expert
+"Earth, Texas, United States",14,16,14,131,517,NA,Competitions Expert
+"Mumbai, Maharashtra, India",4,1,23,934,291,NA,Notebooks Expert
+"Lille, Hauts-de-France, France",4,NA,NA,72,NA,NA,Discussion Expert
+"El-Mahalla El-Kubra, Gharbia Governorate, Egypt",1,6,12,455,248,NA,Datasets Master
+"Ahmedabad, Gujarat, India",14,34,76,370,125,NA,Datasets Expert
+"Nowhere Else, Tasmania, Australia",10,3,NA,101,NA,NA,Competitions Master
+"Lausanne, Vaud, Switzerland",8,7,14,127,178,NA,Competitions Expert
+"Nanded, Maharashtra, India",17,50,4,336,NA,NA,Competitions Expert
+,1,NA,NA,672,NA,NA,Discussion Expert
+NA,NA,9,15,532,NA,162,Notebooks Master
+"Noida, Uttar Pradesh, India",17,8,29,554,83,NA,Notebooks Master
+"Gurugram, Haryana, India",18,27,29,458,69,NA,Notebooks Master
+NA,6,NA,NA,71,NA,NA,Competitions Master
+"Thane, Maharashtra, India",5,6,9,326,1378,NA,Datasets Expert
+"Hangu, Khyber Pakhtunkhwa, Pakistan",NA,8,14,178,NA,260,Notebooks Master
+"Toronto, Ontario, Canada",12,36,21,357,861,NA,Competitions Expert
+"Montreal, Quebec, Canada",7,7,20,209,NA,150,Notebooks Master
+"Paris, Île-de-France, France",41,6,12,438,288,NA,Competitions Master
+"Mashhad, Razavi Khorasan Province, Iran",NA,8,9,436,NA,216,Datasets Expert
+"Kansas City, Missouri, United States",2,1,8,"1,102",109,NA,Notebooks Expert
+"Moscow, Russia",1,NA,5,379,285,NA,Notebooks Expert
+"Kyoto, Kyoto, Japan",25,33,8,100,971,NA,Competitions Master
+NA,1,1,6,405,946,NA,Notebooks Expert
+NA,1,6,NA,299,NA,NA,Discussion Expert
+NA,13,NA,NA,"1,200",NA,NA,Discussion Master
+"Quimper, Brittany, France",59,2,46,"1,461",3,NA,Notebooks Grandmaster
+"Gran, Innlandet, Norway",9,NA,NA,269,NA,NA,Competitions Grandmaster
+"Beijing, Beijing, China",15,23,14,85,NA,NA,Competitions Master
+"Taunsa, Punjab, Pakistan",NA,8,NA,126,NA,NA,Datasets Expert
+"New Delhi, Delhi, India",NA,16,20,442,NA,348,Datasets Expert
+"Seoul, Seoul, South Korea",26,NA,9,212,430,NA,Competitions Grandmaster
+"Zhuhai, Guangdong Province, China",26,47,8,190,NA,NA,Competitions Master
+"Tokyo, Tokyo, Japan",29,NA,7,271,NA,NA,Competitions Expert
+"Tehran, Tehran Province, Iran",NA,5,19,503,265,NA,Datasets Expert
+"Cologne, North Rhine-Westphalia, Germany",25,23,40,254,18,NA,Notebooks Grandmaster
+"Minsk, Minsk Region, Belarus",26,2,1,126,NA,NA,Competitions Grandmaster
+NA,11,6,15,170,503,NA,Notebooks Expert
+"Suwon-si, Gyeonggi-do, South Korea",5,3,15,425,162,NA,Notebooks Master
+"Montreal, Quebec, Canada",43,26,158,"1,181",79,NA,Notebooks Grandmaster
+"Munich, Bavaria, Germany",19,2,25,590,276,NA,Competitions Master
+"Kochi, Kerala, India",17,12,38,947,18,NA,Notebooks Grandmaster
+"Morjim, Goa, India",2,2,22,422,193,NA,Notebooks Master
+NA,10,4,26,343,146,NA,Notebooks Master
+"Bengaluru, Karnataka, India",32,15,69,910,20,NA,Notebooks Master
+"London, England, United Kingdom",88,3,237,"1,736",6,NA,Discussion Grandmaster
+"Bengaluru, Karnataka, India",34,1,4,269,NA,NA,Competitions Master
+"Pau, Nouvelle-Aquitaine, France",21,15,75,259,124,NA,Notebooks Expert
+"Berlin, Berlin, Germany",16,1,5,244,NA,NA,Competitions Expert
+"Tokyo, Tokyo, Japan",38,1,2,154,NA,NA,Competitions Master
+,6,2,11,117,316,NA,Notebooks Expert
+"Parma, Emilia-Romagna, Italy",NA,NA,19,710,133,NA,Notebooks Master
+"Majitar, Sikkim, India",5,5,50,714,56,NA,Notebooks Master
+"Budapest, Hungary",12,3,10,158,725,NA,Datasets Expert
+"Mumbai, Maharashtra, India",20,4,16,313,1523,NA,Notebooks Expert
+"Moscow, Russia",20,6,15,237,1920,NA,Competitions Expert
+"Karachi, Sindh, Pakistan",NA,1,4,270,NA,NA,Discussion Expert
+"Kolkata, West Bengal, India",26,8,20,144,504,NA,Competitions Master
+"Moscow, Russia",15,2,7,119,1030,NA,Competitions Expert
+"Buenos Aires, Buenos Aires, Argentina",18,79,56,286,6,NA,Notebooks Grandmaster
+"İstanbul, İstanbul, Turkey",29,70,25,419,44,NA,Notebooks Grandmaster
+"Daejeon, Daejeon, South Korea",9,5,27,277,481,NA,Datasets Expert
+"Istanbul, Istanbul, Turkey",33,5,9,522,541,NA,Competitions Grandmaster
+"Bhopal, Madhya Pradesh, India",11,19,9,443,669,NA,Datasets Expert
+"Pune, Maharashtra, India",14,1,20,401,338,NA,Notebooks Expert
+NA,83,12,96,453,178,NA,Competitions Master
+"Hope, Tasman, New Zealand",3,NA,12,489,1046,NA,Notebooks Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",1,4,12,224,1036,NA,Datasets Expert
+"Bengaluru, Karnataka, India",17,NA,13,"1,001",104,NA,Discussion Grandmaster
+"San Francisco, California, United States",10,9,6,336,1059,NA,Datasets Expert
+"Mansoura, Dakahlia Governorate, Egypt",NA,3,5,375,NA,1510,Datasets Expert
+"Charlottesville, Virginia, United States",5,NA,NA,102,NA,NA,Competitions Master
+"Amsterdam, North Holland, Netherlands",49,14,91,687,21,NA,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",6,3,34,528,149,NA,Notebooks Master
+"Tel Aviv-Yafo, Tel Aviv District, Israel",19,10,10,476,119,NA,Competitions Grandmaster
+"California, United States",60,4,18,477,32,NA,Competitions Grandmaster
+"Chennai, Tamil Nadu, India",5,8,15,287,415,NA,Datasets Expert
+"New York, New York, United States",32,122,21,593,968,NA,Competitions Master
+"Tokyo, Tokyo, Japan",35,78,10,291,452,NA,Competitions Master
+"Singapore, Singapore",11,20,17,73,NA,NA,Competitions Master
+"Andijan, Andijan region, Uzbekistan",3,NA,21,280,55,NA,Notebooks Master
+"Kafr El-Shaikh, Gharbia Governorate, Egypt",1,6,32,659,273,NA,Notebooks Master
+"Mumbai, Maharashtra, India",1,45,45,311,172,NA,Notebooks Master
+"San Francisco, California, United States",21,21,134,575,2005,NA,Datasets Expert
+"Hudson, Florida, United States",33,1,3,196,NA,NA,Competitions Master
+"İstanbul, İstanbul, Turkey",1,1,33,312,867,NA,Notebooks Expert
+"Lahore, Punjab, Pakistan",17,18,76,565,150,NA,Notebooks Master
+"Boston, Massachusetts, United States",9,NA,15,220,544,NA,Competitions Master
+"Hyderabad, Telangana, India",2,30,64,630,109,NA,Notebooks Master
+"Atlanta, Georgia, United States",20,24,27,264,702,NA,Competitions Expert
+"Malmö, Skåne County, Sweden",4,NA,6,117,NA,NA,Discussion Expert
+"Beijing, Beijing, China",59,30,35,92,901,NA,Competitions Grandmaster
+"Neemrana, Rajasthan, India",NA,1,18,900,99,NA,Notebooks Master
+"Bengaluru, Karnataka, India",10,9,26,437,82,NA,Notebooks Master
+"Moscow, Russia",9,39,17,145,260,NA,Notebooks Master
+"Dubai, Dubai, United Arab Emirates",13,NA,17,145,749,NA,Notebooks Expert
+"Yokohama, Kanagawa, Japan",23,5,7,121,487,NA,Competitions Master
+"Amaravati, Andhra Pradesh, India",1,6,15,379,481,NA,Datasets Expert
+"Prague, Prague, Czechia",6,NA,2,264,NA,NA,Competitions Master
+"Nakhon Ratchasima, Thailand",31,80,35,838,38,NA,Notebooks Master
+"Basavakalyan, Karnataka, India",1,NA,10,248,646,NA,Notebooks Expert
+"İstanbul, İstanbul, Turkey",NA,5,9,266,777,NA,Datasets Expert
+"Acapulco, Guerrero, Mexico",11,1,14,448,1147,NA,Competitions Expert
+"Bengaluru, Karnataka, India",NA,16,33,547,236,NA,Notebooks Expert
+"Mumbai, Maharashtra, India",NA,6,11,370,297,NA,Notebooks Master
+"Madrid, Community of Madrid, Spain",32,NA,10,168,2276,NA,Competitions Expert
+"Cleveland, Ohio, United States",6,NA,2,133,NA,NA,Competitions Master
+"Jaipur, Rajasthan, India",1,1,8,395,648,NA,Notebooks Expert
+"Brisbane, Queensland, Australia",12,10,1,158,NA,NA,Competitions Grandmaster
+"İstanbul, İstanbul, Turkey",20,5,19,114,226,NA,Notebooks Master
+"Hoboken, New Jersey, United States",35,3,33,261,257,NA,Notebooks Master
+"Akhisar, Manisa, Turkey",NA,NA,7,443,734,NA,Notebooks Expert
+"Karachi, Sindh, Pakistan",NA,NA,NA,425,NA,NA,Discussion Expert
+"Bad Berka, Thuringia, Germany",4,5,NA,194,NA,NA,Competitions Expert
+"Dresden, Saxony, Germany",14,4,5,649,2934,NA,Notebooks Expert
+"Saint Petersburg, Russia",17,3,6,114,NA,NA,Competitions Grandmaster
+"London, England, United Kingdom",14,5,116,581,139,NA,Competitions Expert
+"Tokyo, Tokyo, Japan",12,NA,8,179,130,NA,Competitions Master
+NA,2,1,6,592,NA,NA,Discussion Expert
+NA,24,1,12,101,279,NA,Competitions Master
+"Cincinnati, Ohio, United States",9,NA,5,319,NA,NA,Competitions Master
+"İzmir, İzmir, Turkey",8,1,10,376,250,NA,Notebooks Expert
+"Malappuram, Kerala, India",56,79,17,595,1831,NA,Competitions Master
+"Tainan, Tainan City, Taiwan",3,1,7,135,506,NA,Notebooks Expert
+"Basel, Basel City, Switzerland",14,3,15,390,279,NA,Competitions Expert
+"Overland Park, Kansas, United States",8,4,36,263,116,NA,Notebooks Master
+"Kolkata, West Bengal, India",14,10,38,370,223,NA,Competitions Expert
+"Pune, Maharashtra, India",37,20,34,385,58,NA,Notebooks Master
+"Gurugram, Haryana, India",9,25,43,908,NA,14,Notebooks Grandmaster
+"Noida, Uttar Pradesh, India",17,6,20,720,174,NA,Notebooks Master
+"London, England, United Kingdom",26,6,30,187,520,NA,Notebooks Expert
+"Cairo, Cairo Governorate, Egypt",52,7,7,302,684,NA,Competitions Expert
+"Bizerte, Bizerte, Tunisia",34,5,27,498,82,NA,Notebooks Master
+"Tokyo, Tokyo, Japan",19,18,13,216,669,NA,Competitions Master
+"Los Angeles, California, United States",13,11,11,261,250,NA,Datasets Master
+"Burhanpur, Madhya Pradesh, India",1,4,29,293,485,NA,Datasets Expert
+"Windsor, Ontario, Canada",1,86,56,797,314,NA,Datasets Expert
+"Seongnam-si, Gyeonggi-do, South Korea",47,NA,40,558,36,NA,Competitions Grandmaster
+"Ludhiana, Punjab, India",NA,6,5,254,1077,NA,Datasets Expert
+NA,NA,NA,5,305,1467,NA,Notebooks Expert
+NA,25,5,6,346,NA,NA,Competitions Expert
+"Paris, Île-de-France, France",137,20,29,435,152,NA,Notebooks Master
+"Berlin, Berlin, Germany",26,6,22,222,324,NA,Competitions Master
+"Baku, Azerbaijan",NA,14,13,463,221,NA,Notebooks Master
+"Jakarta, Jakarta, Indonesia",11,3,17,285,705,NA,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",13,21,73,810,87,NA,Notebooks Master
+"Nagano, Nagano, Japan",12,20,20,315,161,NA,Competitions Master
+"Bahawalpur, Punjab, Pakistan",NA,4,10,146,534,NA,Datasets Expert
+"Hanoi, Hanoi, Vietnam",78,7,2,95,NA,NA,Competitions Grandmaster
+"Des Moines, Iowa, United States",12,3,13,230,685,NA,Notebooks Expert
+"İzmir, İzmir, Turkey",NA,1,17,641,249,NA,Notebooks Master
+"İstanbul, İstanbul, Turkey",NA,NA,17,817,147,NA,Notebooks Master
+"Hong Kong, Hong Kong",32,3,13,372,145,NA,Competitions Master
+"Knoxville, Tennessee, United States",31,6,88,344,138,NA,Notebooks Master
+"Sunnyvale, California, United States",26,5,14,472,359,NA,Competitions Grandmaster
+"Pune, Maharashtra, India",27,141,67,246,1035,NA,Competitions Expert
+"Rome, Lazio, Italy",46,18,40,180,248,NA,Competitions Master
+"Beijing, Beijing, China",45,NA,NA,101,NA,NA,Competitions Master
+"Kharkiv, Kharkiv Oblast, Ukraine",44,5,55,421,8,NA,Notebooks Grandmaster
+"Suwon-si, Gyeonggi-do, South Korea",25,7,NA,192,NA,NA,Competitions Master
+"London, England, United Kingdom",8,5,6,195,NA,NA,Competitions Master
+"Kanpur, Uttar Pradesh, India",13,7,27,777,142,NA,Notebooks Master
+"Prague, Prague, Czechia",18,12,66,197,82,NA,Notebooks Master
+"Kayseri, Kayseri, Turkey",1,NA,11,296,321,NA,Notebooks Master
+"Alexandria, Alexandria Governorate, Egypt",1,3,8,365,528,NA,Datasets Expert
+"Kyiv, Ukraine",48,1,35,156,635,NA,Competitions Master
+"Dubai, Dubai, United Arab Emirates",17,38,31,266,5,NA,Notebooks Grandmaster
+"Tel Aviv-Yafo, Tel Aviv District, Israel",NA,4,10,397,381,NA,Datasets Expert
+"Hamburg, Hamburg, Germany",55,8,8,93,484,NA,Competitions Master
+"Prague, Prague, Czechia",NA,1,10,685,264,NA,Notebooks Expert
+Taiwan,70,16,15,143,266,NA,Competitions Master
+"Strasbourg, Grand Est, France",15,NA,4,143,NA,NA,Competitions Master
+,NA,NA,4,200,NA,NA,Discussion Expert
+NA,15,4,10,180,839,NA,Datasets Expert
+"Manila, Metro Manila, Philippines",NA,21,35,273,593,NA,Datasets Expert
+"Chennai, Tamil Nadu, India",2,6,20,429,352,NA,Datasets Expert
+"Seoul, Seoul, South Korea",NA,8,39,215,355,NA,Datasets Expert
+"Alicante, Valencian Community, Spain",28,NA,1,475,NA,NA,Competitions Master
+"Amsterdam, North Holland, Netherlands",8,1,46,131,24,NA,Competitions Expert
+"Vinnytsia, Vinnytsia Oblast, Ukraine",66,19,162,542,10,NA,Notebooks Grandmaster
+"Osaka, Osaka, Japan",28,16,16,130,NA,NA,Competitions Master
+"Chongqing, Chongqing, China",9,10,10,205,425,NA,Competitions Master
+"Tokyo, Tokyo, Japan",16,17,41,623,22,NA,Notebooks Grandmaster
+"Jamnagar, Gujarat, India",15,8,22,226,550,NA,Datasets Expert
+"San Francisco, California, United States",70,1,3,424,NA,NA,Competitions Grandmaster
+"New Delhi, Delhi, India",36,25,12,223,283,NA,Competitions Master
+"Calgary, Alberta, Canada",12,8,10,284,360,NA,Competitions Expert
+"Faisalabad, Punjab, Pakistan",NA,NA,8,315,NA,644,Notebooks Expert
+"Dublin, County Dublin, Ireland",43,20,39,284,5,NA,Competitions Grandmaster
+"Yokohama, Kanagawa, Japan",97,NA,4,125,NA,NA,Competitions Grandmaster
+"Ottawa, Ontario, Canada",14,NA,24,239,300,NA,Notebooks Expert
+"Tunis, Tunis, Tunisia",1,13,18,160,698,NA,Datasets Expert
+"Gelderland, Netherlands",45,9,16,477,150,NA,Competitions Expert
+"Vinnytsia, Vinnytsia Oblast, Ukraine",34,9,35,412,13,NA,Notebooks Grandmaster
+"Jaipur, Rajasthan, India",3,30,7,306,925,NA,Datasets Grandmaster
+"Winnipeg, Manitoba, Canada",14,10,44,327,310,NA,Datasets Expert
+"Kaithal, Haryana, India",3,3,19,305,139,NA,Notebooks Master
+NA,57,1,20,272,197,NA,Notebooks Master
+"Zhoushan, Zhejiang, China",24,24,11,143,217,NA,Competitions Master
+"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",NA,NA,2,271,NA,NA,Discussion Expert
+"Moscow, Russia",55,4,6,278,157,NA,Competitions Master
+"Ahmedabad, Gujarat, India",16,1,13,489,403,NA,Notebooks Expert
+NA,NA,9,72,498,397,NA,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",3,12,27,250,625,NA,Datasets Expert
+"London, England, United Kingdom",28,1,22,179,437,NA,Competitions Expert
+NA,5,NA,18,128,681,NA,Notebooks Expert
+"Kolkata, West Bengal, India",49,3,10,188,NA,NA,Competitions Master
+"Brussels, Brussels, Belgium",3,1,15,124,717,NA,Notebooks Expert
+"Kyiv, Ukraine",39,8,22,268,NA,NA,Competitions Grandmaster
+"Taipei, Taiwan",42,2,6,172,486,NA,Competitions Grandmaster
+NA,NA,3,19,"1,680",42,NA,Notebooks Grandmaster
+"Vancouver, British Columbia, Canada",6,NA,13,354,62,NA,Notebooks Master
+"Kochi, Kerala, India",37,16,39,553,281,NA,Notebooks Expert
+"Pella, Iowa, United States",7,132,31,607,114,NA,Notebooks Master
+"Kolkata, West Bengal, India",5,3,59,792,112,NA,Notebooks Master
+"Incheon, Incheon, South Korea",45,2,62,687,74,NA,Notebooks Master
+"Stuttgart, Baden-Württemberg, Germany",2,3,18,186,587,NA,Datasets Expert
+"Hamamatsu, Shizuoka, Japan",6,25,4,174,NA,NA,Competitions Expert
+"Jaipur, Rajasthan, India",18,16,66,583,54,NA,Notebooks Grandmaster
+"Nijmegen, Gelderland, Netherlands",21,66,46,162,132,NA,Notebooks Master
+"New Delhi, Delhi, India",2,8,10,246,264,NA,Datasets Expert
+"Philadelphia, Pennsylvania, United States",8,1,13,196,1372,NA,Notebooks Expert
+"Seoul, Seoul, South Korea",16,6,90,654,9,NA,Notebooks Grandmaster
+"Halden, Viken, Norway",4,6,15,257,126,NA,Notebooks Master
+"Chennai, Tamil Nadu, India",4,4,16,179,226,NA,Datasets Expert
+"Frome, England, United Kingdom",9,1,25,553,302,NA,Notebooks Master
+"Mumbai, Maharashtra, India",3,20,29,327,704,NA,Datasets Expert
+"London, Ontario, Canada",28,16,29,300,115,NA,Datasets Master
+"Karachi, Sindh, Pakistan",NA,3,7,689,184,NA,Datasets Expert
+"Granada, Andalusia, Spain",7,1,18,236,202,NA,Notebooks Master
+NA,67,6,29,"2,266",463,NA,Competitions Master
+"Bengaluru, Karnataka, India",1,4,5,210,1827,NA,Datasets Expert
+"Mumbai, Maharashtra, India",4,4,11,391,186,NA,Notebooks Master
+"Yokohama, Kanagawa, Japan",8,35,5,106,482,NA,Competitions Master
+"São Paulo, State of São Paulo, Brazil",8,13,27,299,94,NA,Datasets Expert
+"Hong Kong, Hong Kong",3,5,10,385,381,NA,Notebooks Master
+"Islamabad, Islamabad Capital Territory, Pakistan",1,4,16,498,220,NA,Notebooks Master
+"Surat, Gujarat, India",5,7,25,211,143,NA,Notebooks Master
+"Montreal, Quebec, Canada",3,NA,12,340,750,NA,Notebooks Expert
+"Bahawalpur, Punjab, Pakistan",NA,5,7,125,688,NA,Datasets Expert
+"Amsterdam, North Holland, Netherlands",17,2,17,162,42,NA,Notebooks Expert
+"Valparaíso, Valparaíso, Chile",9,2,12,122,1999,NA,Competitions Expert
+NA,50,51,43,308,490,NA,Competitions Expert
+"Changsha, Hunan, China",1,NA,18,429,288,NA,Notebooks Master
+"New Delhi, Delhi, India",38,NA,9,187,1109,NA,Competitions Master
+"Budapest, Hungary",6,NA,5,330,NA,NA,Discussion Expert
+"Cork, County Cork, Ireland",16,30,25,242,655,NA,Datasets Expert
+"Paris, Île-de-France, France",31,13,23,215,235,NA,Competitions Master
+"Tokyo, Tokyo, Japan",22,54,12,289,606,NA,Competitions Master
+"Jaipur, Rajasthan, India",4,3,22,"1,008",101,NA,Notebooks Master
+"Tel Aviv-Yafo, Tel Aviv District, Israel",106,19,212,555,100,NA,Competitions Expert
+"Mumbai, Maharashtra, India",12,7,24,383,155,NA,Notebooks Master
+"Ankara, Ankara, Turkey",13,290,2,188,NA,NA,Competitions Expert
+"Tokyo, Tokyo, Japan",35,20,111,271,73,NA,Notebooks Master
+"Islamabad, Islamabad Capital Territory, Pakistan",6,3,6,188,1385,NA,Datasets Expert
+"Munich, Bavaria, Germany",6,3,13,179,881,NA,Notebooks Expert
+"Kolkata, West Bengal, India",NA,NA,9,218,1615,NA,Notebooks Expert
+"Madrid, Community of Madrid, Spain",4,31,14,544,1316,NA,Datasets Grandmaster
+NA,16,NA,2,252,NA,NA,Competitions Master
+"Riga, Latvia",153,1,41,226,52,NA,Competitions Grandmaster
+"Miami, Florida, United States",49,7,18,457,107,NA,Competitions Grandmaster
+"Osaka, Osaka, Japan",NA,14,22,255,944,NA,Datasets Expert
+NA,53,1,5,285,NA,NA,Competitions Master
+"Heidelberg, Baden-Württemberg, Germany",17,4,7,257,141,NA,Competitions Expert
+"İstanbul, İstanbul, Turkey",11,8,16,213,449,NA,Notebooks Expert
+"Portland, Oregon, United States",7,NA,3,326,NA,NA,Competitions Expert
+"Madrid, Community of Madrid, Spain",9,3,18,58,1671,NA,Competitions Expert
+"Mumbai, Maharashtra, India",2,9,11,208,755,NA,Datasets Expert
+"Mandi, Himachal Pradesh, India",1,9,16,270,808,NA,Datasets Expert
+"Taipei, Taiwan",NA,NA,19,217,425,NA,Notebooks Expert
+"Bengaluru, Karnataka, India",5,3,8,171,990,NA,Notebooks Expert
+United States,8,NA,1,167,NA,NA,Discussion Expert
+"Hyderabad, Telangana, India",91,14,20,463,1087,NA,Competitions Expert
+NA,35,NA,3,89,NA,NA,Competitions Master
+"Rourkela, Odisha, India",20,16,23,176,322,NA,Datasets Expert
+,NA,NA,2,485,NA,NA,Discussion Expert
+,5,2,10,241,1184,NA,Notebooks Expert
+"Lahore, Punjab, Pakistan",NA,12,10,134,258,NA,Datasets Master
+"Brussels, Brussels, Belgium",19,87,13,273,97,NA,Notebooks Master
+"Jaipur, Rajasthan, India",1,NA,18,274,333,NA,Notebooks Expert
+"Salvador, State of Bahia, Brazil",3,NA,6,253,NA,NA,Discussion Expert
+"Perth, Western Australia, Australia",8,4,2,137,NA,NA,Discussion Expert
+"Yokohama, Kanagawa, Japan",18,65,20,124,262,NA,Competitions Grandmaster
+"Delhi, Delhi, India",27,56,8,142,465,NA,Competitions Master
+"Passau, Bavaria, Germany",NA,6,6,240,401,NA,Datasets Expert
+"Gurugram, Haryana, India",43,4,2,210,NA,NA,Competitions Expert
+,3,NA,1,231,NA,NA,Discussion Expert
+"Madrid, Community of Madrid, Spain",98,45,16,152,NA,NA,Competitions Master
+"Milan, Lombardy, Italy",15,NA,8,154,1179,NA,Notebooks Expert
+"Chattogram, Chittagong Division, Bangladesh",24,1,4,105,NA,NA,Competitions Expert
+"Bengaluru, Karnataka, India",30,16,45,228,528,NA,Datasets Expert
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",10,5,14,120,1007,NA,Competitions Expert
+NA,5,1,10,344,193,NA,Notebooks Master
+"Hyderabad, Telangana, India",37,6,27,143,474,NA,Notebooks Master
+Beit Hanina,25,14,1,112,NA,NA,Competitions Expert
+"London, England, United Kingdom",42,NA,22,315,275,NA,Competitions Expert
+"Coimbra, Coimbra District, Portugal",NA,NA,5,385,534,NA,Notebooks Expert
+"Bhiwandi, Maharashtra, India",15,12,7,131,NA,NA,Discussion Expert
+"Bengaluru, Karnataka, India",16,4,13,330,992,NA,Notebooks Expert
+NA,10,1,3,134,NA,NA,Competitions Expert
+"Chongqing, Chongqing, China",8,NA,7,100,NA,NA,Discussion Expert
+"Mahabad, West Azerbaijan Province, Iran",2,4,11,220,1618,NA,Notebooks Expert
+"Ulaanbaatar, Ulaanbaatar, Mongolia",14,1,1,191,NA,NA,Competitions Grandmaster
+"Bengaluru, Karnataka, India",37,8,17,195,441,NA,Datasets Expert
+"Tokyo, Tokyo, Japan",29,3,6,116,168,NA,Competitions Master
+NA,17,17,16,160,310,NA,Competitions Expert
+"Jaipur, Rajasthan, India",NA,1,11,615,120,NA,Notebooks Master
+"Guangzhou, Guangdong Province, China",59,24,136,347,79,NA,Notebooks Master
+"Tehran, Tehran Province, Iran",NA,14,17,236,NA,213,Notebooks Master
+NA,3,NA,11,231,1869,NA,Notebooks Expert
+"Baku, Azerbaijan",NA,5,1,164,NA,NA,Datasets Expert
+"Mansoura, Dakahlia Governorate, Egypt",2,NA,8,274,908,NA,Notebooks Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",22,2,11,78,573,NA,Competitions Expert
+"Asheville, North Carolina, United States",10,NA,NA,127,NA,NA,Competitions Expert
+"Hyderabad, Telangana, India",9,21,52,281,7,NA,Notebooks Grandmaster
+"Guwahati, Assam, India",15,NA,34,148,563,NA,Notebooks Expert
+"Agra, Uttar Pradesh, India",NA,NA,4,119,2331,NA,Notebooks Expert
+"Caraguatatuba, State of São Paulo, Brazil",NA,1,4,279,NA,NA,Discussion Expert
+NA,3,NA,6,105,1181,NA,Notebooks Expert
+"Pisa, Tuscany, Italy",NA,17,9,178,1469,NA,Datasets Expert
+"Gurugram, Haryana, India",11,14,26,263,166,NA,Notebooks Master
+"Tokyo, Tokyo, Japan",29,7,8,79,433,NA,Competitions Master
+"Mumbai, Maharashtra, India",14,4,10,140,850,NA,Notebooks Expert
+NA,50,12,13,220,1684,NA,Competitions Master
+"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",NA,4,18,240,228,NA,Notebooks Master
+"Bahawalpur, Punjab, Pakistan",1,4,7,77,994,NA,Datasets Expert
+"Amsterdam, North Holland, Netherlands",2,8,42,745,197,NA,Notebooks Master
+"Lahore, Punjab, Pakistan",NA,NA,8,223,506,NA,Notebooks Expert
+"Bristol, England, United Kingdom",36,1,21,547,NA,NA,Competitions Master
+"Gurugram, Haryana, India",20,45,21,700,441,NA,Discussion Master
+"Faiyum, Faiyum Governorate, Egypt",3,NA,11,314,452,NA,Notebooks Expert
+"Washington, District of Columbia, United States",18,2,19,230,389,NA,Competitions Expert
+"Ahmedabad, Gujarat, India",1,14,13,243,512,NA,Datasets Master
+Muzaffarabad,NA,6,5,100,1407,NA,Datasets Expert
+NA,32,NA,NA,331,NA,NA,Discussion Expert
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",4,1,35,430,277,NA,Notebooks Master
+"Taipei, Taiwan",17,18,11,421,437,NA,Competitions Master
+"Moscow, Russia",15,1,26,328,115,NA,Notebooks Master
+"Coimbatore, Tamil Nadu, India",NA,9,11,286,601,NA,Datasets Expert
+"Bloomington, Indiana, United States",2,NA,20,699,160,NA,Notebooks Master
+NA,NA,6,7,176,494,NA,Datasets Expert
+"Navi Mumbai, Maharashtra, India",3,8,19,283,151,NA,Notebooks Master
+"Najaf, Najaf Governorate, Iraq",15,66,50,224,541,NA,Competitions Expert
+"Bengaluru, Karnataka, India",9,17,78,617,208,NA,Datasets Expert
+"Parkville, Victoria, Australia",26,6,5,141,NA,NA,Competitions Expert
+"Cairo, Cairo Governorate, Egypt",4,1,4,187,NA,NA,Discussion Expert
+"Hyderabad, Telangana, India",3,NA,11,190,1244,NA,Notebooks Expert
+"Greenville, South Carolina, United States",1,13,12,90,969,NA,Datasets Expert
+"Kolkata, West Bengal, India",1,5,10,173,NA,681,Datasets Expert
+"Bengaluru, Karnataka, India",2,4,14,152,530,NA,Datasets Expert
+NA,48,NA,4,341,NA,NA,Competitions Master
+"Bengaluru, Karnataka, India",3,NA,9,255,345,NA,Notebooks Expert
+"Milan, Lombardy, Italy",16,NA,2,60,NA,NA,Competitions Master
+"Dublin, County Dublin, Ireland",95,NA,6,317,NA,NA,Discussion Master
+"Tokyo, Tokyo, Japan",53,9,98,228,118,NA,Competitions Master
+"Ankara, Ankara, Turkey",22,8,13,85,374,NA,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",NA,27,48,338,320,NA,Notebooks Expert
+United States,26,NA,1,532,NA,NA,Competitions Master
+"Delhi, Delhi, India",13,6,34,232,653,NA,Datasets Expert
+"Santa Cruz, California, United States",13,1,31,273,236,NA,Competitions Expert
+"Fortaleza, State of Ceará, Brazil",13,21,109,"1,516",34,NA,Notebooks Master
+"Uppsala, Uppsala County, Sweden",NA,9,29,328,455,NA,Notebooks Expert
+NA,3,5,8,203,1114,NA,Datasets Expert
+"Siloam Springs, Arkansas, United States",1,NA,2,184,NA,NA,Discussion Expert
+"São Paulo, State of São Paulo, Brazil",24,3,2,116,NA,NA,Competitions Master
+"Rotterdam, South Holland, Netherlands",NA,13,38,570,272,NA,Datasets Master
+NA,29,4,15,128,251,NA,Notebooks Master
+"Dhaka, Dhaka Division, Bangladesh",3,5,13,130,NA,964,Datasets Expert
+"Oita, Oita, Japan",4,NA,1,165,NA,NA,Competitions Master
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",43,5,2,88,NA,NA,Competitions Grandmaster
+"Raleigh, North Carolina, United States",15,13,14,243,467,NA,Notebooks Expert
+NA,7,1,7,128,1538,NA,Competitions Expert
+"London, England, United Kingdom",6,NA,2,102,NA,NA,Competitions Expert
+"Austin, Texas, United States",2,1,20,516,142,NA,Notebooks Master
+"Thane, Maharashtra, India",8,7,33,374,154,NA,Notebooks Master
+"Tehran, Tehran Province, Iran",NA,5,44,"1,079",136,NA,Notebooks Master
+"Bristol, England, United Kingdom",7,2,1,96,NA,NA,Competitions Master
+NA,NA,NA,8,221,328,NA,Notebooks Expert
+"Bogor, West Java, Indonesia",14,4,29,414,307,NA,Datasets Expert
+"Seattle, Washington, United States",8,4,9,112,1167,NA,Notebooks Expert
+"Los Altos, California, United States",46,5,9,255,2456,NA,Competitions Grandmaster
+"Onchan, Isle of Man",15,8,16,271,51,NA,Competitions Master
+"Stockholm, Stockholm County, Sweden",81,52,1,432,NA,NA,Competitions Expert
+"Helsinki, Finland",44,22,57,701,48,NA,Notebooks Master
+"Lahore, Punjab, Pakistan",1,2,41,149,NA,NA,Discussion Expert
+"Burdur, Burdur, Turkey",13,1,6,73,1346,NA,Notebooks Expert
+"Coimbatore, Tamil Nadu, India",NA,NA,13,237,357,NA,Notebooks Master
+NA,17,3,53,159,NA,410,Notebooks Expert
+"Shanghai, Shanghai, China",10,19,4,144,NA,NA,Competitions Expert
+NA,6,NA,NA,87,NA,NA,Competitions Expert
+"Paris, Île-de-France, France",8,15,23,471,225,NA,Competitions Expert
+"Saint Petersburg, Russia",22,13,25,437,59,NA,Notebooks Grandmaster
+"Hydra, Algiers Province, Algeria",2,NA,5,204,NA,NA,Discussion Expert
+"Bengaluru, Karnataka, India",1,9,14,216,NA,501,Notebooks Expert
+"Erlangen, Bavaria, Germany",1,NA,5,167,1424,NA,Notebooks Expert
+"Manchester, England, United Kingdom",21,17,23,155,858,NA,Competitions Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",1,21,53,437,58,NA,Notebooks Master
+"Jaipur, Rajasthan, India",NA,5,21,651,128,NA,Notebooks Master
+"Abadan, Khuzestan Province, Iran",NA,21,29,232,507,NA,Datasets Expert
