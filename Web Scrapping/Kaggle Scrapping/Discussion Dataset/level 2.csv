@@ -1,0 +1,2855 @@
+Country,Total Competitions,Total Datasets,Total Codes,Total Discussions,Highest Rank,Current Rank,Current Level
+"San Diego, California, United States",54.0,109.0,99,,,1.0,Competitions Grandmaster
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",21.0,230.0,"1,880",,,2.0,Discussion Grandmaster
+Singapore,67.0,18.0,30,"5,756",139.0,,Discussion Grandmaster
+France,84.0,15.0,58,"9,743",12.0,,Competitions Grandmaster
+,19.0,326.0,38,,19.0,,Notebooks Grandmaster
+"Dubai, Dubai, United Arab Emirates",16.0,,14,"5,200",,89.0,Notebooks Master
+,14.0,2.0,46,663,,4.0,Notebooks Grandmaster
+"Madrid, Community of Madrid, Spain",37.0,14.0,154,,8.0,,Notebooks Grandmaster
+"London, Ontario, Canada",38.0,150.0,126,,,9.0,Notebooks Grandmaster
+"Vienna, Vienna, Austria",63.0,9.0,17,"2,194",254.0,,Competitions Grandmaster
+,31.0,18.0,36,"1,394",80.0,,Discussion Grandmaster
+"Warsaw, Masovian Voivodeship, Poland",21.0,15.0,41,"1,824",10.0,,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",67.0,35.0,23,"1,506",14.0,,Datasets Grandmaster
+"Vilnius, Vilnius County, Lithuania",68.0,26.0,49,"1,044",18.0,,Competitions Grandmaster
+"Amman, Amman Governorate, Jordan",1.0,12.0,33,"2,957",70.0,,Datasets Grandmaster
+"Stavanger, Rogaland, Norway",229.0,106.0,142,,1.0,,Competitions Grandmaster
+"Sohawa, Punjab, Pakistan",6.0,15.0,30,"2,142",157.0,,Notebooks Master
+"Ankara, Ankara, Turkey",35.0,3.0,40,"1,202",24.0,,Discussion Grandmaster
+"Osaka, Osaka, Japan",33.0,10.0,39,824,59.0,,Datasets Grandmaster
+"Jakarta, Jakarta, Indonesia",2.0,5.0,18,"3,735",53.0,,Notebooks Grandmaster
+,,20.0,3,"1,756",,,Datasets Grandmaster
+"Verona, Veneto, Italy",226.0,6.0,87,901,43.0,,Discussion Grandmaster
+,37.0,104.0,120,,5.0,,Datasets Grandmaster
+"Paris, Île-de-France, France",61.0,67.0,45,824,27.0,,Competitions Grandmaster
+"Paris, Île-de-France, France",19.0,7.0,67,971,26.0,,Notebooks Grandmaster
+"Pittsburgh, Pennsylvania, United States",20.0,44.0,25,531,25.0,,Datasets Grandmaster
+"Bucharest, Bucharest, Romania",11.0,34.0,48,348,5.0,,Notebooks Grandmaster
+"Tokyo, Tokyo, Japan",67.0,20.0,55,400,4.0,,Competitions Grandmaster
+,,10.0,18,"2,306",,43.0,Notebooks Grandmaster
+"Dehradun, Uttarakhand, India",48.0,3.0,13,835,189.0,,Discussion Grandmaster
+"Stockholm, Stockholm County, Sweden",101.0,103.0,27,,1592.0,,Discussion Grandmaster
+"Cleveland, Ohio, United States",36.0,58.0,69,916,665.0,,Discussion Grandmaster
+"Moscow, Russia",,6.0,24,"2,282",42.0,,Notebooks Grandmaster
+"Gdańsk, Pomeranian Voivodeship, Poland",26.0,19.0,35,"1,465",71.0,,Notebooks Grandmaster
+"Gurugram, Haryana, India",39.0,8.0,38,"1,576",229.0,,Discussion Master
+,18.0,,30,"1,346",98.0,,Notebooks Master
+"Lewisville, Texas, United States",20.0,7.0,16,160,293.0,,Competitions Expert
+"Dhaka, Dhaka Division, Bangladesh",28.0,149.0,57,706,5.0,,Notebooks Grandmaster
+"Munich, Bavaria, Germany",65.0,21.0,38,"1,070",6.0,,Competitions Grandmaster
+"Bozeman, Montana, United States",26.0,2.0,44,"1,775",10.0,,Discussion Grandmaster
+"İstanbul, İstanbul, Turkey",101.0,42.0,62,875,47.0,,Competitions Grandmaster
+"London, England, United Kingdom",25.0,16.0,55,"1,137",23.0,,Notebooks Grandmaster
+"Tokyo, Tokyo, Japan",46.0,79.0,24,553,48.0,,Competitions Grandmaster
+"Tokyo, Tokyo, Japan",22.0,2.0,49,395,70.0,,Competitions Grandmaster
+"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",19.0,,16,"2,191",37.0,,Notebooks Grandmaster
+"San Francisco, California, United States",8.0,40.0,34,553,116.0,,Notebooks Master
+"Cascais, Lisbon, Portugal",20.0,3.0,41,860,5.0,,Notebooks Grandmaster
+,1.0,12.0,35,"1,583",,39.0,Notebooks Grandmaster
+"Washington, District of Columbia, United States",97.0,61.0,160,,5.0,,Competitions Grandmaster
+"Tangier, Tangier-Tétouan-Al Hoceima, Morocco",,10.0,19,"2,305",328.0,,Datasets Expert
+"Chennai, Tamil Nadu, India",113.0,17.0,82,801,1.0,,Competitions Grandmaster
+"Curitiba, State of Paraná, Brazil",249.0,20.0,116,,23.0,,Competitions Grandmaster
+"Lahore, Punjab, Pakistan",2.0,14.0,15,"1,341",,132.0,Notebooks Master
+"Boston, Massachusetts, United States",56.0,12.0,23,"2,258",1.0,,Notebooks Grandmaster
+"Peravali, Andhra Pradesh, India",,4.0,14,"1,509",,56.0,Notebooks Master
+,18.0,21.0,67,686,,18.0,Notebooks Master
+"Los Angeles, California, United States",43.0,8.0,17,735,452.0,,Discussion Grandmaster
+"Amreli, Gujarat, India",,5.0,16,"1,299",89.0,,Datasets Master
+"Philadelphia, Pennsylvania, United States",5.0,29.0,64,"1,385",,55.0,Notebooks Master
+"Dubai, Dubai, United Arab Emirates",2.0,7.0,15,"2,821",40.0,,Notebooks Grandmaster
+"Kolkata, West Bengal, India",,21.0,11,"1,081",107.0,,Datasets Grandmaster
+"Warsaw, Masovian Voivodeship, Poland",30.0,15.0,64,411,51.0,,Competitions Master
+"Ghent, Flanders, Belgium",25.0,11.0,28,731,257.0,,Competitions Master
+"Bengaluru, Karnataka, India",95.0,20.0,55,741,376.0,,Discussion Grandmaster
+"Zagreb, Croatia",13.0,3.0,,390,,,Competitions Master
+,10.0,1.0,36,218,58.0,,Notebooks Master
+"Ikeda, Osaka, Japan",16.0,,38,326,85.0,,Notebooks Master
+"Pune, Maharashtra, India",,17.0,23,"1,350",65.0,,Notebooks Grandmaster
+"Hwaseong-si, Gyeonggi-do, South Korea",3.0,4.0,37,"2,409",17.0,,Notebooks Grandmaster
+"Pune, Maharashtra, India",38.0,20.0,40,"1,131",10.0,,Datasets Grandmaster
+"Bengaluru, Karnataka, India",9.0,19.0,18,"1,173",115.0,,Notebooks Master
+"Bucharest, Bucharest, Romania",106.0,114.0,254,,3.0,,Datasets Grandmaster
+"Cairo, Cairo Governorate, Egypt",2.0,,24,"1,586",,62.0,Notebooks Master
+"Santa Clara, California, United States",30.0,6.0,17,500,1399.0,,Competitions Master
+"Kraków, Lesser Poland Voivodeship, Poland",7.0,11.0,21,340,48.0,,Competitions Master
+"Sydney, New South Wales, Australia",,,15,"1,484",64.0,,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",7.0,,14,"1,027",315.0,,Discussion Master
+"Paris, Île-de-France, France",48.0,44.0,43,423,35.0,,Competitions Master
+"Brisbane, Queensland, Australia",20.0,11.0,20,430,,155.0,Competitions Master
+"California City, California, United States",42.0,33.0,30,695,8.0,,Notebooks Grandmaster
+"Polatsk, Vitebsk Region, Belarus",34.0,10.0,68,"1,521",136.0,,Notebooks Master
+,10.0,10.0,15,268,,200.0,Notebooks Master
+"Pune, Maharashtra, India",,12.0,18,"1,122",,60.0,Notebooks Grandmaster
+"Iloilo City, Western Visayas, Philippines",1.0,13.0,19,"1,037",78.0,,Datasets Master
+"Greencastle, Indiana, United States",242.0,134.0,595,,5.0,,Competitions Grandmaster
+"Ashburn, Virginia, United States",35.0,1.0,3,757,,,Discussion Grandmaster
+"Hanoi, Hanoi, Vietnam",79.0,13.0,18,649,125.0,,Competitions Master
+"Singapore, Singapore",14.0,54.0,80,977,2.0,,Datasets Grandmaster
+"Hyderabad, Telangana, India",20.0,27.0,68,869,124.0,,Notebooks Master
+"Antalya, Antalya, Turkey",21.0,9.0,37,"1,000",25.0,,Notebooks Grandmaster
+"Hyderabad, Telangana, India",1.0,7.0,18,"1,354",1203.0,,Datasets Expert
+"Tokyo, Tokyo, Japan",90.0,2.0,45,287,415.0,,Competitions Grandmaster
+,9.0,,25,597,165.0,,Notebooks Master
+"Amsterdam, North Holland, Netherlands",37.0,3.0,23,329,341.0,,Discussion Master
+"Bordeaux, France, France",36.0,5.0,64,"1,615",126.0,,Discussion Master
+"Delhi, Delhi, India",9.0,64.0,28,927,129.0,,Datasets Master
+,4.0,,11,132,167.0,,Notebooks Master
+"Burichang, Chittagong Division, Bangladesh",4.0,13.0,17,209,36.0,,Notebooks Grandmaster
+"Saarbrücken, Saarland, Germany",19.0,4.0,22,916,794.0,,Competitions Expert
+"Isfahan, Isfahan Province, Iran",2.0,,16,"1,273",98.0,,Notebooks Master
+"Santiago, Santiago Metropolitan Region, Chile",58.0,93.0,63,599,11.0,,Notebooks Grandmaster
+,3.0,,11,"1,182",,101.0,Notebooks Master
+,13.0,12.0,16,770,538.0,,Notebooks Expert
+"Munich, Bavaria, Germany",111.0,6.0,27,"1,246",9.0,,Notebooks Grandmaster
+"Battle Mountain, Nevada, United States",42.0,6.0,52,"1,624",96.0,,Notebooks Master
+"Shahrbabak, Kerman Province, Iran",1.0,17.0,41,"1,623",70.0,,Notebooks Master
+"Dammam, Eastern Province, Saudi Arabia",83.0,,24,454,638.0,,Discussion Master
+"Irving, Texas, United States",51.0,12.0,26,"1,129",322.0,,Discussion Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",50.0,41.0,32,"2,165",27.0,,Notebooks Grandmaster
+"Moscow, Russia",98.0,16.0,69,474,,25.0,Competitions Grandmaster
+"Gurugram, Haryana, India",92.0,93.0,41,690,217.0,,Competitions Master
+"Pune, Maharashtra, India",1.0,,13,986,,66.0,Notebooks Master
+"Chennai, Tamil Nadu, India",10.0,15.0,8,630,484.0,,Datasets Grandmaster
+,36.0,7.0,16,525,313.0,,Competitions Master
+"Lucknow, Uttar Pradesh, India",78.0,10.0,37,993,246.0,,Competitions Expert
+"Haarlem, North Holland, Netherlands",118.0,86.0,89,"1,318",,34.0,Notebooks Grandmaster
+"Fukuoka, Fukuoka, Japan",43.0,73.0,56,130,156.0,,Competitions Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",2.0,5.0,15,889,,87.0,Notebooks Master
+"Kyiv, Ukraine",13.0,1.0,40,"1,350",118.0,,Notebooks Master
+"New Delhi, Delhi, India",6.0,8.0,15,"1,013",104.0,,Notebooks Grandmaster
+"Fort Worth, Texas, United States",130.0,30.0,48,,36.0,,Notebooks Grandmaster
+"Cairo, Cairo Governorate, Egypt",3.0,6.0,24,"1,042",456.0,,Discussion Master
+"Dubai, Dubai, United Arab Emirates",90.0,13.0,100,,1.0,,Notebooks Grandmaster
+"Surat, Gujarat, India",2.0,4.0,25,830,,111.0,Notebooks Master
+"Shibuya City, Tokyo, Japan",79.0,6.0,20,544,305.0,,Competitions Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",31.0,69.0,41,940,145.0,,Notebooks Master
+"Shibuya City, Tokyo, Japan",34.0,119.0,39,365,56.0,,Competitions Master
+,13.0,6.0,29,251,625.0,,Competitions Expert
+"Paris, Île-de-France, France",59.0,27.0,7,"1,243",21.0,,Discussion Grandmaster
+"Beijing, Beijing, China",12.0,145.0,5,388,,,Competitions Grandmaster
+"Paris, Île-de-France, France",5.0,84.0,422,614,,201.0,Datasets Expert
+"Osaka, Osaka, Japan",12.0,,4,390,,,Discussion Master
+"Osaka, Osaka, Japan",40.0,2.0,1,166,,,Competitions Master
+"Sydney, New South Wales, Australia",2.0,87.0,19,928,729.0,,Datasets Expert
+"Cologne, North Rhine-Westphalia, Germany",60.0,36.0,21,874,164.0,,Competitions Grandmaster
+"San Diego, California, United States",35.0,11.0,48,789,50.0,,Discussion Grandmaster
+"Istanbul, Istanbul, Turkey",15.0,15.0,64,680,344.0,,Discussion Master
+,8.0,13.0,40,402,412.0,,Competitions Expert
+"Budapest, Hungary",27.0,4.0,47,608,15.0,,Notebooks Grandmaster
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",32.0,11.0,27,511,34.0,,Competitions Grandmaster
+"Osaka, Osaka, Japan",42.0,139.0,19,436,235.0,,Competitions Master
+"Princeton, New Jersey, United States",121.0,6.0,34,"1,366",29.0,,Competitions Grandmaster
+"Kota, Rajasthan, India",16.0,3.0,16,563,158.0,,Notebooks Master
+"Abu Dhabi, Abu Dhabi, United Arab Emirates",2.0,18.0,20,501,150.0,,Notebooks Master
+"6th of October City, Giza Governorate, Egypt",13.0,12.0,95,"1,554",90.0,,Notebooks Master
+"Boston, Massachusetts, United States",13.0,4.0,10,"1,169",371.0,,Discussion Master
+"Osaka, Osaka, Japan",18.0,2.0,13,196,312.0,,Competitions Grandmaster
+"Osaka, Osaka, Japan",1.0,,1,284,,,Discussion Master
+"Kulmbach, Bavaria, Germany",,30.0,33,990,167.0,,Notebooks Master
+"Shanghai, Shanghai, China",36.0,56.0,45,447,141.0,,Notebooks Master
+"Toronto, Ontario, Canada",4.0,3.0,9,363,1205.0,,Competitions Expert
+"Singapore, Singapore",7.0,,2,404,,,Discussion Expert
+"Colombo, Western Province, Sri Lanka",2.0,,14,"1,153",135.0,,Notebooks Master
+"Wuhan, Hubei, China",27.0,33.0,10,361,200.0,,Competitions Master
+"Waterloo, Ontario, Canada",7.0,8.0,11,"1,049",297.0,,Notebooks Master
+"Ranchi, Jharkhand, India",3.0,10.0,3,994,,,Datasets Master
+"Yazd, Yazd Province, Iran",,5.0,16,"1,234",89.0,,Notebooks Grandmaster
+"Bhubaneswar, Odisha, India",,4.0,4,436,,,Datasets Expert
+,34.0,14.0,41,450,9.0,,Notebooks Grandmaster
+"Varkala, Kerala, India",7.0,31.0,20,948,121.0,,Datasets Grandmaster
+"Beijing, Beijing, China",52.0,34.0,12,362,1400.0,,Discussion Master
+"Rohtak, Haryana, India",33.0,31.0,8,585,,,Competitions Master
+,104.0,,,"2,476",,,Discussion Expert
+"Bengaluru, Karnataka, India",62.0,18.0,77,670,10.0,,Competitions Grandmaster
+"Navi Mumbai, Maharashtra, India",31.0,9.0,53,538,24.0,,Notebooks Grandmaster
+"Pune, Maharashtra, India",19.0,5.0,46,898,59.0,,Notebooks Master
+"Dindigul, Tamil Nadu, India",8.0,,27,977,117.0,,Notebooks Master
+"Beijing, Beijing, China",49.0,98.0,22,265,250.0,,Competitions Master
+"Guangzhou, Guangdong Province, China",25.0,48.0,12,204,,,Competitions Master
+"Tokyo, Tokyo, Japan",50.0,154.0,49,116,117.0,,Competitions Master
+"Berlin, Berlin, Germany",15.0,6.0,10,206,979.0,,Competitions Expert
+"Bucharest, Bucharest, Romania",19.0,1.0,5,455,761.0,,Discussion Master
+"Yokohama, Kanagawa, Japan",41.0,62.0,69,188,168.0,,Competitions Master
+"Paris, Île-de-France, France",25.0,8.0,43,590,119.0,,Notebooks Master
+"Gaithersburg, Maryland, United States",34.0,27.0,39,"1,255",16.0,,Competitions Grandmaster
+"Pittsburgh, Pennsylvania, United States",109.0,1.0,5,"1,453",,,Competitions Expert
+"Haifa, Haifa District, Israel",17.0,5.0,16,528,136.0,,Competitions Grandmaster
+"Córdoba, Cordoba, Argentina",14.0,3.0,14,577,330.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",32.0,66.0,41,418,23.0,,Competitions Grandmaster
+"Warsaw, Masovian Voivodeship, Poland",33.0,1.0,5,277,,,Competitions Grandmaster
+"Kobe, Hyogo, Japan",23.0,8.0,14,76,164.0,,Competitions Master
+"Yokohama, Kanagawa, Japan",56.0,29.0,36,342,16.0,,Notebooks Grandmaster
+"Jakarta, Jakarta, Indonesia",13.0,1.0,19,"1,930",41.0,,Notebooks Grandmaster
+"Bursa, Bursa, Turkey",,,15,812,,69.0,Notebooks Master
+"Nagano, Nagano, Japan",7.0,2.0,6,124,1162.0,,Competitions Master
+"Bengaluru, Karnataka, India",26.0,160.0,17,,1876.0,,Competitions Master
+"Kolkata, West Bengal, India",2.0,2.0,16,607,144.0,,Notebooks Master
+"Hyderabad, Telangana, India",23.0,10.0,24,924,101.0,,Discussion Grandmaster
+"Jastrzębie-Zdrój, Silesian Voivodeship, Poland",12.0,5.0,17,383,404.0,,Competitions Expert
+"Bengaluru, Karnataka, India",32.0,13.0,31,"2,174",76.0,,Competitions Master
+"London, England, United Kingdom",38.0,6.0,11,514,413.0,,Competitions Master
+"London, England, United Kingdom",16.0,1.0,8,612,556.0,,Competitions Master
+"Chennai, Tamil Nadu, India",4.0,,16,714,123.0,,Notebooks Grandmaster
+"Beijing, Beijing, China",12.0,6.0,7,113,,570.0,Competitions Master
+"New Delhi, Delhi, India",5.0,3.0,21,884,140.0,,Notebooks Master
+"Zürich, Zurich, Switzerland",92.0,1.0,4,209,,,Competitions Grandmaster
+"Boston, Massachusetts, United States",23.0,36.0,3,198,,,Competitions Grandmaster
+"Pune, Maharashtra, India",,11.0,8,627,,205.0,Datasets Master
+"Karachi, Sindh, Pakistan",9.0,,16,634,142.0,,Notebooks Master
+"London, England, United Kingdom",64.0,124.0,,473,,,Competitions Master
+"Xiamen, Fujian, China",19.0,6.0,5,241,,,Competitions Grandmaster
+"Chengdu, Sichuan, China",25.0,3.0,28,166,,,Competitions Master
+"Paris, Île-de-France, France",11.0,1.0,14,229,556.0,,Competitions Expert
+"Helsinki, Finland",1.0,,22,986,103.0,,Notebooks Master
+"Kyoto, Kyoto, Japan",23.0,,13,121,151.0,,Notebooks Master
+"Punjab, Pakistan",6.0,6.0,22,885,165.0,,Notebooks Master
+"St Andrews, Scotland, United Kingdom",28.0,32.0,31,390,710.0,,Competitions Expert
+,14.0,3.0,1,110,,,Competitions Grandmaster
+,,,10,"1,074",200.0,,Notebooks Master
+,29.0,13.0,27,214,,,Competitions Expert
+"Pauri, Uttarakhand, India",2.0,,10,581,224.0,,Notebooks Master
+"Seoul, Seoul, South Korea",9.0,,16,686,,75.0,Notebooks Grandmaster
+,10.0,8.0,27,694,182.0,,Notebooks Master
+"Palaiseau, Île-de-France, France",84.0,13.0,23,243,91.0,,Competitions Master
+"Chengdu, Sichuan, China",20.0,60.0,5,200,,,Competitions Master
+"Pittsburgh, Pennsylvania, United States",7.0,,12,170,703.0,,Competitions Expert
+,1.0,,16,730,203.0,,Notebooks Master
+"İzmir, İzmir, Turkey",,14.0,32,454,138.0,,Notebooks Master
+"Osaka, Osaka, Japan",24.0,,20,139,128.0,,Competitions Master
+"New York, New York, United States",67.0,1.0,5,265,,,Competitions Grandmaster
+,,22.0,14,487,620.0,,Datasets Expert
+,38.0,18.0,13,247,85.0,,Competitions Grandmaster
+"Wolfsburg, Lower Saxony, Germany",34.0,4.0,12,288,2328.0,,Competitions Master
+Singapore,12.0,3.0,,184,,,Competitions Grandmaster
+"Bandar Bushehr, Bushehr Province, Iran",,1.0,13,772,212.0,,Notebooks Master
+,2.0,4.0,10,259,485.0,,Notebooks Expert
+"Indianapolis, Indiana, United States",15.0,1.0,1,150,,,Competitions Master
+"İstanbul, İstanbul, Turkey",17.0,5.0,13,578,265.0,,Notebooks Master
+"Curitiba, State of Paraná, Brazil",22.0,83.0,41,152,172.0,,Notebooks Master
+"Budapest, Hungary",81.0,15.0,78,714,7.0,,Competitions Grandmaster
+"Toulouse, Occitanie, France",23.0,12.0,18,670,257.0,,Competitions Grandmaster
+"Liverpool, England, United Kingdom",2.0,5.0,6,512,,,Datasets Expert
+,41.0,18.0,72,"1,180",253.0,,Competitions Grandmaster
+"Singapore, Singapore",18.0,6.0,50,278,329.0,,Competitions Expert
+"Beijing, Beijing, China",60.0,101.0,31,772,333.0,,Notebooks Expert
+"Seattle, Washington, United States",2.0,1.0,11,604,491.0,,Notebooks Expert
+"Yerevan, Yerevan, Armenia",64.0,216.0,22,760,355.0,,Notebooks Expert
+"Madurai, Tamil Nadu, India",51.0,15.0,61,666,115.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",28.0,,4,101,,,Competitions Master
+"New York, New York, United States",11.0,,3,355,,,Competitions Master
+"Tashkent, Tashkent Region, Uzbekistan",41.0,1.0,21,457,927.0,,Notebooks Expert
+"Kolkata, West Bengal, India",20.0,10.0,39,405,86.0,,Notebooks Master
+"Gwacheon-si, Gyeonggi-do, South Korea",40.0,25.0,7,299,,,Competitions Master
+"Paris, Île-de-France, France",41.0,,3,151,,,Competitions Master
+"Bengaluru, Karnataka, India",2.0,4.0,16,959,719.0,,Datasets Expert
+"Bengaluru, Karnataka, India",73.0,4.0,5,230,871.0,,Competitions Expert
+"Cumilla, Chittagong Division, Bangladesh",29.0,29.0,56,456,376.0,,Datasets Expert
+"Saitama, Saitama, Japan",8.0,2.0,212,815,,41.0,Notebooks Master
+"Peravali, Andhra Pradesh, India",1.0,3.0,14,436,203.0,,Notebooks Master
+,23.0,1.0,10,824,353.0,,Competitions Master
+"Chandannagar, West Bengal, India",5.0,5.0,15,658,129.0,,Notebooks Master
+"Osaka, Osaka, Japan",11.0,2.0,9,120,129.0,,Competitions Expert
+"Seattle, Washington, United States",8.0,1.0,17,350,363.0,,Competitions Master
+,,20.0,16,646,210.0,,Notebooks Master
+"Bahawalpur, Punjab, Pakistan",,7.0,21,171,176.0,,Datasets Master
+"Bengaluru, Karnataka, India",,17.0,10,369,1538.0,,Datasets Expert
+"Bahawalpur, Punjab, Pakistan",,3.0,11,99,224.0,,Notebooks Master
+"New York, New York, United States",6.0,2.0,6,310,280.0,,Notebooks Expert
+"St. Gallen, St. Gallen, Switzerland",22.0,25.0,24,250,,,Competitions Master
+,54.0,,2,260,,,Competitions Grandmaster
+"New York, New York, United States",37.0,30.0,5,160,120.0,,Competitions Grandmaster
+"Chennai, Tamil Nadu, India",34.0,109.0,28,,85.0,,Discussion Master
+"Tokyo, Tokyo, Japan",8.0,4.0,5,322,,,Competitions Grandmaster
+"Campina Grande, State of Paraíba, Brazil",35.0,37.0,58,"1,180",40.0,,Notebooks Grandmaster
+"Moscow, Russia",7.0,1.0,14,656,115.0,,Notebooks Master
+,1.0,,,404,,,Discussion Expert
+"Guangzhou, Guangdong Province, China",36.0,24.0,16,168,,,Competitions Grandmaster
+"Hsinchu, Taiwan",68.0,84.0,23,276,58.0,,Competitions Grandmaster
+,,1.0,13,569,,247.0,Notebooks Master
+Japan,47.0,99.0,41,119,124.0,,Competitions Grandmaster
+"Bengaluru, Karnataka, India",,5.0,5,765,520.0,,Datasets Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",,,11,521,165.0,,Notebooks Master
+,26.0,7.0,37,250,297.0,,Notebooks Expert
+"Lahore, Punjab, Pakistan",,,9,505,352.0,,Notebooks Expert
+"Volos, Greece",225.0,9.0,17,863,718.0,,Competitions Grandmaster
+,7.0,2.0,13,171,659.0,,Competitions Master
+"Sacramento, California, United States",38.0,8.0,91,575,55.0,,Notebooks Grandmaster
+"Mumbai, Maharashtra, India",17.0,215.0,17,576,143.0,,Datasets Grandmaster
+"Kyiv, Ukraine",7.0,6.0,53,250,412.0,,Competitions Expert
+,2.0,,31,843,186.0,,Notebooks Master
+"Aswan, Aswan Governorate, Egypt",4.0,1.0,15,471,285.0,,Notebooks Master
+"Seoul, Seoul, South Korea",63.0,16.0,33,591,45.0,,Notebooks Master
+"Beirut, Beirut Governorate, Lebanon",5.0,4.0,41,"1,193",40.0,,Notebooks Master
+"Hyderabad, Telangana, India",16.0,,3,361,,,Competitions Expert
+"Kyiv, Ukraine",29.0,6.0,2,233,,,Competitions Grandmaster
+"Saint Petersburg, Russia",16.0,3.0,17,344,29.0,,Notebooks Master
+"Madrid, Community of Madrid, Spain",8.0,4.0,25,"1,646",27.0,,Notebooks Grandmaster
+"New Delhi, Delhi, India",,7.0,11,342,243.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",44.0,10.0,29,290,11.0,,Competitions Grandmaster
+"Chemnitz, Saxony, Germany",,,5,152,581.0,,Notebooks Expert
+"Beijing, Beijing, China",12.0,148.0,9,175,,,Competitions Master
+"Karachi, Sindh, Pakistan",,11.0,15,866,171.0,,Notebooks Master
+"Warsaw, Masovian Voivodeship, Poland",44.0,4.0,9,333,,,Competitions Grandmaster
+"Shanghai, Shanghai, China",27.0,9.0,8,406,452.0,,Competitions Master
+"Fukuoka, Fukuoka, Japan",30.0,30.0,24,71,211.0,,Competitions Master
+"Brisbane, Queensland, Australia",16.0,7.0,41,93,193.0,,Notebooks Master
+"London, England, United Kingdom",13.0,,,282,,,Competitions Expert
+"Tokyo, Tokyo, Japan",17.0,,5,85,504.0,,Competitions Master
+"Singapore, Singapore",36.0,23.0,17,575,100.0,,Notebooks Master
+"Frankfurt, Hesse, Germany",11.0,1.0,37,228,31.0,,Notebooks Grandmaster
+"Gassaway, West Virginia, United States",37.0,17.0,42,341,135.0,,Notebooks Master
+"Kolkata, West Bengal, India",13.0,34.0,67,322,58.0,,Notebooks Master
+"Lviv, Lviv Oblast, Ukraine",76.0,24.0,16,274,211.0,,Competitions Master
+,12.0,48.0,22,246,2077.0,,Competitions Master
+"Bogotá, Bogota, Colombia",4.0,3.0,10,391,,467.0,Datasets Expert
+"Tokyo, Tokyo, Japan",62.0,8.0,64,114,329.0,,Competitions Grandmaster
+"İstanbul, İstanbul, Turkey",46.0,17.0,23,"2,411",35.0,,Datasets Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",9.0,8.0,14,203,831.0,,Notebooks Expert
+"Chandigarh, Punjab, India",,1.0,3,418,,,Discussion Expert
+"Selangor, Malaysia",22.0,5.0,17,356,248.0,,Notebooks Master
+"Delhi, Delhi, India",5.0,9.0,19,522,1617.0,,Datasets Expert
+"Sohawa, Punjab, Pakistan",,7.0,8,315,1806.0,,Datasets Expert
+"Charlotte, North Carolina, United States",22.0,26.0,77,379,236.0,,Datasets Expert
+"Seoul, Seoul, South Korea",23.0,10.0,15,498,126.0,,Competitions Master
+"San Diego, California, United States",30.0,16.0,15,371,62.0,,Competitions Grandmaster
+"Salt Lake City, Utah, United States",10.0,16.0,28,407,257.0,,Datasets Expert
+"Seoul, Seoul, South Korea",4.0,1.0,11,490,238.0,,Notebooks Master
+,2.0,1.0,15,352,247.0,,Notebooks Expert
+"Menlo Park, California, United States",54.0,374.0,18,237,118.0,,Competitions Grandmaster
+"Detroit, Michigan, United States",31.0,3.0,7,145,1089.0,,Competitions Master
+"College Station, Texas, United States",33.0,64.0,22,288,,,Competitions Grandmaster
+"Chakwal, Punjab, Pakistan",1.0,,8,309,,725.0,Notebooks Expert
+"New York, New York, United States",26.0,3.0,11,329,1042.0,,Competitions Expert
+"San Diego, California, United States",11.0,,6,234,,,Discussion Expert
+"New York, New York, United States",17.0,7.0,23,530,142.0,,Notebooks Master
+"Athens, Greece",46.0,41.0,16,493,575.0,,Competitions Master
+"Saint Petersburg, Russia",24.0,15.0,17,168,204.0,,Competitions Expert
+,60.0,6.0,27,647,1469.0,,Competitions Expert
+"Earth, Texas, United States",14.0,16.0,14,131,517.0,,Competitions Expert
+"Mumbai, Maharashtra, India",4.0,1.0,23,934,291.0,,Notebooks Expert
+"Lille, Hauts-de-France, France",4.0,,,72,,,Discussion Expert
+"El-Mahalla El-Kubra, Gharbia Governorate, Egypt",1.0,6.0,12,455,248.0,,Datasets Master
+"Ahmedabad, Gujarat, India",14.0,34.0,76,370,125.0,,Datasets Expert
+"Nowhere Else, Tasmania, Australia",10.0,3.0,,101,,,Competitions Master
+"Lausanne, Vaud, Switzerland",8.0,7.0,14,127,178.0,,Competitions Expert
+"Nanded, Maharashtra, India",17.0,50.0,4,336,,,Competitions Expert
+,1.0,,,672,,,Discussion Expert
+,,9.0,15,532,,162.0,Notebooks Master
+"Noida, Uttar Pradesh, India",17.0,8.0,29,554,83.0,,Notebooks Master
+"Gurugram, Haryana, India",18.0,27.0,29,458,69.0,,Notebooks Master
+,6.0,,,71,,,Competitions Master
+"Thane, Maharashtra, India",5.0,6.0,9,326,1378.0,,Datasets Expert
+"Hangu, Khyber Pakhtunkhwa, Pakistan",,8.0,14,178,,260.0,Notebooks Master
+"Toronto, Ontario, Canada",12.0,36.0,21,357,861.0,,Competitions Expert
+"Montreal, Quebec, Canada",7.0,7.0,20,209,,150.0,Notebooks Master
+"Paris, Île-de-France, France",41.0,6.0,12,438,288.0,,Competitions Master
+"Mashhad, Razavi Khorasan Province, Iran",,8.0,9,436,,216.0,Datasets Expert
+"Kansas City, Missouri, United States",2.0,1.0,8,"1,102",109.0,,Notebooks Expert
+"Moscow, Russia",1.0,,5,379,285.0,,Notebooks Expert
+"Kyoto, Kyoto, Japan",25.0,33.0,8,100,971.0,,Competitions Master
+,1.0,1.0,6,405,946.0,,Notebooks Expert
+,1.0,6.0,,299,,,Discussion Expert
+,13.0,,,"1,200",,,Discussion Master
+"Quimper, Brittany, France",59.0,2.0,46,"1,461",3.0,,Notebooks Grandmaster
+"Gran, Innlandet, Norway",9.0,,,269,,,Competitions Grandmaster
+"Beijing, Beijing, China",15.0,23.0,14,85,,,Competitions Master
+"Taunsa, Punjab, Pakistan",,8.0,,126,,,Datasets Expert
+"New Delhi, Delhi, India",,16.0,20,442,,348.0,Datasets Expert
+"Seoul, Seoul, South Korea",26.0,,9,212,430.0,,Competitions Grandmaster
+"Zhuhai, Guangdong Province, China",26.0,47.0,8,190,,,Competitions Master
+"Tokyo, Tokyo, Japan",29.0,,7,271,,,Competitions Expert
+"Tehran, Tehran Province, Iran",,5.0,19,503,265.0,,Datasets Expert
+"Cologne, North Rhine-Westphalia, Germany",25.0,23.0,40,254,18.0,,Notebooks Grandmaster
+"Minsk, Minsk Region, Belarus",26.0,2.0,1,126,,,Competitions Grandmaster
+,11.0,6.0,15,170,503.0,,Notebooks Expert
+"Suwon-si, Gyeonggi-do, South Korea",5.0,3.0,15,425,162.0,,Notebooks Master
+"Montreal, Quebec, Canada",43.0,26.0,158,"1,181",79.0,,Notebooks Grandmaster
+"Munich, Bavaria, Germany",19.0,2.0,25,590,276.0,,Competitions Master
+"Kochi, Kerala, India",17.0,12.0,38,947,18.0,,Notebooks Grandmaster
+"Morjim, Goa, India",2.0,2.0,22,422,193.0,,Notebooks Master
+,10.0,4.0,26,343,146.0,,Notebooks Master
+"Bengaluru, Karnataka, India",32.0,15.0,69,910,20.0,,Notebooks Master
+"London, England, United Kingdom",88.0,3.0,237,"1,736",6.0,,Discussion Grandmaster
+"Bengaluru, Karnataka, India",34.0,1.0,4,269,,,Competitions Master
+"Pau, Nouvelle-Aquitaine, France",21.0,15.0,75,259,124.0,,Notebooks Expert
+"Berlin, Berlin, Germany",16.0,1.0,5,244,,,Competitions Expert
+"Tokyo, Tokyo, Japan",38.0,1.0,2,154,,,Competitions Master
+,6.0,2.0,11,117,316.0,,Notebooks Expert
+"Parma, Emilia-Romagna, Italy",,,19,710,133.0,,Notebooks Master
+"Majitar, Sikkim, India",5.0,5.0,50,714,56.0,,Notebooks Master
+"Budapest, Hungary",12.0,3.0,10,158,725.0,,Datasets Expert
+"Mumbai, Maharashtra, India",20.0,4.0,16,313,1523.0,,Notebooks Expert
+"Moscow, Russia",20.0,6.0,15,237,1920.0,,Competitions Expert
+"Karachi, Sindh, Pakistan",,1.0,4,270,,,Discussion Expert
+"Kolkata, West Bengal, India",26.0,8.0,20,144,504.0,,Competitions Master
+"Moscow, Russia",15.0,2.0,7,119,1030.0,,Competitions Expert
+"Buenos Aires, Buenos Aires, Argentina",18.0,79.0,56,286,6.0,,Notebooks Grandmaster
+"İstanbul, İstanbul, Turkey",29.0,70.0,25,419,44.0,,Notebooks Grandmaster
+"Daejeon, Daejeon, South Korea",9.0,5.0,27,277,481.0,,Datasets Expert
+"Istanbul, Istanbul, Turkey",33.0,5.0,9,522,541.0,,Competitions Grandmaster
+"Bhopal, Madhya Pradesh, India",11.0,19.0,9,443,669.0,,Datasets Expert
+"Pune, Maharashtra, India",14.0,1.0,20,401,338.0,,Notebooks Expert
+,83.0,12.0,96,453,178.0,,Competitions Master
+"Hope, Tasman, New Zealand",3.0,,12,489,1046.0,,Notebooks Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",1.0,4.0,12,224,1036.0,,Datasets Expert
+"Bengaluru, Karnataka, India",17.0,,13,"1,001",104.0,,Discussion Grandmaster
+"San Francisco, California, United States",10.0,9.0,6,336,1059.0,,Datasets Expert
+"Mansoura, Dakahlia Governorate, Egypt",,3.0,5,375,,1510.0,Datasets Expert
+"Charlottesville, Virginia, United States",5.0,,,102,,,Competitions Master
+"Amsterdam, North Holland, Netherlands",49.0,14.0,91,687,21.0,,Notebooks Grandmaster
+"Bengaluru, Karnataka, India",6.0,3.0,34,528,149.0,,Notebooks Master
+"Tel Aviv-Yafo, Tel Aviv District, Israel",19.0,10.0,10,476,119.0,,Competitions Grandmaster
+"California, United States",60.0,4.0,18,477,32.0,,Competitions Grandmaster
+"Chennai, Tamil Nadu, India",5.0,8.0,15,287,415.0,,Datasets Expert
+"New York, New York, United States",32.0,122.0,21,593,968.0,,Competitions Master
+"Tokyo, Tokyo, Japan",35.0,78.0,10,291,452.0,,Competitions Master
+"Singapore, Singapore",11.0,20.0,17,73,,,Competitions Master
+"Andijan, Andijan region, Uzbekistan",3.0,,21,280,55.0,,Notebooks Master
+"Kafr El-Shaikh, Gharbia Governorate, Egypt",1.0,6.0,32,659,273.0,,Notebooks Master
+"Mumbai, Maharashtra, India",1.0,45.0,45,311,172.0,,Notebooks Master
+"San Francisco, California, United States",21.0,21.0,134,575,2005.0,,Datasets Expert
+"Hudson, Florida, United States",33.0,1.0,3,196,,,Competitions Master
+"İstanbul, İstanbul, Turkey",1.0,1.0,33,312,867.0,,Notebooks Expert
+"Lahore, Punjab, Pakistan",17.0,18.0,76,565,150.0,,Notebooks Master
+"Boston, Massachusetts, United States",9.0,,15,220,544.0,,Competitions Master
+"Hyderabad, Telangana, India",2.0,30.0,64,630,109.0,,Notebooks Master
+"Atlanta, Georgia, United States",20.0,24.0,27,264,702.0,,Competitions Expert
+"Malmö, Skåne County, Sweden",4.0,,6,117,,,Discussion Expert
+"Beijing, Beijing, China",59.0,30.0,35,92,901.0,,Competitions Grandmaster
+"Neemrana, Rajasthan, India",,1.0,18,900,99.0,,Notebooks Master
+"Bengaluru, Karnataka, India",10.0,9.0,26,437,82.0,,Notebooks Master
+"Moscow, Russia",9.0,39.0,17,145,260.0,,Notebooks Master
+"Dubai, Dubai, United Arab Emirates",13.0,,17,145,749.0,,Notebooks Expert
+"Yokohama, Kanagawa, Japan",23.0,5.0,7,121,487.0,,Competitions Master
+"Amaravati, Andhra Pradesh, India",1.0,6.0,15,379,481.0,,Datasets Expert
+"Prague, Prague, Czechia",6.0,,2,264,,,Competitions Master
+"Nakhon Ratchasima, Thailand",31.0,80.0,35,838,38.0,,Notebooks Master
+"Basavakalyan, Karnataka, India",1.0,,10,248,646.0,,Notebooks Expert
+"İstanbul, İstanbul, Turkey",,5.0,9,266,777.0,,Datasets Expert
+"Acapulco, Guerrero, Mexico",11.0,1.0,14,448,1147.0,,Competitions Expert
+"Bengaluru, Karnataka, India",,16.0,33,547,236.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,6.0,11,370,297.0,,Notebooks Master
+"Madrid, Community of Madrid, Spain",32.0,,10,168,2276.0,,Competitions Expert
+"Cleveland, Ohio, United States",6.0,,2,133,,,Competitions Master
+"Jaipur, Rajasthan, India",1.0,1.0,8,395,648.0,,Notebooks Expert
+"Brisbane, Queensland, Australia",12.0,10.0,1,158,,,Competitions Grandmaster
+"İstanbul, İstanbul, Turkey",20.0,5.0,19,114,226.0,,Notebooks Master
+"Hoboken, New Jersey, United States",35.0,3.0,33,261,257.0,,Notebooks Master
+"Akhisar, Manisa, Turkey",,,7,443,734.0,,Notebooks Expert
+"Karachi, Sindh, Pakistan",,,,425,,,Discussion Expert
+"Bad Berka, Thuringia, Germany",4.0,5.0,,194,,,Competitions Expert
+"Dresden, Saxony, Germany",14.0,4.0,5,649,2934.0,,Notebooks Expert
+"Saint Petersburg, Russia",17.0,3.0,6,114,,,Competitions Grandmaster
+"London, England, United Kingdom",14.0,5.0,116,581,139.0,,Competitions Expert
+"Tokyo, Tokyo, Japan",12.0,,8,179,130.0,,Competitions Master
+,2.0,1.0,6,592,,,Discussion Expert
+,24.0,1.0,12,101,279.0,,Competitions Master
+"Cincinnati, Ohio, United States",9.0,,5,319,,,Competitions Master
+"İzmir, İzmir, Turkey",8.0,1.0,10,376,250.0,,Notebooks Expert
+"Malappuram, Kerala, India",56.0,79.0,17,595,1831.0,,Competitions Master
+"Tainan, Tainan City, Taiwan",3.0,1.0,7,135,506.0,,Notebooks Expert
+"Basel, Basel City, Switzerland",14.0,3.0,15,390,279.0,,Competitions Expert
+"Overland Park, Kansas, United States",8.0,4.0,36,263,116.0,,Notebooks Master
+"Kolkata, West Bengal, India",14.0,10.0,38,370,223.0,,Competitions Expert
+"Pune, Maharashtra, India",37.0,20.0,34,385,58.0,,Notebooks Master
+"Gurugram, Haryana, India",9.0,25.0,43,908,,14.0,Notebooks Grandmaster
+"Noida, Uttar Pradesh, India",17.0,6.0,20,720,174.0,,Notebooks Master
+"London, England, United Kingdom",26.0,6.0,30,187,520.0,,Notebooks Expert
+"Cairo, Cairo Governorate, Egypt",52.0,7.0,7,302,684.0,,Competitions Expert
+"Bizerte, Bizerte, Tunisia",34.0,5.0,27,498,82.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",19.0,18.0,13,216,669.0,,Competitions Master
+"Los Angeles, California, United States",13.0,11.0,11,261,250.0,,Datasets Master
+"Burhanpur, Madhya Pradesh, India",1.0,4.0,29,293,485.0,,Datasets Expert
+"Windsor, Ontario, Canada",1.0,86.0,56,797,314.0,,Datasets Expert
+"Seongnam-si, Gyeonggi-do, South Korea",47.0,,40,558,36.0,,Competitions Grandmaster
+"Ludhiana, Punjab, India",,6.0,5,254,1077.0,,Datasets Expert
+,,,5,305,1467.0,,Notebooks Expert
+,25.0,5.0,6,346,,,Competitions Expert
+"Paris, Île-de-France, France",137.0,20.0,29,435,152.0,,Notebooks Master
+"Berlin, Berlin, Germany",26.0,6.0,22,222,324.0,,Competitions Master
+"Baku, Azerbaijan",,14.0,13,463,221.0,,Notebooks Master
+"Jakarta, Jakarta, Indonesia",11.0,3.0,17,285,705.0,,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",13.0,21.0,73,810,87.0,,Notebooks Master
+"Nagano, Nagano, Japan",12.0,20.0,20,315,161.0,,Competitions Master
+"Bahawalpur, Punjab, Pakistan",,4.0,10,146,534.0,,Datasets Expert
+"Hanoi, Hanoi, Vietnam",78.0,7.0,2,95,,,Competitions Grandmaster
+"Des Moines, Iowa, United States",12.0,3.0,13,230,685.0,,Notebooks Expert
+"İzmir, İzmir, Turkey",,1.0,17,641,249.0,,Notebooks Master
+"İstanbul, İstanbul, Turkey",,,17,817,147.0,,Notebooks Master
+"Hong Kong, Hong Kong",32.0,3.0,13,372,145.0,,Competitions Master
+"Knoxville, Tennessee, United States",31.0,6.0,88,344,138.0,,Notebooks Master
+"Sunnyvale, California, United States",26.0,5.0,14,472,359.0,,Competitions Grandmaster
+"Pune, Maharashtra, India",27.0,141.0,67,246,1035.0,,Competitions Expert
+"Rome, Lazio, Italy",46.0,18.0,40,180,248.0,,Competitions Master
+"Beijing, Beijing, China",45.0,,,101,,,Competitions Master
+"Kharkiv, Kharkiv Oblast, Ukraine",44.0,5.0,55,421,8.0,,Notebooks Grandmaster
+"Suwon-si, Gyeonggi-do, South Korea",25.0,7.0,,192,,,Competitions Master
+"London, England, United Kingdom",8.0,5.0,6,195,,,Competitions Master
+"Kanpur, Uttar Pradesh, India",13.0,7.0,27,777,142.0,,Notebooks Master
+"Prague, Prague, Czechia",18.0,12.0,66,197,82.0,,Notebooks Master
+"Kayseri, Kayseri, Turkey",1.0,,11,296,321.0,,Notebooks Master
+"Alexandria, Alexandria Governorate, Egypt",1.0,3.0,8,365,528.0,,Datasets Expert
+"Kyiv, Ukraine",48.0,1.0,35,156,635.0,,Competitions Master
+"Dubai, Dubai, United Arab Emirates",17.0,38.0,31,266,5.0,,Notebooks Grandmaster
+"Tel Aviv-Yafo, Tel Aviv District, Israel",,4.0,10,397,381.0,,Datasets Expert
+"Hamburg, Hamburg, Germany",55.0,8.0,8,93,484.0,,Competitions Master
+"Prague, Prague, Czechia",,1.0,10,685,264.0,,Notebooks Expert
+Taiwan,70.0,16.0,15,143,266.0,,Competitions Master
+"Strasbourg, Grand Est, France",15.0,,4,143,,,Competitions Master
+,,,4,200,,,Discussion Expert
+,15.0,4.0,10,180,839.0,,Datasets Expert
+"Manila, Metro Manila, Philippines",,21.0,35,273,593.0,,Datasets Expert
+"Chennai, Tamil Nadu, India",2.0,6.0,20,429,352.0,,Datasets Expert
+"Seoul, Seoul, South Korea",,8.0,39,215,355.0,,Datasets Expert
+"Alicante, Valencian Community, Spain",28.0,,1,475,,,Competitions Master
+"Amsterdam, North Holland, Netherlands",8.0,1.0,46,131,24.0,,Competitions Expert
+"Vinnytsia, Vinnytsia Oblast, Ukraine",66.0,19.0,162,542,10.0,,Notebooks Grandmaster
+"Osaka, Osaka, Japan",28.0,16.0,16,130,,,Competitions Master
+"Chongqing, Chongqing, China",9.0,10.0,10,205,425.0,,Competitions Master
+"Tokyo, Tokyo, Japan",16.0,17.0,41,623,22.0,,Notebooks Grandmaster
+"Jamnagar, Gujarat, India",15.0,8.0,22,226,550.0,,Datasets Expert
+"San Francisco, California, United States",70.0,1.0,3,424,,,Competitions Grandmaster
+"New Delhi, Delhi, India",36.0,25.0,12,223,283.0,,Competitions Master
+"Calgary, Alberta, Canada",12.0,8.0,10,284,360.0,,Competitions Expert
+"Faisalabad, Punjab, Pakistan",,,8,315,,644.0,Notebooks Expert
+"Dublin, County Dublin, Ireland",43.0,20.0,39,284,5.0,,Competitions Grandmaster
+"Yokohama, Kanagawa, Japan",97.0,,4,125,,,Competitions Grandmaster
+"Ottawa, Ontario, Canada",14.0,,24,239,300.0,,Notebooks Expert
+"Tunis, Tunis, Tunisia",1.0,13.0,18,160,698.0,,Datasets Expert
+"Gelderland, Netherlands",45.0,9.0,16,477,150.0,,Competitions Expert
+"Vinnytsia, Vinnytsia Oblast, Ukraine",34.0,9.0,35,412,13.0,,Notebooks Grandmaster
+"Jaipur, Rajasthan, India",3.0,30.0,7,306,925.0,,Datasets Grandmaster
+"Winnipeg, Manitoba, Canada",14.0,10.0,44,327,310.0,,Datasets Expert
+"Kaithal, Haryana, India",3.0,3.0,19,305,139.0,,Notebooks Master
+,57.0,1.0,20,272,197.0,,Notebooks Master
+"Zhoushan, Zhejiang, China",24.0,24.0,11,143,217.0,,Competitions Master
+"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",,,2,271,,,Discussion Expert
+"Moscow, Russia",55.0,4.0,6,278,157.0,,Competitions Master
+"Ahmedabad, Gujarat, India",16.0,1.0,13,489,403.0,,Notebooks Expert
+,,9.0,72,498,397.0,,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",3.0,12.0,27,250,625.0,,Datasets Expert
+"London, England, United Kingdom",28.0,1.0,22,179,437.0,,Competitions Expert
+,5.0,,18,128,681.0,,Notebooks Expert
+"Kolkata, West Bengal, India",49.0,3.0,10,188,,,Competitions Master
+"Brussels, Brussels, Belgium",3.0,1.0,15,124,717.0,,Notebooks Expert
+"Kyiv, Ukraine",39.0,8.0,22,268,,,Competitions Grandmaster
+"Taipei, Taiwan",42.0,2.0,6,172,486.0,,Competitions Grandmaster
+,,3.0,19,"1,680",42.0,,Notebooks Grandmaster
+"Vancouver, British Columbia, Canada",6.0,,13,354,62.0,,Notebooks Master
+"Kochi, Kerala, India",37.0,16.0,39,553,281.0,,Notebooks Expert
+"Pella, Iowa, United States",7.0,132.0,31,607,114.0,,Notebooks Master
+"Kolkata, West Bengal, India",5.0,3.0,59,792,112.0,,Notebooks Master
+"Incheon, Incheon, South Korea",45.0,2.0,62,687,74.0,,Notebooks Master
+"Stuttgart, Baden-Württemberg, Germany",2.0,3.0,18,186,587.0,,Datasets Expert
+"Hamamatsu, Shizuoka, Japan",6.0,25.0,4,174,,,Competitions Expert
+"Jaipur, Rajasthan, India",18.0,16.0,66,583,54.0,,Notebooks Grandmaster
+"Nijmegen, Gelderland, Netherlands",21.0,66.0,46,162,132.0,,Notebooks Master
+"New Delhi, Delhi, India",2.0,8.0,10,246,264.0,,Datasets Expert
+"Philadelphia, Pennsylvania, United States",8.0,1.0,13,196,1372.0,,Notebooks Expert
+"Seoul, Seoul, South Korea",16.0,6.0,90,654,9.0,,Notebooks Grandmaster
+"Halden, Viken, Norway",4.0,6.0,15,257,126.0,,Notebooks Master
+"Chennai, Tamil Nadu, India",4.0,4.0,16,179,226.0,,Datasets Expert
+"Frome, England, United Kingdom",9.0,1.0,25,553,302.0,,Notebooks Master
+"Mumbai, Maharashtra, India",3.0,20.0,29,327,704.0,,Datasets Expert
+"London, Ontario, Canada",28.0,16.0,29,300,115.0,,Datasets Master
+"Karachi, Sindh, Pakistan",,3.0,7,689,184.0,,Datasets Expert
+"Granada, Andalusia, Spain",7.0,1.0,18,236,202.0,,Notebooks Master
+,67.0,6.0,29,"2,266",463.0,,Competitions Master
+"Bengaluru, Karnataka, India",1.0,4.0,5,210,1827.0,,Datasets Expert
+"Mumbai, Maharashtra, India",4.0,4.0,11,391,186.0,,Notebooks Master
+"Yokohama, Kanagawa, Japan",8.0,35.0,5,106,482.0,,Competitions Master
+"São Paulo, State of São Paulo, Brazil",8.0,13.0,27,299,94.0,,Datasets Expert
+"Hong Kong, Hong Kong",3.0,5.0,10,385,381.0,,Notebooks Master
+"Islamabad, Islamabad Capital Territory, Pakistan",1.0,4.0,16,498,220.0,,Notebooks Master
+"Surat, Gujarat, India",5.0,7.0,25,211,143.0,,Notebooks Master
+"Montreal, Quebec, Canada",3.0,,12,340,750.0,,Notebooks Expert
+"Bahawalpur, Punjab, Pakistan",,5.0,7,125,688.0,,Datasets Expert
+"Amsterdam, North Holland, Netherlands",17.0,2.0,17,162,42.0,,Notebooks Expert
+"Valparaíso, Valparaíso, Chile",9.0,2.0,12,122,1999.0,,Competitions Expert
+,50.0,51.0,43,308,490.0,,Competitions Expert
+"Changsha, Hunan, China",1.0,,18,429,288.0,,Notebooks Master
+"New Delhi, Delhi, India",38.0,,9,187,1109.0,,Competitions Master
+"Budapest, Hungary",6.0,,5,330,,,Discussion Expert
+"Cork, County Cork, Ireland",16.0,30.0,25,242,655.0,,Datasets Expert
+"Paris, Île-de-France, France",31.0,13.0,23,215,235.0,,Competitions Master
+"Tokyo, Tokyo, Japan",22.0,54.0,12,289,606.0,,Competitions Master
+"Jaipur, Rajasthan, India",4.0,3.0,22,"1,008",101.0,,Notebooks Master
+"Tel Aviv-Yafo, Tel Aviv District, Israel",106.0,19.0,212,555,100.0,,Competitions Expert
+"Mumbai, Maharashtra, India",12.0,7.0,24,383,155.0,,Notebooks Master
+"Ankara, Ankara, Turkey",13.0,290.0,2,188,,,Competitions Expert
+"Tokyo, Tokyo, Japan",35.0,20.0,111,271,73.0,,Notebooks Master
+"Islamabad, Islamabad Capital Territory, Pakistan",6.0,3.0,6,188,1385.0,,Datasets Expert
+"Munich, Bavaria, Germany",6.0,3.0,13,179,881.0,,Notebooks Expert
+"Kolkata, West Bengal, India",,,9,218,1615.0,,Notebooks Expert
+"Madrid, Community of Madrid, Spain",4.0,31.0,14,544,1316.0,,Datasets Grandmaster
+,16.0,,2,252,,,Competitions Master
+"Riga, Latvia",153.0,1.0,41,226,52.0,,Competitions Grandmaster
+"Miami, Florida, United States",49.0,7.0,18,457,107.0,,Competitions Grandmaster
+"Osaka, Osaka, Japan",,14.0,22,255,944.0,,Datasets Expert
+,53.0,1.0,5,285,,,Competitions Master
+"Heidelberg, Baden-Württemberg, Germany",17.0,4.0,7,257,141.0,,Competitions Expert
+"İstanbul, İstanbul, Turkey",11.0,8.0,16,213,449.0,,Notebooks Expert
+"Portland, Oregon, United States",7.0,,3,326,,,Competitions Expert
+"Madrid, Community of Madrid, Spain",9.0,3.0,18,58,1671.0,,Competitions Expert
+"Mumbai, Maharashtra, India",2.0,9.0,11,208,755.0,,Datasets Expert
+"Mandi, Himachal Pradesh, India",1.0,9.0,16,270,808.0,,Datasets Expert
+"Taipei, Taiwan",,,19,217,425.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",5.0,3.0,8,171,990.0,,Notebooks Expert
+United States,8.0,,1,167,,,Discussion Expert
+"Hyderabad, Telangana, India",91.0,14.0,20,463,1087.0,,Competitions Expert
+,35.0,,3,89,,,Competitions Master
+"Rourkela, Odisha, India",20.0,16.0,23,176,322.0,,Datasets Expert
+,,,2,485,,,Discussion Expert
+,5.0,2.0,10,241,1184.0,,Notebooks Expert
+"Lahore, Punjab, Pakistan",,12.0,10,134,258.0,,Datasets Master
+"Brussels, Brussels, Belgium",19.0,87.0,13,273,97.0,,Notebooks Master
+"Jaipur, Rajasthan, India",1.0,,18,274,333.0,,Notebooks Expert
+"Salvador, State of Bahia, Brazil",3.0,,6,253,,,Discussion Expert
+"Perth, Western Australia, Australia",8.0,4.0,2,137,,,Discussion Expert
+"Yokohama, Kanagawa, Japan",18.0,65.0,20,124,262.0,,Competitions Grandmaster
+"Delhi, Delhi, India",27.0,56.0,8,142,465.0,,Competitions Master
+"Passau, Bavaria, Germany",,6.0,6,240,401.0,,Datasets Expert
+"Gurugram, Haryana, India",43.0,4.0,2,210,,,Competitions Expert
+,3.0,,1,231,,,Discussion Expert
+"Madrid, Community of Madrid, Spain",98.0,45.0,16,152,,,Competitions Master
+"Milan, Lombardy, Italy",15.0,,8,154,1179.0,,Notebooks Expert
+"Chattogram, Chittagong Division, Bangladesh",24.0,1.0,4,105,,,Competitions Expert
+"Bengaluru, Karnataka, India",30.0,16.0,45,228,528.0,,Datasets Expert
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",10.0,5.0,14,120,1007.0,,Competitions Expert
+,5.0,1.0,10,344,193.0,,Notebooks Master
+"Hyderabad, Telangana, India",37.0,6.0,27,143,474.0,,Notebooks Master
+Beit Hanina,25.0,14.0,1,112,,,Competitions Expert
+"London, England, United Kingdom",42.0,,22,315,275.0,,Competitions Expert
+"Coimbra, Coimbra District, Portugal",,,5,385,534.0,,Notebooks Expert
+"Bhiwandi, Maharashtra, India",15.0,12.0,7,131,,,Discussion Expert
+"Bengaluru, Karnataka, India",16.0,4.0,13,330,992.0,,Notebooks Expert
+,10.0,1.0,3,134,,,Competitions Expert
+"Chongqing, Chongqing, China",8.0,,7,100,,,Discussion Expert
+"Mahabad, West Azerbaijan Province, Iran",2.0,4.0,11,220,1618.0,,Notebooks Expert
+"Ulaanbaatar, Ulaanbaatar, Mongolia",14.0,1.0,1,191,,,Competitions Grandmaster
+"Bengaluru, Karnataka, India",37.0,8.0,17,195,441.0,,Datasets Expert
+"Tokyo, Tokyo, Japan",29.0,3.0,6,116,168.0,,Competitions Master
+,17.0,17.0,16,160,310.0,,Competitions Expert
+"Jaipur, Rajasthan, India",,1.0,11,615,120.0,,Notebooks Master
+"Guangzhou, Guangdong Province, China",59.0,24.0,136,347,79.0,,Notebooks Master
+"Tehran, Tehran Province, Iran",,14.0,17,236,,213.0,Notebooks Master
+,3.0,,11,231,1869.0,,Notebooks Expert
+"Baku, Azerbaijan",,5.0,1,164,,,Datasets Expert
+"Mansoura, Dakahlia Governorate, Egypt",2.0,,8,274,908.0,,Notebooks Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",22.0,2.0,11,78,573.0,,Competitions Expert
+"Asheville, North Carolina, United States",10.0,,,127,,,Competitions Expert
+"Hyderabad, Telangana, India",9.0,21.0,52,281,7.0,,Notebooks Grandmaster
+"Guwahati, Assam, India",15.0,,34,148,563.0,,Notebooks Expert
+"Agra, Uttar Pradesh, India",,,4,119,2331.0,,Notebooks Expert
+"Caraguatatuba, State of São Paulo, Brazil",,1.0,4,279,,,Discussion Expert
+,3.0,,6,105,1181.0,,Notebooks Expert
+"Pisa, Tuscany, Italy",,17.0,9,178,1469.0,,Datasets Expert
+"Gurugram, Haryana, India",11.0,14.0,26,263,166.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",29.0,7.0,8,79,433.0,,Competitions Master
+"Mumbai, Maharashtra, India",14.0,4.0,10,140,850.0,,Notebooks Expert
+,50.0,12.0,13,220,1684.0,,Competitions Master
+"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,4.0,18,240,228.0,,Notebooks Master
+"Bahawalpur, Punjab, Pakistan",1.0,4.0,7,77,994.0,,Datasets Expert
+"Amsterdam, North Holland, Netherlands",2.0,8.0,42,745,197.0,,Notebooks Master
+"Lahore, Punjab, Pakistan",,,8,223,506.0,,Notebooks Expert
+"Bristol, England, United Kingdom",36.0,1.0,21,547,,,Competitions Master
+"Gurugram, Haryana, India",20.0,45.0,21,700,441.0,,Discussion Master
+"Faiyum, Faiyum Governorate, Egypt",3.0,,11,314,452.0,,Notebooks Expert
+"Washington, District of Columbia, United States",18.0,2.0,19,230,389.0,,Competitions Expert
+"Ahmedabad, Gujarat, India",1.0,14.0,13,243,512.0,,Datasets Master
+Muzaffarabad,,6.0,5,100,1407.0,,Datasets Expert
+,32.0,,,331,,,Discussion Expert
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",4.0,1.0,35,430,277.0,,Notebooks Master
+"Taipei, Taiwan",17.0,18.0,11,421,437.0,,Competitions Master
+"Moscow, Russia",15.0,1.0,26,328,115.0,,Notebooks Master
+"Coimbatore, Tamil Nadu, India",,9.0,11,286,601.0,,Datasets Expert
+"Bloomington, Indiana, United States",2.0,,20,699,160.0,,Notebooks Master
+,,6.0,7,176,494.0,,Datasets Expert
+"Navi Mumbai, Maharashtra, India",3.0,8.0,19,283,151.0,,Notebooks Master
+"Najaf, Najaf Governorate, Iraq",15.0,66.0,50,224,541.0,,Competitions Expert
+"Bengaluru, Karnataka, India",9.0,17.0,78,617,208.0,,Datasets Expert
+"Parkville, Victoria, Australia",26.0,6.0,5,141,,,Competitions Expert
+"Cairo, Cairo Governorate, Egypt",4.0,1.0,4,187,,,Discussion Expert
+"Hyderabad, Telangana, India",3.0,,11,190,1244.0,,Notebooks Expert
+"Greenville, South Carolina, United States",1.0,13.0,12,90,969.0,,Datasets Expert
+"Kolkata, West Bengal, India",1.0,5.0,10,173,,681.0,Datasets Expert
+"Bengaluru, Karnataka, India",2.0,4.0,14,152,530.0,,Datasets Expert
+,48.0,,4,341,,,Competitions Master
+"Bengaluru, Karnataka, India",3.0,,9,255,345.0,,Notebooks Expert
+"Milan, Lombardy, Italy",16.0,,2,60,,,Competitions Master
+"Dublin, County Dublin, Ireland",95.0,,6,317,,,Discussion Master
+"Tokyo, Tokyo, Japan",53.0,9.0,98,228,118.0,,Competitions Master
+"Ankara, Ankara, Turkey",22.0,8.0,13,85,374.0,,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",,27.0,48,338,320.0,,Notebooks Expert
+United States,26.0,,1,532,,,Competitions Master
+"Delhi, Delhi, India",13.0,6.0,34,232,653.0,,Datasets Expert
+"Santa Cruz, California, United States",13.0,1.0,31,273,236.0,,Competitions Expert
+"Fortaleza, State of Ceará, Brazil",13.0,21.0,109,"1,516",34.0,,Notebooks Master
+"Uppsala, Uppsala County, Sweden",,9.0,29,328,455.0,,Notebooks Expert
+,3.0,5.0,8,203,1114.0,,Datasets Expert
+"Siloam Springs, Arkansas, United States",1.0,,2,184,,,Discussion Expert
+"São Paulo, State of São Paulo, Brazil",24.0,3.0,2,116,,,Competitions Master
+"Rotterdam, South Holland, Netherlands",,13.0,38,570,272.0,,Datasets Master
+,29.0,4.0,15,128,251.0,,Notebooks Master
+"Dhaka, Dhaka Division, Bangladesh",3.0,5.0,13,130,,964.0,Datasets Expert
+"Oita, Oita, Japan",4.0,,1,165,,,Competitions Master
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",43.0,5.0,2,88,,,Competitions Grandmaster
+"Raleigh, North Carolina, United States",15.0,13.0,14,243,467.0,,Notebooks Expert
+,7.0,1.0,7,128,1538.0,,Competitions Expert
+"London, England, United Kingdom",6.0,,2,102,,,Competitions Expert
+"Austin, Texas, United States",2.0,1.0,20,516,142.0,,Notebooks Master
+"Thane, Maharashtra, India",8.0,7.0,33,374,154.0,,Notebooks Master
+"Tehran, Tehran Province, Iran",,5.0,44,"1,079",136.0,,Notebooks Master
+"Bristol, England, United Kingdom",7.0,2.0,1,96,,,Competitions Master
+,,,8,221,328.0,,Notebooks Expert
+"Bogor, West Java, Indonesia",14.0,4.0,29,414,307.0,,Datasets Expert
+"Seattle, Washington, United States",8.0,4.0,9,112,1167.0,,Notebooks Expert
+"Los Altos, California, United States",46.0,5.0,9,255,2456.0,,Competitions Grandmaster
+"Onchan, Isle of Man",15.0,8.0,16,271,51.0,,Competitions Master
+"Stockholm, Stockholm County, Sweden",81.0,52.0,1,432,,,Competitions Expert
+"Helsinki, Finland",44.0,22.0,57,701,48.0,,Notebooks Master
+"Lahore, Punjab, Pakistan",1.0,2.0,41,149,,,Discussion Expert
+"Burdur, Burdur, Turkey",13.0,1.0,6,73,1346.0,,Notebooks Expert
+"Coimbatore, Tamil Nadu, India",,,13,237,357.0,,Notebooks Master
+,17.0,3.0,53,159,,410.0,Notebooks Expert
+"Shanghai, Shanghai, China",10.0,19.0,4,144,,,Competitions Expert
+,6.0,,,87,,,Competitions Expert
+"Paris, Île-de-France, France",8.0,15.0,23,471,225.0,,Competitions Expert
+"Saint Petersburg, Russia",22.0,13.0,25,437,59.0,,Notebooks Grandmaster
+"Hydra, Algiers Province, Algeria",2.0,,5,204,,,Discussion Expert
+"Bengaluru, Karnataka, India",1.0,9.0,14,216,,501.0,Notebooks Expert
+"Erlangen, Bavaria, Germany",1.0,,5,167,1424.0,,Notebooks Expert
+"Manchester, England, United Kingdom",21.0,17.0,23,155,858.0,,Competitions Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",1.0,21.0,53,437,58.0,,Notebooks Master
+"Jaipur, Rajasthan, India",,5.0,21,651,128.0,,Notebooks Master
+"Abadan, Khuzestan Province, Iran",,21.0,29,232,507.0,,Datasets Expert
+,1.0,4.0,6,148,,,Datasets Expert
+"Casablanca, Casablanca-Settat, Morocco",25.0,3.0,13,619,199.0,,Notebooks Master
+"Shanghai, Shanghai, China",7.0,20.0,14,117,372.0,,Notebooks Expert
+"London, England, United Kingdom",25.0,2.0,31,429,1054.0,,Competitions Expert
+"Prague, Prague, Czechia",,,5,195,1402.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",9.0,11.0,14,202,340.0,,Notebooks Master
+"Jaipur, Rajasthan, India",7.0,24.0,26,242,458.0,,Competitions Expert
+"Singapore, Singapore",55.0,,2,395,,,Competitions Expert
+"Amsterdam, North Holland, Netherlands",3.0,2.0,17,970,26.0,,Notebooks Grandmaster
+"Zürich, Zurich, Switzerland",37.0,8.0,33,206,1112.0,,Competitions Expert
+,3.0,10.0,19,448,188.0,,Notebooks Master
+"Vienna, Vienna, Austria",1.0,5.0,33,306,674.0,,Datasets Expert
+"Dallas, Texas, United States",9.0,18.0,20,250,326.0,,Datasets Master
+,,32.0,10,450,1606.0,,Notebooks Expert
+"6th of October City, Giza Governorate, Egypt",1.0,,10,415,191.0,,Notebooks Master
+"Mumbai, Maharashtra, India",1.0,4.0,13,300,667.0,,Datasets Expert
+"Nagpur, Maharashtra, India",5.0,,15,219,281.0,,Notebooks Master
+"Paris, Île-de-France, France",1.0,4.0,7,191,623.0,,Datasets Expert
+"Toronto, Ontario, Canada",17.0,16.0,32,124,347.0,,Competitions Expert
+"Kyiv, Ukraine",22.0,1.0,4,336,,,Competitions Master
+"Saint-Charles-Borromée, Quebec, Canada",19.0,1.0,,101,,,Competitions Master
+"Even Yehuda, Center District, Israel",9.0,1.0,,475,,,Discussion Master
+"İstanbul, İstanbul, Turkey",14.0,3.0,15,236,424.0,,Notebooks Master
+,7.0,21.0,30,158,879.0,,Datasets Expert
+"Johannesburg, Gauteng, South Africa",13.0,6.0,72,137,,360.0,Notebooks Expert
+"North Dumdum, West Bengal, India",20.0,25.0,14,112,391.0,,Notebooks Expert
+,46.0,1.0,11,369,471.0,,Competitions Expert
+"Durgapur, West Bengal, India",13.0,4.0,35,249,311.0,,Notebooks Expert
+"Vadodara, Gujarat, India",14.0,7.0,21,372,1575.0,,Datasets Expert
+,,7.0,15,274,396.0,,Datasets Expert
+"Erode, Tamil Nadu, India",2.0,3.0,3,169,,,Discussion Expert
+"Pune, Maharashtra, India",,,7,241,572.0,,Notebooks Expert
+"Moscow, Russia",5.0,2.0,7,296,586.0,,Notebooks Expert
+"Boston, Massachusetts, United States",51.0,1.0,7,896,2306.0,,Competitions Grandmaster
+"Putrajaya, Putrajaya, Malaysia",2.0,8.0,5,285,,,Datasets Expert
+"Hyderabad, Telangana, India",121.0,403.0,"2,458",448,44.0,,Datasets Expert
+"Hanoi, Hanoi, Vietnam",23.0,21.0,27,130,834.0,,Competitions Master
+Christmas Island,72.0,,2,462,,,Competitions Expert
+"Nawabshah, Sindh, Pakistan",3.0,3.0,11,546,152.0,,Notebooks Master
+"Kolkata, West Bengal, India",5.0,4.0,25,592,260.0,,Notebooks Master
+"Sivasagar, Assam, India",10.0,4.0,53,198,768.0,,Datasets Expert
+,21.0,9.0,16,184,508.0,,Competitions Expert
+"Prague, Prague, Czechia",4.0,,43,200,,430.0,Notebooks Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",7.0,3.0,13,266,1122.0,,Notebooks Expert
+"Redmond, Washington, United States",4.0,,,157,,,Competitions Master
+"London, England, United Kingdom",,4.0,22,210,709.0,,Datasets Expert
+"Seoul, Seoul, South Korea",1.0,2.0,8,135,475.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,3.0,12,171,1392.0,,Datasets Expert
+"Delhi, Delhi, India",15.0,13.0,89,829,74.0,,Notebooks Master
+"Manila, Metro Manila, Philippines",1.0,11.0,16,121,278.0,,Notebooks Master
+"Hafizabad, Punjab, Pakistan",8.0,4.0,12,278,344.0,,Datasets Expert
+"Gurugram, Haryana, India",,1.0,12,277,238.0,,Notebooks Master
+"London, England, United Kingdom",9.0,1.0,6,276,,,Competitions Expert
+"Mumbai, Maharashtra, India",2.0,1.0,3,349,,,Discussion Expert
+"São Paulo, State of São Paulo, Brazil",8.0,3.0,25,149,663.0,,Notebooks Expert
+"Tbilisi, Tbilisi, Georgia",23.0,9.0,10,461,20.0,,Competitions Grandmaster
+"Yokohama, Kanagawa, Japan",50.0,3.0,16,543,154.0,,Competitions Grandmaster
+"Geneva, Geneva, Switzerland",25.0,2.0,7,334,,,Competitions Master
+"Gharo, Sindh, Pakistan",34.0,8.0,26,162,490.0,,Competitions Master
+,,3.0,11,477,247.0,,Notebooks Expert
+"Lucknow, Uttar Pradesh, India",6.0,2.0,12,337,257.0,,Notebooks Master
+"Greater Noida, Uttar Pradesh, India",,5.0,11,427,262.0,,Datasets Master
+"Chennai, Tamil Nadu, India",2.0,1.0,34,673,121.0,,Notebooks Master
+,2.0,13.0,11,286,,,Discussion Expert
+"Bhagalpur, Bihar, India",13.0,7.0,68,179,364.0,,Datasets Expert
+"Dresden, Saxony, Germany",4.0,6.0,11,149,657.0,,Datasets Expert
+,29.0,22.0,6,410,,,Competitions Master
+"New Delhi, Delhi, India",3.0,,3,169,,,Discussion Expert
+,2.0,2.0,2,107,,,Discussion Expert
+"Saitama, Saitama, Japan",41.0,76.0,6,100,837.0,,Competitions Master
+"Tampa, Florida, United States",10.0,3.0,24,135,109.0,,Notebooks Master
+"Gurugram, Haryana, India",4.0,10.0,4,206,,,Datasets Expert
+"Seattle, Washington, United States",2.0,,,136,,,Discussion Expert
+"Rawalpindi, Punjab, Pakistan",1.0,5.0,8,93,,,Datasets Expert
+,11.0,42.0,12,189,287.0,,Datasets Expert
+"Tabriz, East Azerbaijan Province, Iran",,4.0,15,171,1046.0,,Datasets Expert
+"Reading, England, United Kingdom",5.0,1.0,9,109,382.0,,Notebooks Expert
+"Casablanca, Casablanca-Settat, Morocco",26.0,2.0,1,66,,,Competitions Expert
+"Buffalo, New York, United States",1.0,1.0,15,146,985.0,,Notebooks Expert
+"Paris, Île-de-France, France",8.0,6.0,4,334,,,Discussion Expert
+"Setif, Sétif Province, Algeria",44.0,4.0,45,572,45.0,,Notebooks Master
+"Vancouver, British Columbia, Canada",,,8,204,1340.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,8.0,14,367,657.0,,Datasets Expert
+"Karachi, Sindh, Pakistan",,22.0,46,236,655.0,,Datasets Expert
+"Algiers, Algiers Province, Algeria",28.0,,21,128,346.0,,Notebooks Master
+"Busan, Busan, South Korea",15.0,15.0,33,218,106.0,,Notebooks Master
+"Campinas, State of São Paulo, Brazil",,11.0,51,124,160.0,,Notebooks Master
+,7.0,7.0,20,267,191.0,,Notebooks Master
+"Riyadh, Riyadh Province, Saudi Arabia",,,67,166,,,Discussion Expert
+"Kolkata, West Bengal, India",14.0,6.0,12,330,1324.0,,Datasets Expert
+"Thrissur, Kerala, India",1.0,1.0,4,135,,,Discussion Expert
+,8.0,4.0,13,208,1230.0,,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",6.0,,9,183,,,Discussion Expert
+"Kanpur, Uttar Pradesh, India",,,5,127,1686.0,,Notebooks Expert
+"New York, New York, United States",19.0,2.0,110,303,445.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",14.0,19.0,24,309,411.0,,Notebooks Master
+"Vancouver, Washington, United States",11.0,14.0,11,664,136.0,,Datasets Expert
+"Kuwait City, Al Asimah Governate, Kuwait",2.0,8.0,,106,,,Datasets Expert
+"Chennai, Tamil Nadu, India",3.0,2.0,9,138,1055.0,,Notebooks Expert
+"Mangalore, Karnataka, India",1.0,1.0,23,257,268.0,,Notebooks Expert
+"Westford, Massachusetts, United States",60.0,,8,377,205.0,,Competitions Expert
+"Prague, Prague, Czechia",20.0,11.0,18,76,,,Competitions Master
+"Wrocław, Lower Silesian Voivodeship, Poland",11.0,,1,"1,024",,,Competitions Expert
+"Paris, Île-de-France, France",12.0,1.0,7,127,,,Discussion Expert
+"Petaling Jaya, Selangor, Malaysia",6.0,44.0,77,547,179.0,,Notebooks Master
+"Athens, Greece",,3.0,7,516,303.0,,Datasets Expert
+"Los Angeles, California, United States",3.0,7.0,9,179,713.0,,Datasets Expert
+"Xi'an, Shaanxi, China",19.0,1.0,1,108,,,Competitions Master
+"Patna, Bihar, India",,,11,162,,436.0,Notebooks Master
+"Cambridge, England, United Kingdom",4.0,2.0,3,263,,,Discussion Expert
+"Tokyo, Tokyo, Japan",20.0,5.0,6,174,1795.0,,Competitions Master
+"Guildford, England, United Kingdom",76.0,5.0,120,613,1.0,,Competitions Grandmaster
+"Nagpur, Maharashtra, India",30.0,6.0,11,278,,,Competitions Expert
+"Albany, New York, United States",2.0,1.0,10,175,1197.0,,Notebooks Expert
+"Ankara, Ankara, Turkey",1.0,7.0,13,147,580.0,,Datasets Expert
+"Charlotte, North Carolina, United States",22.0,13.0,31,264,56.0,,Notebooks Master
+"Pune, Maharashtra, India",4.0,9.0,18,267,220.0,,Notebooks Master
+,,,6,130,1207.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",2.0,1.0,6,154,2680.0,,Notebooks Expert
+"Sydney, New South Wales, Australia",3.0,1.0,15,140,844.0,,Competitions Expert
+"Redwood City, California, United States",13.0,,17,588,43.0,,Competitions Master
+"Moscow, Russia",129.0,14.0,89,357,1.0,,Competitions Grandmaster
+"Phoenix, Arizona, United States",50.0,1.0,2,103,,,Competitions Grandmaster
+"İstanbul, İstanbul, Turkey",12.0,11.0,42,867,54.0,,Notebooks Grandmaster
+"Chennai, Tamil Nadu, India",6.0,6.0,6,326,141.0,,Datasets Expert
+,1.0,3.0,9,281,580.0,,Datasets Expert
+,5.0,10.0,51,269,509.0,,Datasets Expert
+"Bengaluru, Karnataka, India",,8.0,27,480,117.0,,Datasets Master
+"Bengaluru, Karnataka, India",9.0,,13,159,1199.0,,Notebooks Expert
+"Ahmedabad, Gujarat, India",15.0,5.0,5,282,417.0,,Datasets Expert
+"Mumbai, Maharashtra, India",4.0,11.0,20,416,182.0,,Notebooks Master
+"Taipei, Taiwan",7.0,87.0,35,101,102.0,,Competitions Expert
+,35.0,2.0,1,148,,,Competitions Master
+"Beijing, China",29.0,5.0,1,131,,,Competitions Grandmaster
+"Baghdad, Baghdad Governorate, Iraq",1.0,6.0,8,117,355.0,,Datasets Master
+"Bath, England, United Kingdom",8.0,9.0,10,364,920.0,,Notebooks Expert
+"Frankfurt, Hesse, Germany",11.0,5.0,46,436,73.0,,Notebooks Master
+"Isa Town, Central Governorate, Bahrain",21.0,,8,335,981.0,,Competitions Expert
+"Cairo, Cairo Governorate, Egypt",,4.0,18,203,673.0,,Datasets Expert
+"Can Tho, Cần Thơ, Vietnam",15.0,1.0,2,75,,,Competitions Expert
+"New Delhi, Delhi, India",15.0,,6,162,1349.0,,Notebooks Expert
+,6.0,6.0,11,161,1008.0,,Datasets Expert
+"Royal Palm Beach, Florida, United States",5.0,,,396,,,Discussion Expert
+"Seattle, Washington, United States",148.0,,25,899,94.0,,Discussion Grandmaster
+"Chicago, Illinois, United States",15.0,55.0,10,307,299.0,,Competitions Expert
+"Mumbai, Maharashtra, India",4.0,5.0,14,215,1713.0,,Datasets Expert
+"Delhi, Delhi, India",5.0,,20,369,65.0,,Notebooks Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",,,13,198,408.0,,Notebooks Master
+"San José, San José Province, Costa Rica",19.0,3.0,69,219,604.0,,Notebooks Expert
+"Belgrade, Serbia",,2.0,4,256,,,Discussion Expert
+"Seoul, Seoul, South Korea",3.0,4.0,11,240,274.0,,Notebooks Master
+,4.0,37.0,27,732,172.0,,Notebooks Master
+,,5.0,9,170,2212.0,,Datasets Expert
+"Guangzhou, Guangdong Province, China",52.0,35.0,52,160,145.0,,Competitions Master
+"Barcelona, Catalonia, Spain",8.0,5.0,3,81,,,Competitions Expert
+"Tehran, Tehran Province, Iran",2.0,12.0,18,136,,455.0,Datasets Expert
+"Belo Horizonte, State of Minas Gerais, Brazil",27.0,4.0,12,152,621.0,,Competitions Master
+"Florida City, Florida, United States",7.0,15.0,20,306,72.0,,Datasets Master
+"Busan, Busan, South Korea",15.0,16.0,9,207,,,Competitions Expert
+,31.0,2.0,19,188,744.0,,Competitions Expert
+"Medellín, Antioquia, Colombia",5.0,,12,202,519.0,,Notebooks Expert
+"Hyderabad, Telangana, India",1.0,5.0,10,162,680.0,,Datasets Master
+"Haldwani, Uttarakhand, India",13.0,13.0,16,188,409.0,,Datasets Expert
+"Paris, Île-de-France, France",27.0,,,,,,
+"Beijing, Beijing, China",62.0,47,15,112,98.0,,Competitions Master
+"Boulder, Colorado, United States",8.0,1,6,117,2299.0,,Notebooks Expert
+"Reading, England, United Kingdom",13.0,6,15,313,89.0,,Competitions Master
+"Warsaw, Masovian Voivodeship, Poland",39.0,,6,85,,,Competitions Master
+"Hanoi, Hanoi, Vietnam",15.0,2,19,141,,,Competitions Master
+"Moscow, Idaho, United States",4.0,,5,196,,,Discussion Expert
+"Haifa, Haifa District, Israel",42.0,7,4,154,,,Competitions Master
+"Charlotte, North Carolina, United States",,3,17,487,121.0,,Notebooks Master
+"Jabalpur, Madhya Pradesh, India",14.0,3,11,134,1205.0,,Competitions Expert
+,4.0,6,17,113,564.0,,Datasets Expert
+"Santa Clara, California, United States",3.0,15,11,291,2183.0,,Datasets Expert
+"Lexington, Kentucky, United States",12.0,22,55,139,572.0,,Competitions Expert
+,3.0,,5,237,465.0,,Notebooks Expert
+"Moscow, Russia",,1,,103,,,Discussion Expert
+"London, England, United Kingdom",1.0,5,24,209,1104.0,,Datasets Expert
+"Amman, Amman Governorate, Jordan",12.0,6,20,205,377.0,,Datasets Expert
+"Rotterdam, South Holland, Netherlands",16.0,1,36,701,204.0,,Notebooks Master
+"Gothenburg, Västra Götaland County, Sweden",2.0,6,10,145,1165.0,,Notebooks Expert
+"Theni, Tamil Nadu, India",26.0,5,45,150,499.0,,Datasets Expert
+"Chennai, Tamil Nadu, India",4.0,2,11,109,2183.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,,2,110,,,Discussion Expert
+"Hong Kong, Hong Kong",12.0,,12,225,767.0,,Notebooks Expert
+"Shiraz, Fars Province, Iran",,21,36,142,,262.0,Datasets Expert
+"Malmö, Skåne County, Sweden",17.0,3,19,222,1177.0,,Competitions Expert
+"Los Angeles, California, United States",21.0,10,35,156,334.0,,Competitions Expert
+"Nagoya, Aichi, Japan",37.0,1,4,95,,,Competitions Master
+"Toronto, Ontario, Canada",56.0,16,52,406,35.0,,Notebooks Master
+"Bengaluru, Karnataka, India",3.0,,13,144,975.0,,Notebooks Expert
+"Saint Petersburg, Russia",29.0,16,42,271,264.0,,Competitions Expert
+"Padua, Veneto, Italy",9.0,,5,157,,,Competitions Expert
+"Vienna, Vienna, Austria",43.0,5,12,98,2313.0,,Competitions Grandmaster
+"Ahmedabad, Gujarat, India",19.0,74,61,394,78.0,,Datasets Expert
+"Karlsruhe, Baden-Württemberg, Germany",9.0,,9,121,98.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",8.0,1,5,170,226.0,,Competitions Expert
+"Bhubaneswar, Odisha, India",6.0,6,10,119,926.0,,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",,5,14,219,489.0,,Notebooks Master
+"Houston, Texas, United States",3.0,1,15,387,181.0,,Notebooks Master
+"Nashville, Tennessee, United States",2.0,,3,124,,,Discussion Expert
+,,6,11,241,357.0,,Notebooks Master
+"Seattle, Washington, United States",49.0,3,19,106,156.0,,Competitions Grandmaster
+"San Jose, California, United States",4.0,3,6,252,2691.0,,Datasets Expert
+"Franca, State of São Paulo, Brazil",15.0,46,37,337,33.0,,Notebooks Master
+"Toulouse, Occitanie, France",28.0,10,25,469,26.0,,Notebooks Master
+"Chicago, Illinois, United States",2.0,5,15,103,267.0,,Datasets Expert
+"London, England, United Kingdom",5.0,8,45,812,305.0,,Competitions Expert
+"Navi Mumbai, Maharashtra, India",4.0,7,22,399,982.0,,Datasets Expert
+"Seoul, Seoul, South Korea",8.0,,15,149,,,Discussion Expert
+"Liverpool, England, United Kingdom",4.0,8,22,84,1200.0,,Datasets Expert
+"Lucknow, Uttar Pradesh, India",2.0,1,7,406,177.0,,Notebooks Expert
+"New Delhi, Delhi, India",8.0,11,32,433,162.0,,Notebooks Master
+"Taipei, Taiwan",8.0,19,59,171,142.0,,Competitions Expert
+"Kabul, Kabul, Afghanistan",1.0,,7,138,1089.0,,Notebooks Expert
+"Dublin, County Dublin, Ireland",5.0,1,19,193,760.0,,Notebooks Expert
+"Austin, Texas, United States",30.0,3,3,270,,,Competitions Master
+"Linz, Upper Austria, Austria",9.0,5,8,191,25.0,,Competitions Expert
+"Seattle, Washington, United States",,107,272,"2,191",10.0,,Datasets Grandmaster
+"Nanjing, Jiangsu, China",18.0,,4,777,,,Competitions Expert
+"Salt Lake City, Utah, United States",21.0,1,21,528,48.0,,Competitions Master
+"London, England, United Kingdom",28.0,2,9,226,505.0,,Competitions Master
+"Hangzhou, Zhejiang, China",17.0,145,5,106,,,Competitions Master
+"Cambridge, Massachusetts, United States",16.0,2,18,264,2663.0,,Competitions Master
+"Hong Kong, Hong Kong",4.0,,,79,,,Competitions Expert
+"Oakland, California, United States",,,1,62,,,Discussion Expert
+"Tehran, Tehran Province, Iran",15.0,4,24,173,174.0,,Notebooks Master
+"Mul, Maharashtra, India",14.0,1,10,148,263.0,,Notebooks Expert
+"Zagazig, Ash Sharqia Governorate, Egypt",1.0,,9,200,896.0,,Notebooks Expert
+"Rostock, Mecklenburg-Vorpommern, Germany",15.0,4,,108,,,Datasets Expert
+"Surat, Gujarat, India",1.0,6,16,614,175.0,,Notebooks Master
+"Ahmedabad, Gujarat, India",3.0,11,30,131,479.0,,Datasets Expert
+"Alicante, Valencian Community, Spain",1.0,1,12,176,690.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",2.0,6,3,112,,,Discussion Expert
+"Singapore, Singapore",86.0,1,12,156,,,Competitions Master
+"Wrocław, Lower Silesian Voivodeship, Poland",14.0,1,8,129,597.0,,Competitions Expert
+"Nantes, Pays de la Loire, France",10.0,15,30,207,221.0,,Notebooks Master
+"Patiala, Punjab, India",,10,9,162,,,Datasets Expert
+"Oslo, Oslo, Norway",4.0,4,16,294,197.0,,Notebooks Expert
+"Moscow, Russia",24.0,4,7,290,621.0,,Notebooks Expert
+"Eindhoven, North Brabant, Netherlands",36.0,8,25,821,71.0,,Notebooks Master
+"Yokohama, Kanagawa, Japan",55.0,4,11,216,,,Competitions Master
+"Dhaka, Dhaka Division, Bangladesh",2.0,7,5,255,1560.0,,Datasets Expert
+"Ahmedabad, Gujarat, India",,3,15,209,551.0,,Datasets Expert
+"Kansas City, Missouri, United States",41.0,12,4,100,,,Competitions Expert
+"Hawally, Hawalli Governorate, Kuwait",17.0,25,87,315,30.0,,Notebooks Grandmaster
+"Zagazig, Ash Sharqia Governorate, Egypt",,,7,113,1496.0,,Notebooks Expert
+"Anantapur, Andhra Pradesh, India",,3,10,170,651.0,,Notebooks Expert
+"Manila, Metro Manila, Philippines",,8,17,199,409.0,,Datasets Expert
+"Hangzhou, Zhejiang, China",18.0,,14,347,126.0,,Competitions Master
+"Bikaner, Rajasthan, India",4.0,8,10,595,979.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",72.0,18,11,725,716.0,,Competitions Expert
+"Patiala, Punjab, India",6.0,2,6,211,,,Discussion Expert
+"Heidelberg, Baden-Württemberg, Germany",12.0,5,20,315,787.0,,Datasets Expert
+"New Delhi, Delhi, India",,2,17,233,,336.0,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",7.0,1,11,129,932.0,,Notebooks Expert
+"Philadelphia, Pennsylvania, United States",16.0,14,13,195,1436.0,,Datasets Expert
+,,5,6,131,,,Datasets Expert
+"Paris, Île-de-France, France",26.0,2,14,108,911.0,,Notebooks Expert
+"São Paulo, State of São Paulo, Brazil",19.0,101,20,185,102.0,,Datasets Grandmaster
+"Utrecht, Utrecht, Netherlands",7.0,2,21,390,312.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,1,2,165,,,Discussion Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",14.0,9,2,151,,,Competitions Expert
+"Bengaluru, Karnataka, India",10.0,5,12,364,1026.0,,Datasets Expert
+"Ahmedabad, Gujarat, India",25.0,13,55,158,1186.0,,Notebooks Expert
+"Chicago, Illinois, United States",6.0,21,62,491,375.0,,Datasets Expert
+"New Delhi, Delhi, India",,11,2,206,,,Discussion Expert
+,,3,8,160,742.0,,Datasets Expert
+,1.0,,5,135,,,Discussion Expert
+,19.0,,2,860,,,Competitions Master
+,11.0,1,3,117,,,Competitions Master
+"Jülich, North Rhine-Westphalia, Germany",7.0,,,173,,,Competitions Master
+"Suwon-si, Gyeonggi-do, South Korea",8.0,1,8,165,771.0,,Notebooks Expert
+"Hyderabad, Telangana, India",2.0,1,10,106,,,Discussion Expert
+"Delhi, Delhi, India",,3,10,163,1574.0,,Datasets Expert
+"Windsor, Ontario, Canada",,1,10,164,944.0,,Notebooks Expert
+"Seoul, Seoul, South Korea",2.0,,9,230,549.0,,Notebooks Expert
+,35.0,13,25,225,628.0,,Competitions Expert
+"Singarayakonda, Andhra Pradesh, India",,5,1,202,,,Discussion Expert
+"Rourkela, Odisha, India",5.0,5,18,160,432.0,,Datasets Expert
+"Mumbai, Maharashtra, India",3.0,2,6,94,944.0,,Notebooks Expert
+,6.0,1,4,99,,,Discussion Expert
+"Bengaluru, Karnataka, India",122.0,31,15,391,308.0,,Competitions Expert
+"Moscow, Russia",39.0,7,18,103,282.0,,Competitions Master
+"Cheongju-si, Chungcheongbuk-do, South Korea",32.0,126,62,125,323.0,,Competitions Expert
+"Chengdu, Sichuan, China",19.0,,,195,,,Competitions Master
+,,10,19,147,1006.0,,Datasets Expert
+"Ottawa, Ontario, Canada",6.0,1,15,127,1275.0,,Notebooks Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",23.0,204,29,185,364.0,,Notebooks Expert
+"Aydın, Aydın, Turkey",25.0,6,17,248,118.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",4.0,1,14,171,1583.0,,Notebooks Expert
+"Detroit, Michigan, United States",4.0,4,2,167,,,Discussion Expert
+,1.0,1,2,95,351.0,,Notebooks Expert
+,21.0,5,17,89,747.0,,Notebooks Expert
+,2.0,,19,120,563.0,,Notebooks Expert
+"Los Angeles, California, United States",110.0,15,30,166,129.0,,Competitions Master
+"London, England, United Kingdom",1.0,,3,106,,,Discussion Expert
+"İstanbul, Istanbul, Turkey",,,31,155,538.0,,Notebooks Expert
+,,,5,121,,,Discussion Expert
+"Lublin, Lublin Voivodeship, Poland",13.0,9,19,118,133.0,,Competitions Master
+"Tunis, Tunis, Tunisia",6.0,4,64,120,552.0,,Notebooks Expert
+"Sapporo, Hokkaido, Japan",10.0,4,19,425,95.0,,Notebooks Master
+,,,1,100,,,Discussion Expert
+"Sfax, Sfax, Tunisia",5.0,6,53,373,320.0,,Notebooks Expert
+"Rajkot, Gujarat, India",6.0,35,14,122,756.0,,Datasets Expert
+"Rewari, Haryana, India",1.0,,8,123,898.0,,Notebooks Expert
+"Ankara, Ankara, Turkey",1.0,2,15,241,246.0,,Notebooks Master
+"Minsk, Minsk Region, Belarus",43.0,74,53,135,97.0,,Notebooks Master
+"Montreal, Quebec, Canada",18.0,2,13,207,1074.0,,Competitions Expert
+"Bath, England, United Kingdom",12.0,,7,277,197.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",4.0,2,5,106,848.0,,Notebooks Expert
+"Kolkata, West Bengal, India",,3,5,202,449.0,,Notebooks Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,21,191,615.0,,Datasets Expert
+"Moscow, Russia",6.0,1,7,207,,,Discussion Expert
+,,3,7,165,700.0,,Datasets Expert
+,108.0,,45,174,54.0,,Notebooks Master
+,105.0,,,426,,,Competitions Expert
+"Rockville, Maryland, United States",2.0,,1,79,,,Discussion Expert
+"Novosibirsk, Novosibirsk Oblast, Russia",16.0,,9,245,174.0,,Competitions Expert
+"Hanoi, Hanoi, Vietnam",81.0,5,17,137,52.0,,Competitions Grandmaster
+"Antibes, Provence-Alpes-Côte d'Azur, France",13.0,4,16,88,640.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",28.0,4,13,192,1096.0,,Competitions Expert
+"Cork, County Cork, Ireland",29.0,3,11,231,1734.0,,Notebooks Expert
+"Seoul, Seoul, South Korea",47.0,9,8,108,2233.0,,Competitions Expert
+"Gurugram, Haryana, India",4.0,4,8,124,544.0,,Datasets Expert
+,22.0,,24,102,726.0,,Notebooks Expert
+"Greater Noida, Uttar Pradesh, India",,3,7,404,291.0,,Datasets Expert
+,3.0,6,3,150,,,Discussion Expert
+,10.0,,,142,,,Competitions Expert
+"Kochi, Kerala, India",6.0,1,10,158,885.0,,Notebooks Expert
+"Chandigarh, Chandigarh, India",5.0,12,4,130,,,Datasets Expert
+"Puducherry, Puducherry, India",5.0,1,9,186,599.0,,Notebooks Expert
+"Buenos Aires, Buenos Aires, Argentina",,,9,140,1945.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",43.0,3,10,305,406.0,,Competitions Expert
+"Breda, North Brabant, Netherlands",6.0,2,8,387,86.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",1.0,13,19,123,927.0,,Datasets Expert
+"New York, New York, United States",55.0,20,5,335,,,Competitions Expert
+"Vijayawada, Andhra Pradesh, India",6.0,6,23,209,622.0,,Datasets Expert
+"Delhi, Delhi, India",10.0,,7,224,726.0,,Notebooks Expert
+"Karachi, Sindh, Pakistan",1.0,4,9,117,1347.0,,Datasets Expert
+"Seoul, Seoul, South Korea",8.0,3,15,102,872.0,,Notebooks Expert
+"Aurangabad, Maharashtra, India",1.0,4,3,154,,,Discussion Expert
+,15.0,2,3,72,,,Discussion Expert
+"Srikakulam, Andhra Pradesh, India",3.0,5,7,105,,,Datasets Expert
+"Pamplona, Navarre, Spain",15.0,,13,239,121.0,,Competitions Master
+"Tokyo, Tokyo, Japan",62.0,122,24,162,472.0,,Competitions Grandmaster
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",14.0,4,67,302,118.0,,Notebooks Master
+"Gurugram, Haryana, India",2.0,5,37,849,110.0,,Notebooks Master
+"Mumbai, Maharashtra, India",5.0,10,33,489,253.0,,Datasets Expert
+"İstanbul, İstanbul, Turkey",4.0,,5,110,1041.0,,Notebooks Expert
+"Lucknow, Uttar Pradesh, India",4.0,3,14,206,421.0,,Notebooks Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",12.0,21,46,323,,,Discussion Expert
+"Kolkata, West Bengal, India",2.0,,14,298,155.0,,Notebooks Master
+"Tbilisi, Tbilisi, Georgia",6.0,5,4,133,,,Discussion Expert
+"Beijing, Beijing, China",26.0,12,11,82,451.0,,Competitions Master
+,15.0,,14,119,1502.0,,Notebooks Expert
+"Ahmedabad, Gujarat, India",,1,5,182,878.0,,Notebooks Expert
+"Pune, Maharashtra, India",3.0,1,7,122,,,Discussion Expert
+,12.0,7,13,123,1175.0,,Notebooks Expert
+"Amritsar, Punjab, India",1.0,,5,125,,,Discussion Expert
+"Karachi, Sindh, Pakistan",1.0,4,16,193,605.0,,Datasets Expert
+,26.0,,3,461,,,Competitions Expert
+"Houston, Texas, United States",9.0,,5,179,,,Competitions Expert
+"Ambala, Haryana, India",,1,51,173,,231.0,Notebooks Expert
+"Nagoya, Aichi, Japan",43.0,13,5,131,,,Competitions Master
+,32.0,3,19,145,929.0,,Notebooks Expert
+"Feni, Chittagong Division, Bangladesh",20.0,6,35,312,268.0,,Notebooks Master
+"Lisbon, Lisbon, Portugal",2.0,1,5,138,,,Discussion Expert
+"Millbrae, California, United States",9.0,6,,103,,,Discussion Expert
+"Baku, Azerbaijan",5.0,,9,100,509.0,,Notebooks Expert
+"Ernakulam, Kerala, India",,6,8,134,375.0,,Datasets Expert
+"Rajshahi, Rajshahi Division, Bangladesh",1.0,3,3,117,,,Discussion Expert
+"Taipei, Taiwan",34.0,1,33,204,176.0,,Competitions Master
+"New Delhi, Delhi, India",2.0,4,27,161,155.0,,Notebooks Master
+"Berlin, Berlin, Germany",4.0,,1,291,,,Discussion Expert
+"Boston, Massachusetts, United States",3.0,2,4,231,,,Competitions Expert
+"Moscow, Russia",11.0,,7,150,162.0,,Notebooks Expert
+,9.0,10,9,129,931.0,,Datasets Expert
+"Pune, Maharashtra, India",1.0,6,25,197,503.0,,Datasets Expert
+"Pune, Maharashtra, India",1.0,4,5,127,,,Discussion Expert
+"Pune, Maharashtra, India",1.0,6,12,103,1273.0,,Datasets Expert
+"Toronto, Ontario, Canada",64.0,,5,267,,,Competitions Grandmaster
+,18.0,,1,302,,,Competitions Expert
+"Hà Nội, Vietnam",12.0,64,45,491,79.0,,Competitions Master
+"Sydney, New South Wales, Australia",14.0,5,1,180,,,Competitions Expert
+"Wrocław, Lower Silesian Voivodeship, Poland",23.0,,5,105,2996.0,,Competitions Expert
+"Porbandar, Gujarat, India",2.0,1,7,139,1475.0,,Notebooks Expert
+"Ranchi, Jharkhand, India",,1,5,89,,,Discussion Expert
+"Karachi, Sindh, Pakistan",2.0,19,8,80,324.0,,Datasets Expert
+"Bengaluru, Karnataka, India",2.0,6,13,90,1021.0,,Datasets Expert
+"Toronto, Ontario, Canada",,4,6,127,703.0,,Datasets Expert
+"Kochi, Kerala, India",7.0,1,14,619,223.0,,Notebooks Master
+"Prague, Prague, Czechia",18.0,16,15,256,165.0,,Competitions Expert
+"Chengdu, Sichuan, China",41.0,7,25,213,1748.0,,Competitions Master
+,10.0,7,22,102,613.0,,Notebooks Expert
+"Shenzhen, Guangdong Province, China",38.0,1,,403,,,Competitions Grandmaster
+"Paris, Île-de-France, France",18.0,1,17,234,123.0,,Notebooks Master
+"Essen, North Rhine-Westphalia, Germany",32.0,4,31,177,819.0,,Competitions Expert
+,4.0,,1,129,,,Discussion Expert
+"Navi Mumbai, Maharashtra, India",1.0,1,13,353,345.0,,Notebooks Expert
+"New Delhi, Delhi, India",7.0,,,66,,,Discussion Expert
+"Edmonton, Alberta, Canada",1.0,3,3,189,,,Datasets Expert
+"Boise, Idaho, United States",50.0,,6,365,,,Competitions Master
+"Shanghai, Shanghai, China",33.0,10,11,182,345.0,,Competitions Master
+"Tokyo, Tokyo, Japan",29.0,10,3,90,,,Competitions Grandmaster
+"Madrid, Community of Madrid, Spain",12.0,,1,175,,,Competitions Expert
+"Phagwara, Punjab, India",1.0,5,19,459,263.0,,Datasets Expert
+"Warangal, Telangana, India",23.0,8,23,122,1128.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,,2,104,,,Discussion Expert
+"Howrah, West Bengal, India",6.0,1,12,431,339.0,,Notebooks Expert
+"Roorkee, Uttarakhand, India",9.0,6,5,267,,,Datasets Expert
+"Thiruvananthapuram, Kerala, India",13.0,1,15,277,404.0,,Competitions Expert
+"Kawasaki, Kanagawa, Japan",9.0,8,17,125,846.0,,Datasets Expert
+,11.0,2,,102,,,Discussion Expert
+"Coimbatore, Tamil Nadu, India",9.0,4,12,125,969.0,,Datasets Expert
+"Chennai, Tamil Nadu, India",2.0,,1,107,,,Discussion Expert
+,2.0,1,,92,,,Discussion Expert
+"Panama City, Panama, Panama",1.0,1,1,93,,,Discussion Expert
+"İstanbul, İstanbul, Turkey",2.0,,15,88,778.0,,Notebooks Expert
+"Orvault, Pays de la Loire, France",388.0,"1,236",142,102,332.0,,Competitions Master
+"Bydgoszcz, Kuyavian-Pomeranian Voivodeship, Poland",105.0,,61,439,63.0,,Competitions Expert
+"Paris, Île-de-France, France",1.0,,19,582,248.0,,Notebooks Master
+"Surabaya, East Java, Indonesia",13.0,6,5,92,1589.0,,Datasets Expert
+"Hyderabad, Telangana, India",4.0,2,3,309,,,Discussion Expert
+"Lyon, Auvergne-Rhône-Alpes, France",56.0,9,29,335,1119.0,,Notebooks Expert
+"Turin, Piedmont, Italy",1.0,4,7,338,635.0,,Datasets Expert
+,2.0,2,11,142,1192.0,,Notebooks Expert
+"Hamedan, Hamadan Province, Iran",,7,8,112,421.0,,Datasets Expert
+"Seattle, Washington, United States",68.0,4,9,77,1823.0,,Competitions Expert
+"Mumbai, Maharashtra, India",3.0,,7,157,2326.0,,Notebooks Expert
+"San José, San José Province, Costa Rica",19.0,,12,720,75.0,,Notebooks Master
+,66.0,16,65,255,113.0,,Notebooks Master
+"Dhaka, Dhaka Division, Bangladesh",2.0,12,18,221,323.0,,Datasets Master
+"Seoul, Seoul, South Korea",2.0,1,17,97,2267.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",45.0,3,1,284,,,Competitions Expert
+,1.0,,5,113,1508.0,,Notebooks Expert
+,23.0,4,29,131,1158.0,,Notebooks Expert
+"Damoh, Madhya Pradesh, India",25.0,1,30,159,292.0,,Competitions Expert
+"Novi Sad, Vojvodina, Serbia",6.0,4,23,115,202.0,,Notebooks Master
+"Greensboro, North Carolina, United States",,1,5,152,1493.0,,Notebooks Expert
+"Mysuru, Karnataka, India",3.0,,,90,,,Discussion Expert
+,,3,3,85,,,Datasets Expert
+,2.0,,,122,,,Discussion Expert
+,,3,22,141,265.0,,Notebooks Master
+"Paderborn, North Rhine-Westphalia, Germany",1.0,,6,114,712.0,,Notebooks Expert
+"Shanghai, Shanghai, China",16.0,6,1,125,,,Competitions Master
+"Boston, Massachusetts, United States",49.0,1,24,821,12.0,,Competitions Master
+,44.0,,,111,,,Competitions Expert
+"Chennai, Tamil Nadu, India",9.0,23,30,298,582.0,,Datasets Master
+"Kobe, Hyogo, Japan",56.0,24,"1,272",,22.0,,Datasets Expert
+"Bengaluru, Karnataka, India",22.0,3,22,344,604.0,,Competitions Expert
+"Noida, Uttar Pradesh, India",3.0,3,7,151,731.0,,Notebooks Expert
+"Tunis, Tunis, Tunisia",3.0,,10,123,472.0,,Notebooks Expert
+"Berlin, Berlin, Germany",9.0,1,12,143,2574.0,,Notebooks Expert
+"Alexandria, Alexandria Governorate, Egypt",,,13,513,205.0,,Notebooks Master
+"Palo Alto, California, United States",,5,2,79,,,Discussion Expert
+"Meta, Missouri, United States",15.0,33,55,104,457.0,,Datasets Expert
+,20.0,1,3,75,,,Competitions Expert
+"Palo Alto, California, United States",2.0,4,3,188,,,Datasets Expert
+"El Jem, Mahdia, Tunisia",2.0,6,31,214,318.0,,Datasets Expert
+"Tabriz, East Azerbaijan Province, Iran",,,24,161,302.0,,Notebooks Expert
+,1.0,3,,75,,,Datasets Expert
+"Groningen, Groningen, Netherlands",6.0,3,4,83,,,Discussion Expert
+"Varanasi, Uttar Pradesh, India",17.0,5,10,526,48.0,,Competitions Expert
+"Houston, Texas, United States",51.0,,21,239,,,Competitions Expert
+"Beijing, Beijing, China",29.0,13,8,83,,,Competitions Grandmaster
+"Toronto, Ontario, Canada",13.0,1,4,213,,,Competitions Expert
+"Toronto, Ontario, Canada",14.0,11,4,529,,,Discussion Expert
+"Dubai, Dubai, United Arab Emirates",3.0,1,8,213,,,Discussion Expert
+,4.0,1,7,87,,,Discussion Expert
+"Hyderabad, Telangana, India",61.0,2,2,194,,,Competitions Expert
+"Bengaluru, Karnataka, India",,1,1,86,,,Discussion Expert
+"Frankfurt, Hessen, Germany",1.0,,20,430,329.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,,7,88,,,Discussion Expert
+,3.0,4,15,157,1601.0,,Notebooks Expert
+,110.0,1,75,"1,477",14.0,,Competitions Grandmaster
+,7.0,,7,163,341.0,,Competitions Master
+"Vancouver, British Columbia, Canada",18.0,,1,90,,,Competitions Master
+,5.0,,11,102,989.0,,Notebooks Expert
+"İstanbul, İstanbul, Turkey",8.0,22,18,312,115.0,,Datasets Master
+,15.0,15,15,146,47.0,,Competitions Expert
+"Courbevoie, Île-de-France, France",5.0,1,16,103,512.0,,Notebooks Expert
+"New Delhi, Delhi, India",3.0,3,12,332,175.0,,Notebooks Master
+"Tbilisi, Tbilisi, Georgia",1.0,1,6,156,2149.0,,Notebooks Expert
+"Porto Alegre, State of Rio Grande do Sul, Brazil",4.0,2,10,97,274.0,,Notebooks Expert
+"New York, New York, United States",4.0,7,8,185,,,Datasets Expert
+"Fuzhou, Fujian, China",27.0,67,21,417,,,Competitions Master
+"Hildesheim, Lower Saxony, Germany",,2,9,268,536.0,,Notebooks Expert
+"Lima, Callao Region, Peru",13.0,6,7,148,572.0,,Datasets Expert
+Jammu,13.0,6,33,166,429.0,,Datasets Expert
+,,,12,152,539.0,,Notebooks Expert
+"New York, New York, United States",16.0,3,3,105,,,Competitions Expert
+"Cádiz, Andalusia, Spain",47.0,,6,129,,,Competitions Expert
+"San Francisco, California, United States",5.0,7,12,191,2969.0,,Notebooks Expert
+"Princeton, New Jersey, United States",34.0,,7,115,2112.0,,Competitions Master
+"London, England, United Kingdom",,1,5,120,1616.0,,Notebooks Expert
+"Vladikavkaz, North Ossetia–Alania Republic, Russia",8.0,1,,126,,,Competitions Expert
+"Karachi, Sindh, Pakistan",,,6,305,586.0,,Notebooks Expert
+,26.0,,,90,,,Competitions Expert
+"İstanbul, İstanbul, Turkey",1.0,,3,130,,,Discussion Expert
+"Mumbai, Maharashtra, India",1.0,4,8,92,740.0,,Notebooks Expert
+,8.0,16,19,128,120.0,,Notebooks Master
+,5.0,3,2,103,,,Discussion Expert
+,26.0,3,17,117,1126.0,,Notebooks Expert
+"Frankfurt, Hesse, Germany",34.0,2,11,127,272.0,,Competitions Expert
+"Tokyo, Tokyo, Japan",28.0,,6,156,,,Competitions Grandmaster
+"Gainesville, Florida, United States",14.0,5,7,129,1601.0,,Competitions Expert
+"Yerevan, Yerevan, Armenia",19.0,1,2,125,,,Discussion Expert
+"Yokohama, Kanagawa, Japan",40.0,87,30,100,90.0,,Competitions Grandmaster
+"Singapore, Singapore",115.0,195,60,481,28.0,,Notebooks Grandmaster
+"Ghaziabad, Uttar Pradesh, India",16.0,18,18,243,403.0,,Datasets Master
+"Toronto, Ontario, Canada",20.0,1,1,294,,,Competitions Expert
+"Budapest, Hungary",29.0,81,36,180,157.0,,Notebooks Master
+"São Paulo, State of São Paulo, Brazil",,,2,78,,,Discussion Expert
+"Munshiganj, Dhaka Division, Bangladesh",10.0,4,17,220,501.0,,Datasets Expert
+"Kolkata, West Bengal, India",2.0,1,8,142,734.0,,Notebooks Expert
+"Chicago, Illinois, United States",38.0,15,10,103,656.0,,Notebooks Expert
+"Seoul, Seoul, South Korea",18.0,9,5,55,1911.0,,Datasets Expert
+"Amman, Amman Governorate, Jordan",,1,21,267,1169.0,,Notebooks Expert
+"Karachi, Sindh, Pakistan",3.0,1,12,160,635.0,,Notebooks Expert
+"Hangzhou, Zhejiang, China",5.0,6,14,89,608.0,,Datasets Expert
+"Karachi, Sindh, Pakistan",,16,19,112,1245.0,,Notebooks Expert
+,2.0,,4,126,,,Discussion Expert
+"Brasília, Federal District, Brazil",16.0,9,4,107,,,Competitions Expert
+"Santa Clara, California, United States",10.0,,19,290,,,Competitions Master
+"Hyderabad, Telangana, India",5.0,,7,213,,,Discussion Expert
+"Santiago, Santiago Metropolitan Region, Chile",3.0,3,7,516,606.0,,Datasets Expert
+"San Jose, California, United States",9.0,6,19,337,98.0,,Competitions Master
+,7.0,4,17,235,119.0,,Datasets Expert
+"Singapore, Singapore",12.0,14,6,180,,,Competitions Expert
+,2.0,,21,119,801.0,,Notebooks Expert
+"Moscow, Russia",58.0,,4,365,,,Competitions Expert
+"Patna, Bihar, India",,,6.0,518,519.0,,Notebooks Expert
+"Jaipur, Rajasthan, India",1.0,,11.0,125,838.0,,Notebooks Expert
+"New Delhi, Delhi, India",,6.0,9.0,206,712.0,,Notebooks Expert
+"Tunis, Tunis, Tunisia",4.0,10.0,13.0,359,,,Competitions Expert
+"Mumbai, Maharashtra, India",1.0,7.0,15.0,255,471.0,,Datasets Expert
+"Hazaribagh, Jharkhand, India",9.0,1.0,23.0,157,352.0,,Notebooks Expert
+"Vladivostok, Primorsky Krai, Russia",,1.0,3.0,238,,,Discussion Expert
+"Mumbai, Maharashtra, India",,,12.0,310,364.0,,Notebooks Expert
+"Pune, Maharashtra, India",,,2.0,114,,,Discussion Expert
+,1.0,,4.0,102,,,Discussion Expert
+"Bishkek, Kyrgyzstan",9.0,2.0,14.0,156,462.0,,Notebooks Expert
+"Badulla, Uva Province, Sri Lanka",,,7.0,112,1387.0,,Notebooks Expert
+,67.0,13.0,10.0,236,119.0,,Competitions Master
+"Shenzhen, Guangdong Province, China",49.0,6.0,1.0,103,,,Competitions Grandmaster
+"Goiânia, State of Goiás, Brazil",26.0,1.0,5.0,112,,,Competitions Expert
+"Moscow, Russia",12.0,,6.0,99,,,Discussion Expert
+"Bengaluru, Karnataka, India",2.0,18.0,9.0,184,985.0,,Datasets Expert
+"Delhi, Delhi, India",10.0,,12.0,261,824.0,,Competitions Expert
+"Pune, Maharashtra, India",1.0,3.0,11.0,343,797.0,,Datasets Expert
+"Tunis, Tunis, Tunisia",,35.0,106.0,561,116.0,,Notebooks Master
+"Pune, Maharashtra, India",,5.0,15.0,512,300.0,,Notebooks Expert
+"Wilmington, North Carolina, United States",3.0,14.0,30.0,287,438.0,,Datasets Expert
+"Busan, Busan, South Korea",2.0,4.0,8.0,226,1233.0,,Datasets Expert
+"Yamagata, Yamagata, Japan",62.0,,9.0,262,1675.0,,Competitions Expert
+"Sadiqabad, Punjab, Pakistan",2.0,7.0,39.0,297,368.0,,Datasets Expert
+"London, England, United Kingdom",1.0,,8.0,132,916.0,,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",6.0,5.0,6.0,252,,,Datasets Expert
+"Edmonton, Alberta, Canada",,3.0,3.0,109,,,Discussion Expert
+"Linköping, Östergötland County, Sweden",2.0,1.0,6.0,167,807.0,,Notebooks Expert
+"Tiruppur, Tamil Nadu, India",2.0,4.0,6.0,150,1476.0,,Datasets Expert
+"Bad Rappenau, Baden-Württemberg, Germany",18.0,,18.0,115,778.0,,Notebooks Expert
+"Dubai, Dubai, United Arab Emirates",43.0,1.0,2.0,526,,,Competitions Expert
+"Irvine, California, United States",15.0,9.0,13.0,290,,,Competitions Master
+"Saharanpur, Uttar Pradesh, India",2.0,6.0,65.0,217,435.0,,Datasets Expert
+"Ankara, Ankara, Turkey",1.0,,9.0,346,637.0,,Notebooks Expert
+,2.0,,1.0,100,,,Discussion Expert
+"Bengaluru, Karnataka, India",,6.0,21.0,297,469.0,,Datasets Expert
+,2.0,,,125,,,Discussion Expert
+"Shimla, Himachal Pradesh, India",21.0,11.0,1.0,155,,,Competitions Master
+"Innsbruck, Tyrol, Austria",7.0,17.0,10.0,119,640.0,,Competitions Expert
+"Jena, Thuringia, Germany",4.0,1.0,4.0,128,,,Competitions Expert
+"Cairo, Cairo Governorate, Egypt",,2.0,4.0,151,,,Discussion Expert
+"Perlez, Vojvodina, Serbia",1.0,1.0,2.0,122,,,Discussion Expert
+,16.0,,11.0,160,927.0,,Notebooks Expert
+,14.0,,3.0,163,,,Discussion Expert
+"Anand, Gujarat, India",,3.0,16.0,91,1217.0,,Datasets Expert
+"Brisbane, Queensland, Australia",19.0,7.0,28.0,320,,6.0,Competitions Grandmaster
+"Bengaluru, Karnataka, India",11.0,7.0,31.0,137,699.0,,Datasets Expert
+"Munich, Bavaria, Germany",89.0,2.0,194.0,205,88.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",25.0,37.0,6.0,87,610.0,,Competitions Master
+"Manchester, England, United Kingdom",21.0,4.0,3.0,225,,,Competitions Master
+"Beijing, Beijing, China",15.0,22.0,1.0,124,,,Competitions Grandmaster
+"Hammamet, Nabeul, Tunisia",7.0,8.0,30.0,93,553.0,,Notebooks Expert
+"Seoul, Seoul, South Korea",8.0,4.0,21.0,111,747.0,,Notebooks Expert
+"Tiruppur, Tamil Nadu, India",,7.0,8.0,116,1650.0,,Datasets Expert
+"Hong Kong, Hong Kong",6.0,1.0,2.0,169,,,Competitions Master
+"Patna, Bihar, India",2.0,,4.0,241,,,Discussion Expert
+"Bengaluru, Karnataka, India",,,2.0,87,,,Discussion Expert
+"Ahmedabad, Gujarat, India",6.0,,10.0,158,220.0,,Notebooks Master
+"Nashik, Maharashtra, India",3.0,3.0,10.0,92,,781.0,Notebooks Expert
+"Maroua, Far North, Cameroon",2.0,5.0,11.0,97,876.0,,Datasets Expert
+United States,53.0,1.0,,311,,,Competitions Grandmaster
+"San Francisco, California, United States",19.0,3.0,41.0,705,23.0,,Discussion Master
+"Bengaluru, Karnataka, India",44.0,3.0,29.0,160,51.0,,Competitions Master
+,9.0,8.0,8.0,119,1147.0,,Notebooks Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",18.0,18.0,3.0,177,,,Competitions Master
+"Mountain View, California, United States",1.0,,2.0,77,,,Discussion Expert
+"Boston, Massachusetts, United States",12.0,5.0,240.0,"1,132",4.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",42.0,3.0,25.0,127,,,Competitions Master
+,8.0,3.0,9.0,671,,,Competitions Expert
+"Dhaka, Dhaka Division, Bangladesh",18.0,2.0,2.0,116,,,Discussion Expert
+"Cairo, Cairo Governorate, Egypt",6.0,,6.0,148,,760.0,Notebooks Expert
+"Delhi, Delhi, India",10.0,4.0,16.0,228,491.0,,Notebooks Expert
+"Nanakaramguda, Telangana, India",2.0,,38.0,230,,,Discussion Expert
+"Gurugram, Haryana, India",4.0,1.0,11.0,124,765.0,,Notebooks Expert
+"Pune, Maharashtra, India",1.0,4.0,11.0,93,1003.0,,Datasets Expert
+"Varanasi, Uttar Pradesh, India",2.0,1.0,8.0,231,876.0,,Notebooks Expert
+"Al Muqattam City, Cairo Governorate, Egypt",,3.0,10.0,343,304.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,1.0,16.0,198,345.0,,Notebooks Master
+,17.0,3.0,7.0,234,,,Competitions Expert
+"Kraków, Lesser Poland Voivodeship, Poland",,1.0,6.0,456,453.0,,Notebooks Expert
+"Tabriz, East Azerbaijan Province, Iran",5.0,,11.0,142,422.0,,Notebooks Expert
+"Delhi, Delhi, India",1.0,5.0,7.0,118,1086.0,,Notebooks Expert
+"Howrah, West Bengal, India",6.0,9.0,17.0,96,1620.0,,Datasets Expert
+,1.0,,10.0,112,695.0,,Notebooks Expert
+,16.0,1.0,6.0,204,,,Competitions Master
+"Saint Petersburg, Russia",30.0,,3.0,104,,,Competitions Grandmaster
+"Chelyabinsk, Chelyabinsk Oblast, Russia",14.0,,1.0,138,,,Competitions Expert
+"Atlanta, Georgia, United States",22.0,3.0,18.0,417,230.0,,Competitions Master
+"São Paulo, State of São Paulo, Brazil",38.0,,3.0,95,,,Competitions Master
+"Pune, Maharashtra, India",10.0,8.0,13.0,191,1213.0,,Datasets Expert
+"Casablanca, Casablanca-Settat, Morocco",,,9.0,142,821.0,,Notebooks Expert
+"Beijing, Beijing, China",26.0,,5.0,168,801.0,,Competitions Expert
+"Paris, Île-de-France, France",,8.0,11.0,203,300.0,,Datasets Expert
+"Kazan, Republic of Tatarstan, Russia",3.0,1.0,3.0,84,,,Discussion Expert
+"Bengaluru, Karnataka, India",,1.0,15.0,328,191.0,,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",3.0,1.0,7.0,99,414.0,,Notebooks Expert
+"Gurugram, Haryana, India",3.0,,12.0,365,225.0,,Notebooks Master
+"Haldwani, Uttarakhand, India",15.0,1.0,5.0,94,2826.0,,Notebooks Expert
+"Almora, Uttarakhand, India",,,6.0,220,465.0,,Notebooks Expert
+,1.0,1.0,3.0,114,,,Discussion Expert
+"Chandannagar, West Bengal, India",,4.0,13.0,61,1545.0,,Datasets Expert
+"Peshawar, Khyber Pakhtunkhwa, Pakistan",,,4.0,172,,,Discussion Expert
+"Kolkata, West Bengal, India",1.0,3.0,18.0,137,271.0,,Notebooks Master
+"Lahore, Punjab, Pakistan",,4.0,16.0,111,2079.0,,Datasets Expert
+"New Delhi, Delhi, India",10.0,,65.0,220,64.0,,Notebooks Master
+"Sorocaba, State of São Paulo, Brazil",6.0,,8.0,86,953.0,,Notebooks Expert
+"New Delhi, Delhi, India",2.0,33.0,1.0,204,,,Datasets Expert
+"Seoul, Seoul, South Korea",95.0,9.0,31.0,152,79.0,,Notebooks Master
+"Paris, Île-de-France, France",23.0,74.0,7.0,191,218.0,,Competitions Grandmaster
+"Chennai, Tamil Nadu, India",13.0,10.0,37.0,341,293.0,,Datasets Expert
+"Singapore, Singapore",5.0,5.0,10.0,175,,,Discussion Expert
+"Sofia, Sofia City Province, Bulgaria",2.0,7.0,2.0,123,,,Datasets Expert
+"Belo Horizonte, State of Minas Gerais, Brazil",2.0,3.0,13.0,94,1112.0,,Notebooks Expert
+"Montreal, Quebec, Canada",8.0,,,252,,,Competitions Expert
+"New York, New York, United States",1.0,,20.0,392,131.0,,Notebooks Master
+"Ahmedabad, Gujarat, India",3.0,3.0,9.0,101,976.0,,Datasets Expert
+"Hyderabad, Telangana, India",15.0,5.0,,158,,,Discussion Expert
+,1.0,1.0,12.0,197,216.0,,Notebooks Expert
+"Moscow, Russia",2.0,2.0,11.0,119,,2080.0,Notebooks Expert
+"Ottawa, Ontario, Canada",,,1.0,123,,,Discussion Expert
+,,3.0,8.0,103,2059.0,,Datasets Expert
+"Barcelona, Catalonia, Spain",6.0,,12.0,94,909.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,8.0,10.0,200,1014.0,,Datasets Expert
+"Amherst, Massachusetts, United States",38.0,4.0,70.0,391,9.0,,Notebooks Grandmaster
+"Shenzhen, Guangdong Province, China",5.0,,5.0,139,,,Competitions Expert
+,2.0,,3.0,65,,,Discussion Expert
+"San Jose, California, United States",1.0,,,269,,,Discussion Expert
+"Hyderabad, Telangana, India",6.0,7.0,11.0,244,724.0,,Datasets Expert
+,6.0,,2.0,70,,,Competitions Expert
+"Bologna, Emilia-Romagna, Italy",14.0,1.0,30.0,245,312.0,,Notebooks Expert
+"Gazipur, Dhaka Division, Bangladesh",22.0,17.0,56.0,280,137.0,,Datasets Expert
+"Ahmedabad, Gujarat, India",4.0,,19.0,410,776.0,,Notebooks Expert
+"Perth, Western Australia, Australia",12.0,6.0,75.0,187,293.0,,Datasets Expert
+,8.0,,1.0,125,,,Competitions Expert
+"Chandler, Texas, United States",,112.0,,129,,,Discussion Expert
+"Moscow, Russia",25.0,11.0,88.0,297,163.0,,Competitions Expert
+"Bengaluru, Karnataka, India",,22.0,18.0,174,1227.0,,Datasets Expert
+"Kochi, Kerala, India",3.0,16.0,15.0,246,97.0,,Notebooks Master
+,9.0,,,90,,,Discussion Expert
+"Hyderabad, Telangana, India",,5.0,,136,,,Datasets Expert
+"Thiruvananthapuram, Kerala, India",,3.0,13.0,190,407.0,,Datasets Expert
+,13.0,5.0,22.0,130,276.0,,Notebooks Master
+"Hyderabad, Telangana, India",51.0,16.0,27.0,166,694.0,,Competitions Expert
+"New Delhi, Delhi, India",16.0,,13.0,127,1465.0,,Competitions Expert
+"Rosice, South Moravian Region, Czechia",10.0,11.0,20.0,192,555.0,,Competitions Expert
+"Osaka, Osaka, Japan",57.0,40.0,46.0,149,162.0,,Competitions Master
+"Munich, Bavaria, Germany",32.0,7.0,9.0,86,1067.0,,Competitions Master
+"Fayetteville, Arkansas, United States",55.0,10.0,7.0,210,444.0,,Competitions Master
+"Hildesheim, Lower Saxony, Germany",8.0,,6.0,146,,,Discussion Expert
+"New Delhi, Delhi, India",,4.0,11.0,308,302.0,,Datasets Expert
+,12.0,4.0,48.0,502,124.0,,Notebooks Master
+"Los Altos, California, United States",5.0,1.0,2.0,152,,,Competitions Expert
+"Sreemangal, Sylhet Division, Bangladesh",16.0,9.0,2.0,182,,,Competitions Expert
+"Blumenau, State of Santa Catarina, Brazil",1.0,4.0,6.0,288,,,Discussion Expert
+"Viçosa, State of Minas Gerais, Brazil",3.0,31.0,292.0,220,640.0,,Notebooks Expert
+"Pune, Maharashtra, India",1.0,,6.0,301,720.0,,Notebooks Expert
+"Ranchi, Jharkhand, India",,2.0,,250,,,Discussion Expert
+"Honolulu, Hawaii, United States",2.0,,4.0,114,,,Discussion Expert
+,2.0,,24.0,84,,,Discussion Expert
+"Bengaluru, Karnataka, India",15.0,4.0,91.0,516,25.0,,Notebooks Master
+"Singapore, Singapore",43.0,22.0,44.0,155,600.0,,Datasets Expert
+"Paris, Île-de-France, France",21.0,2.0,7.0,91,,,Competitions Expert
+"Karachi, Sindh, Pakistan",3.0,5.0,18.0,392,305.0,,Datasets Expert
+"Visakhapatnam, Andhra Pradesh, India",28.0,10.0,16.0,447,40.0,,Notebooks Master
+"Hong Kong, Hong Kong",1.0,10.0,14.0,200,939.0,,Datasets Expert
+"Pune, Maharashtra, India",4.0,15.0,12.0,110,977.0,,Datasets Expert
+"Exeter, England, United Kingdom",,3.0,11.0,295,625.0,,Notebooks Expert
+"Chandigarh, Punjab, India",10.0,5.0,21.0,477,103.0,,Notebooks Master
+"Kharkiv, Kharkiv Oblast, Ukraine",3.0,3.0,20.0,97,828.0,,Datasets Expert
+"Mangalore, Karnataka, India",27.0,5.0,12.0,182,182.0,,Notebooks Master
+"New Delhi, Delhi, India",44.0,1.0,24.0,719,92.0,,Notebooks Master
+"İstanbul, İstanbul, Turkey",,,,195,,,Discussion Expert
+"Banswara, Rajasthan, India",5.0,,11.0,271,146.0,,Notebooks Expert
+"Jaipur, Rajasthan, India",9.0,1.0,31.0,105,1170.0,,Notebooks Expert
+"Singapore, Singapore",5.0,1.0,14.0,106,848.0,,Notebooks Expert
+"Thiruvananthapuram, Kerala, India",2.0,1.0,11.0,175,710.0,,Notebooks Expert
+"Karachi, Sindh, Pakistan",,28.0,3.0,153,,,Discussion Expert
+"Mumbai, Maharashtra, India",1.0,19.0,,120,,,Discussion Expert
+"Pune, Maharashtra, India",4.0,2.0,9.0,114,716.0,,Notebooks Expert
+"Moscow, Russia",12.0,,2.0,52,,,Discussion Expert
+"Gurugram, Haryana, India",,16.0,30.0,145,649.0,,Datasets Expert
+"Sydney, New South Wales, Australia",1.0,,,77,,,Discussion Expert
+"Chennai, Tamil Nadu, India",1.0,3.0,9.0,175,750.0,,Datasets Expert
+"Menlo Park, California, United States",34.0,2.0,4.0,500,,,Competitions Master
+,31.0,5.0,10.0,199,,,Competitions Grandmaster
+"Dundee, Scotland, United Kingdom",37.0,5.0,14.0,136,1928.0,,Competitions Master
+"London, England, United Kingdom",9.0,,13.0,112,1771.0,,Notebooks Expert
+,,,3.0,86,,,Discussion Expert
+"England, United Kingdom",3.0,2.0,3.0,99,,,Discussion Expert
+"Montreal, Quebec, Canada",5.0,3.0,4.0,199,,,Competitions Master
+"Campinas, State of São Paulo, Brazil",22.0,41.0,,415,,,Competitions Grandmaster
+"Bengaluru, Karnataka, India",5.0,11.0,33.0,282,1486.0,,Notebooks Expert
+"Port Fuad, Port Said Governorate, Egypt",13.0,,24.0,382,211.0,,Notebooks Master
+"Chennai, Tamil Nadu, India",19.0,2.0,22.0,125,1008.0,,Notebooks Expert
+"New Delhi, Delhi, India",3.0,3.0,5.0,335,928.0,,Datasets Expert
+"Dhaka, Dhaka Division, Bangladesh",2.0,22.0,35.0,285,646.0,,Datasets Expert
+"Kolkata, West Bengal, India",3.0,,1.0,57,,,Discussion Expert
+"Seoul, Seoul, South Korea",,,14.0,140,931.0,,Notebooks Expert
+,2.0,1.0,5.0,110,,,Discussion Expert
+"Adelaide, South Australia, Australia",,9.0,29.0,133,357.0,,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",2.0,,2.0,98,,,Discussion Expert
+"Seattle, Washington, United States",2.0,,5.0,98,1062.0,,Notebooks Expert
+"Taipei, Taiwan",,,14.0,114,594.0,,Notebooks Expert
+"Mission Viejo, California, United States",,,16.0,134,474.0,,Notebooks Expert
+"Thiruvananthapuram, Kerala, India",,8.0,2.0,100,,,Datasets Expert
+,3.0,,,67,,,Discussion Expert
+"San Francisco, California, United States",55.0,16.0,746.0,"1,779",531.0,,Competitions Master
+"Karlsruhe, Baden-Württemberg, Germany",4.0,,1.0,109,,,Discussion Expert
+"Paris, Île-de-France, France",9.0,,2.0,86,,,Competitions Master
+,18.0,3.0,16.0,113,131.0,,Notebooks Master
+,29.0,3.0,72.0,309,540.0,,Notebooks Expert
+"Coimbatore, Tamil Nadu, India",13.0,6.0,13.0,263,39.0,,Notebooks Master
+"Los Angeles, California, United States",,,,360,,,Discussion Expert
+"Hyderabad, Telangana, India",6.0,4.0,26.0,505,440.0,,Notebooks Expert
+"Tokyo, Tokyo, Japan",,,4.0,83,,,Discussion Expert
+"Bengaluru, Karnataka, India",13.0,7.0,22.0,200,114.0,,Competitions Expert
+"Boston, Massachusetts, United States",16.0,13.0,63.0,288,630.0,,Datasets Expert
+"Saharanpur, Uttar Pradesh, India",5.0,8.0,20.0,141,1425.0,,Datasets Expert
+"Suwon-si, Gyeonggi-do, South Korea",3.0,,8.0,157,319.0,,Notebooks Expert
+"Chicago, Illinois, United States",13.0,18.0,11.0,99,334.0,,Datasets Expert
+"Tunis, Tunis, Tunisia",1.0,,3.0,127,,,Discussion Expert
+"Hildesheim, Lower Saxony, Germany",1.0,1.0,7.0,123,879.0,,Notebooks Expert
+"Pune, Maharashtra, India",1.0,8.0,20.0,145,406.0,,Datasets Expert
+,5.0,2.0,15.0,134,815.0,,Notebooks Expert
+"New Delhi, Delhi, India",8.0,12.0,56.0,229,463.0,,Datasets Expert
+"Saint Petersburg, Russia",,,5.0,117,2051.0,,Notebooks Expert
+"Damanhour, El Beheira Governorate, Egypt",4.0,4.0,16.0,88,639.0,,Datasets Expert
+"Tiruppur, Tamil Nadu, India",3.0,4.0,8.0,107,1240.0,,Datasets Expert
+"Faiyum, Faiyum Governorate, Egypt",4.0,,7.0,97,1378.0,,Notebooks Expert
+"Rasht, Gilan Province, Iran",,,14.0,194,329.0,,Notebooks Expert
+"Churu, Rajasthan, India",1.0,3.0,5.0,98,2031.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",1.0,,,79,,,Discussion Expert
+,23.0,2.0,1.0,352,,,Competitions Expert
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",169.0,2.0,93.0,290,17.0,,Notebooks Grandmaster
+"Princeton, New Jersey, United States",11.0,38.0,37.0,421,66.0,,Datasets Grandmaster
+"Paris, Île-de-France, France",25.0,9.0,5.0,92,953.0,,Competitions Expert
+"Oslo, Oslo, Norway",9.0,31.0,46.0,222,832.0,,Datasets Expert
+"Miami, Florida, United States",3.0,8.0,11.0,394,116.0,,Notebooks Master
+"Tokyo, Tokyo, Japan",24.0,4.0,6.0,342,,,Discussion Expert
+"Amsterdam, North Holland, Netherlands",5.0,2.0,15.0,227,351.0,,Notebooks Expert
+"Rio Grande, State of Rio Grande do Sul, Brazil",3.0,6.0,10.0,365,33.0,,Datasets Grandmaster
+"Chicago, Illinois, United States",,,5.0,108,635.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",9.0,9.0,17.0,314,496.0,,Datasets Expert
+"Gurugram, Haryana, India",,,6.0,121,1089.0,,Notebooks Expert
+"Indore, Madhya Pradesh, India",,1.0,27.0,380,275.0,,Notebooks Expert
+"Munich, Bavaria, Germany",7.0,1.0,7.0,178,196.0,,Competitions Expert
+"Boston, Massachusetts, United States",13.0,5.0,20.0,379,163.0,,Notebooks Master
+"Varanasi, Uttar Pradesh, India",1.0,,5.0,104,1878.0,,Notebooks Expert
+"Las Vegas, Nevada, United States",1.0,2.0,18.0,583,304.0,,Notebooks Expert
+"Temara, Rabat-Salé-Kénitra, Morocco",1.0,4.0,1.0,137,,,Datasets Expert
+"Abu Dhabi, Abu Dhabi, United Arab Emirates",5.0,6.0,33.0,169,614.0,,Datasets Expert
+"La Paz, La Paz Department, Bolivia",9.0,1.0,5.0,219,,,Discussion Expert
+,,3.0,2.0,103,,,Datasets Expert
+"Iowa City, Iowa, United States",,,6.0,91,,,Discussion Expert
+"Umeå, Västerbotten County, Sweden",32.0,,16.0,280,,,Competitions Expert
+"Vancouver, British Columbia, Canada",,1.0,2.0,119,,,Discussion Expert
+,15.0,,1.0,134,,,Competitions Master
+"Milan, Lombardy, Italy",2.0,1.0,12.0,320,356.0,,Notebooks Expert
+"Shenzhen, Guangdong Province, China",107.0,37.0,38.0,300,646.0,,Competitions Master
+"Cairo, Cairo Governorate, Egypt",1.0,,,144,,,Discussion Expert
+"Dalian, Liaoning, China",8.0,,12.0,146,1529.0,,Notebooks Expert
+"Ghent, Flanders, Belgium",3.0,3.0,7.0,130,302.0,,Notebooks Expert
+"New Delhi, Delhi, India",,10.0,16.0,286,674.0,,Datasets Expert
+"Toronto, Ontario, Canada",15.0,17.0,23.0,217,178.0,,Notebooks Expert
+"İstanbul, İstanbul, Turkey",1.0,5.0,26.0,136,362.0,,Notebooks Expert
+"Waterloo, Ontario, Canada",6.0,3.0,5.0,128,196.0,,Competitions Expert
+"Satna, Madhya Pradesh, India",8.0,2.0,17.0,84,1189.0,,Notebooks Expert
+"Moscow, Russia",,,19.0,216,457.0,,Notebooks Expert
+"Guwahati, Assam, India",,4.0,13.0,103,1895.0,,Datasets Expert
+"Rawalpindi, Punjab, Pakistan",3.0,,2.0,92,,,Discussion Expert
+"Anand, Gujarat, India",2.0,5.0,23.0,117,564.0,,Datasets Expert
+"Bloomington, Indiana, United States",1.0,3.0,20.0,266,408.0,,Datasets Expert
+,2.0,5.0,11.0,164,1581.0,,Datasets Expert
+"Tehran, Tehran Province, Iran",,,10.0,103,599.0,,Notebooks Expert
+,11.0,,2.0,131,,,Competitions Master
+"New York, New York, United States",36.0,,12.0,277,,,Competitions Master
+"London, England, United Kingdom",2.0,4.0,8.0,98,,,Discussion Expert
+"Austin, Texas, United States",54.0,1.0,12.0,465,340.0,,Competitions Master
+"Yavne, Center District, Israel",18.0,2.0,14.0,149,,,Discussion Expert
+"Royal City, Washington, United States",54.0,,60.0,108,51.0,,Notebooks Master
+"Rustenburg, North West, South Africa",13.0,4.0,10.0,231,2219.0,,Competitions Expert
+"Berlin, Berlin, Germany",51.0,6.0,18.0,236,94.0,,Notebooks Master
+"Louth, County Louth, Ireland",,,6.0,250,778.0,,Notebooks Expert
+"Noida, Uttar Pradesh, India",3.0,9.0,10.0,278,910.0,,Datasets Expert
+"Delhi, Delhi, India",1.0,,5.0,205,626.0,,Notebooks Expert
+,15.0,,9.0,96,,,Competitions Expert
+"Faisalabad, Punjab, Pakistan",1.0,16.0,47.0,325,507.0,,Datasets Expert
+"Kochi, Kerala, India",,3.0,2.0,120,,,Datasets Expert
+"Lucknow, Uttar Pradesh, India",,5.0,6.0,294,675.0,,Datasets Expert
+"Kharagpur, West Bengal, India",14.0,11.0,40.0,217,293.0,,Datasets Expert
+,,3.0,,100,,,Discussion Expert
+"Rajahmundry, Andhra Pradesh, India",,,6.0,201,604.0,,Notebooks Expert
+,1.0,2.0,8.0,117,1694.0,,Notebooks Expert
+"Coimbatore, Tamil Nadu, India",,3.0,7.0,135,,,Discussion Expert
+,49.0,,35.0,452,15.0,,Notebooks Grandmaster
+,23.0,,,82,,,Competitions Grandmaster
+"Heidelberg, Baden-Württemberg, Germany",10.0,1.0,7.0,211,,,Competitions Expert
+,25.0,,9.0,192,,,Competitions Expert
+"Windsor, Ontario, Canada",27.0,50.0,8.0,198,,,Competitions Master
+"Cambridge, England, United Kingdom",39.0,3.0,9.0,123,264.0,,Competitions Master
+"Qingdao, Shandong, China",12.0,,1.0,136,,,Competitions Master
+"Bengaluru, Karnataka, India",2.0,7.0,8.0,205,380.0,,Datasets Expert
+"Concord, California, United States",6.0,3.0,12.0,129,,,Datasets Expert
+"Munich, Bavaria, Germany",3.0,3.0,4.0,67,,,Datasets Expert
+"Munich, Bavaria, Germany",4.0,,1.0,110,,,Competitions Expert
+"Darjeeling, West Bengal, India",,,,376,,,Discussion Expert
+"Hosur, Tamil Nadu, India",,3.0,2.0,131,,,Datasets Expert
+"City Bell, Buenos Aires Province, Argentina",11.0,2.0,14.0,142,1530.0,,Notebooks Expert
+"London, England, United Kingdom",2.0,2.0,11.0,461,156.0,,Notebooks Expert
+"Tehran, Tehran Province, Iran",,3.0,7.0,284,363.0,,Datasets Expert
+"Lagos, Lagos, Nigeria",41.0,11.0,40.0,145,,,Discussion Expert
+"Hyderabad, Telangana, India",,7.0,17.0,289,427.0,,Notebooks Expert
+"Vienna, Vienna, Austria",16.0,56.0,2.0,217,,,Competitions Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",,4.0,6.0,144,,,Discussion Expert
+"Surat, Gujarat, India",10.0,3.0,14.0,128,114.0,,Competitions Expert
+,2.0,5.0,10.0,154,1430.0,,Notebooks Expert
+"Raipur, Chhattisgarh, India",,,6.0,101,1406.0,,Notebooks Expert
+"Jaipur, Rajasthan, India",12.0,5.0,3.0,93,,,Competitions Expert
+"Seoul, Seoul, South Korea",4.0,2.0,3.0,124,,,Discussion Expert
+,48.0,2.0,41.0,548,264.0,,Competitions Master
+"Midvale, Utah, United States",9.0,,1.0,180,,,Discussion Expert
+"Austin, Texas, United States",34.0,,1.0,109,,,Competitions Grandmaster
+"Islamabad, Islamabad Capital Territory, Pakistan",,,,74,,,Discussion Expert
+"Toulon, Provence-Alpes-Côte d'Azur, France",14.0,1.0,11.0,146,217.0,,Competitions Master
+"Buenos Aires, Buenos Aires, Argentina",23.0,37.0,15.0,157,608.0,,Competitions Expert
+"Delhi, Delhi, India",11.0,11.0,21.0,403,81.0,,Notebooks Master
+"Panaji, Goa, India",,3.0,5.0,104,623.0,,Notebooks Expert
+"Santa Cruz de Tenerife, Canary Islands, Spain",7.0,,6.0,262,,,Discussion Expert
+"Portland, Oregon, United States",7.0,1.0,16.0,88,926.0,,Notebooks Expert
+"İstanbul, İstanbul, Turkey",,,5.0,81,,,Discussion Expert
+"Mumbai, Maharashtra, India",2.0,4.0,10.0,371,219.0,,Datasets Expert
+"Minneapolis, Minnesota, United States",9.0,3.0,19.0,218,143.0,,Competitions Expert
+"Braga, Braga, Portugal",3.0,2.0,5.0,451,,,Discussion Expert
+"Prayagraj, Uttar Pradesh, India",2.0,,14.0,280,1109.0,,Notebooks Expert
+"Seattle, Washington, United States",15.0,1.0,4.0,213,,,Discussion Expert
+"Austin, Texas, United States",7.0,9.0,28.0,139,560.0,,Datasets Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",2.0,40.0,43.0,180,1573.0,,Notebooks Expert
+"Cairo, Cairo Governorate, Egypt",,,,118,,,Discussion Expert
+"Gwalior, Madhya Pradesh, India",8.0,43.0,8.0,131,,,Discussion Expert
+"Chandigarh, Chandigarh, India",6.0,4.0,9.0,208,260.0,,Datasets Expert
+"Philadelphia, Pennsylvania, United States",5.0,1.0,,153,,,Discussion Expert
+"Jersey City, New Jersey, United States",,3.0,18.0,260,340.0,,Datasets Expert
+"Chennai, Tamil Nadu, India",,5.0,5.0,277,456.0,,Datasets Master
+"Kozhikode, Kerala, India",,,1.0,114,,,Discussion Expert
+"Tehran, Tehran Province, Iran",,1.0,12.0,204,549.0,,Notebooks Expert
+"Isparta, Isparta, Turkey",1.0,1.0,13.0,159,437.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",5.0,1.0,25.0,142,320.0,,Notebooks Expert
+,7.0,,,110,,,Discussion Expert
+"Shanghai, Shanghai, China",9.0,12.0,6.0,207,1294.0,,Competitions Expert
+"Paris, Île-de-France, France",12.0,,3.0,136,,,Competitions Expert
+"Melbourne, Victoria, Australia",6.0,2.0,2.0,193,,,Competitions Expert
+"Bengaluru, Karnataka, India",11.0,,9.0,145,704.0,,Notebooks Expert
+"Kolkata, West Bengal, India",3.0,3.0,2.0,145,,,Discussion Expert
+"Pune, Maharashtra, India",10.0,24.0,14.0,202,,,Competitions Expert
+"Durham, England, United Kingdom",1.0,1.0,8.0,183,785.0,,Notebooks Expert
+"Dehradun, Uttarakhand, India",4.0,4.0,12.0,254,325.0,,Datasets Expert
+"Dehradun, Uttarakhand, India",23.0,3.0,50.0,202,311.0,,Notebooks Expert
+"Suwon-si, Gyeonggi-do, South Korea",,2.0,8.0,232,626.0,,Notebooks Expert
+"Pune, Maharashtra, India",,1.0,9.0,252,841.0,,Notebooks Expert
+,6.0,1.0,3.0,128,,,Discussion Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",90.0,32.0,62.0,132,364.0,,Competitions Expert
+"Solapur, Maharashtra, India",4.0,1.0,6.0,87,1050.0,,Notebooks Expert
+"Colombo, Western Province, Sri Lanka",4.0,15.0,17.0,137,477.0,,Datasets Expert
+"Mumbai, Maharashtra, India",2.0,11.0,13.0,155,516.0,,Datasets Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",2.0,,5.0,114,,,Discussion Expert
+,2.0,,3.0,126,,,Discussion Expert
+"Halifax, Nova Scotia, Canada",1.0,1.0,11.0,104,,,Discussion Expert
+"Thonnakkal, Kerala, India",,5.0,5.0,55,2225.0,,Datasets Expert
+,72.0,,6.0,230,,,Competitions Grandmaster
+,50.0,,6.0,144,,,Competitions Master
+United States,44.0,5.0,10.0,276,239.0,,Competitions Master
+"Antalya, Antalya, Turkey",54.0,,7.0,119,10.0,,Competitions Grandmaster
+"Beijing, Beijing, China",30.0,1.0,14.0,230,155.0,,Competitions Grandmaster
+"Bengaluru, Karnataka, India",5.0,1.0,5.0,187,,,Discussion Expert
+"Ghaziabad, Uttar Pradesh, India",16.0,,2.0,112,,,Competitions Expert
+"Karachi, Sindh, Pakistan",4.0,7.0,25.0,165,1063.0,,Datasets Expert
+"Sydney, New South Wales, Australia",19.0,1.0,,103,,,Competitions Expert
+"Bengaluru, Karnataka, India",6.0,4.0,25.0,192,546.0,,Notebooks Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",20.0,5.0,11.0,144,200.0,,Notebooks Master
+"New Delhi, Delhi, India",18.0,26.0,4.0,173,,,Competitions Expert
+"Bengaluru, Karnataka, India",8.0,3.0,5.0,64,,,Datasets Expert
+"Bengaluru, Karnataka, India",2.0,2.0,15.0,304,256.0,,Notebooks Master
+"Greater Noida, Uttar Pradesh, India",1.0,4.0,65.0,357,221.0,,Datasets Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",1.0,3.0,9.0,272,297.0,,Datasets Expert
+"Chennai, Tamil Nadu, India",3.0,1.0,15.0,185,340.0,,Notebooks Expert
+"Saint Petersburg, Russia",13.0,3.0,31.0,170,114.0,,Notebooks Expert
+"Essen, North Rhine-Westphalia, Germany",,,8.0,143,778.0,,Notebooks Expert
+"Rajshahi, Rajshahi Division, Bangladesh",,1.0,13.0,131,1065.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,2.0,3.0,129,,,Discussion Expert
+,,5.0,6.0,90,,,Datasets Expert
+"Tyler, Texas, United States",11.0,15.0,27.0,177,498.0,,Notebooks Expert
+"Stockholm, Stockholm County, Sweden",,,,73,,,Discussion Expert
+"Dehradun, Uttarakhand, India",4.0,6.0,19.0,209,490.0,,Notebooks Expert
+"Rajshahi, Rajshahi Division, Bangladesh",28.0,9.0,24.0,224,262.0,,Competitions Expert
+"Patiala, Punjab, India",,,38.0,250,730.0,,Notebooks Expert
+"Patiala, Punjab, India",1.0,3.0,31.0,270,476.0,,Datasets Expert
+"Noida, Uttar Pradesh, India",6.0,1.0,11.0,192,298.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",4.0,,2.0,107,,,Discussion Expert
+"Bengaluru, Karnataka, India",,11.0,16.0,181,639.0,,Datasets Expert
+"Mumbai, Maharashtra, India",1.0,4.0,12.0,221,410.0,,Notebooks Expert
+,1.0,4.0,4.0,190,,,Discussion Expert
+"Budapest, Hungary",,6.0,5.0,246,336.0,,Datasets Master
+"Tiruppur, Tamil Nadu, India",,4.0,7.0,88,1356.0,,Datasets Expert
+"Bengaluru, Karnataka, India",,,3.0,98,,,Discussion Expert
+"Milan, Lombardy, Italy",10.0,1.0,25.0,212,163.0,,Notebooks Master
+"Goleta, California, United States",38.0,,20.0,681,3310.0,,Competitions Expert
+United States,8.0,,4.0,116,,,Competitions Master
+"Kawasaki, Kanagawa, Japan",8.0,5.0,20.0,274,89.0,,Competitions Expert
+"Seattle, Washington, United States",8.0,6.0,11.0,92,257.0,,Competitions Expert
+,42.0,,4.0,196,,,Competitions Master
+"Belo Horizonte, State of Minas Gerais, Brazil",2.0,,23.0,142,680.0,,Notebooks Expert
+"Toronto, Ontario, Canada",27.0,,1.0,153,,,Competitions Expert
+"Leuven, Flanders, Belgium",13.0,6.0,14.0,226,76.0,,Notebooks Master
+"Chennai, Tamil Nadu, India",,,5.0,156,388.0,,Notebooks Expert
+"Jaipur, Rajasthan, India",37.0,4.0,8.0,280,311.0,,Datasets Expert
+"Istanbul, Istanbul, Turkey",7.0,1.0,11.0,277,198.0,,Notebooks Master
+"Jaipur, Rajasthan, India",4.0,3.0,15.0,171,1241.0,,Notebooks Expert
+"Naya Raipur, Chhattisgarh, India",10.0,1.0,11.0,220,239.0,,Notebooks Master
+"Bikaner, Rajasthan, India",6.0,14.0,26.0,151,815.0,,Datasets Expert
+"Chicago, Illinois, United States",37.0,4.0,24.0,228,67.0,,Notebooks Master
+"Bloomington, Indiana, United States",7.0,2.0,8.0,193,623.0,,Notebooks Expert
+"Shanghai, Shanghai, China",5.0,,7.0,329,165.0,,Notebooks Expert
+"Kolkata, West Bengal, India",1.0,6.0,8.0,181,,,Datasets Expert
+"Bhubaneswar, Odisha, India",4.0,4.0,12.0,191,306.0,,Notebooks Master
+"Seoul, Seoul, South Korea",42.0,,13.0,86,493.0,,Notebooks Expert
+"Alwar, Rajasthan, India",,4.0,11.0,161,,,Discussion Expert
+"Berlin, Berlin, Germany",8.0,,6.0,276,1879.0,,Notebooks Expert
+Jammu,10.0,4.0,18.0,120,1117.0,,Datasets Expert
+"Seongnam-si, Gyeonggi-do, South Korea",4.0,1.0,21.0,214,393.0,,Notebooks Expert
+"Kawasaki, Kanagawa, Japan",14.0,,18.0,149,142.0,,Notebooks Master
+"Indore, Madhya Pradesh, India",6.0,,4.0,64,,,Discussion Expert
+"Navi Mumbai, Maharashtra, India",,,9.0,110,1124.0,,Notebooks Expert
+"Golden, Colorado, United States",19.0,19.0,190.0,613,2.0,,Notebooks Grandmaster
+,42.0,3.0,2.0,89,,,Competitions Grandmaster
+,18.0,,,87,,,Competitions Grandmaster
+"Dhaka, Dhaka Division, Bangladesh",1.0,1.0,1.0,110,,,Discussion Expert
+"Chiang Mai, Chiang Mai, Thailand",50.0,14.0,49.0,200,162.0,,Datasets Expert
+"Auckland, Auckland, New Zealand",3.0,2.0,2.0,119,,,Competitions Expert
+"San Jose, California, United States",,1.0,10.0,176,1593.0,,Notebooks Expert
+"New Delhi, Delhi, India",5.0,,18.0,213,397.0,,Notebooks Expert
+"Hong Kong, Hong Kong",14.0,2.0,,133,,,Competitions Expert
+"Scottsdale, Arizona, United States",2.0,20.0,607.0,170,90.0,,Datasets Expert
+"Berlin, Berlin, Germany",13.0,170.0,2.0,187,,,Competitions Expert
+"Bengaluru, Karnataka, India",,3.0,17.0,429,457.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",14.0,4.0,15.0,237,132.0,,Notebooks Master
+"Paris, Île-de-France, France",,3.0,10.0,72,363.0,,Notebooks Master
+"Nagpur, Maharashtra, India",10.0,22.0,36.0,140,292.0,,Datasets Expert
+"Fairfield, Iowa, United States",16.0,18.0,15.0,156,1563.0,,Competitions Expert
+"Visakhapatnam, Andhra Pradesh, India",6.0,9.0,21.0,125,954.0,,Datasets Expert
+"Faridabad, Haryana, India",,,8.0,150,839.0,,Notebooks Expert
+"London, England, United Kingdom",,3.0,,126,,,Discussion Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",3.0,,3.0,95,,,Discussion Expert
+,15.0,,1.0,171,,,Competitions Grandmaster
+"Warsaw, Masovian Voivodeship, Poland",16.0,6.0,12.0,364,,,Competitions Expert
+"Hamburg, Hamburg, Germany",22.0,4.0,25.0,209,1804.0,,Competitions Expert
+"Topeka, Kansas, United States",67.0,2.0,9.0,597,2115.0,,Competitions Expert
+"Madrid, Community of Madrid, Spain",47.0,,8.0,163,,,Competitions Expert
+"Cleveland, Ohio, United States",17.0,3.0,9.0,303,209.0,,Competitions Expert
+"Bengaluru, Karnataka, India",122.0,7.0,44.0,337,39.0,,Competitions Master
+"Dhaka, Dhaka Division, Bangladesh",12.0,8.0,22.0,387,78.0,,Notebooks Master
+"Bengaluru, Karnataka, India",1.0,1.0,12.0,101,996.0,,Notebooks Expert
+"Madurai, Tamil Nadu, India",3.0,8.0,27.0,363,,,Discussion Expert
+"Gurugram, Haryana, India",,5.0,10.0,352,271.0,,Datasets Master
+"Bandung, West Java, Indonesia",110.0,22.0,69.0,400,81.0,,Notebooks Master
+"Bengaluru, Karnataka, India",3.0,4.0,21.0,267,575.0,,Notebooks Expert
+,1.0,1.0,8.0,161,375.0,,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",8.0,10.0,36.0,224,463.0,,Notebooks Expert
+"Ankara, Ankara, Turkey",1.0,,3.0,111,,,Discussion Expert
+"Rome, Lazio, Italy",3.0,4.0,16.0,140,938.0,,Notebooks Expert
+"Kyiv, Ukraine",2.0,1.0,5.0,240,410.0,,Notebooks Expert
+,,5.0,5.0,94,1662.0,,Notebooks Expert
+"Patna, Bihar, India",1.0,4.0,6.0,124,1374.0,,Datasets Expert
+"Solapur, Maharashtra, India",4.0,4.0,6.0,92,1845.0,,Notebooks Expert
+"Seville, Andalusia, Spain",76.0,3.0,4.0,168,,,Competitions Master
+"Nantes, Pays de la Loire, France",12.0,7.0,21.0,280,173.0,,Competitions Expert
+"Alfenas, State of Minas Gerais, Brazil",44.0,3.0,31.0,340,16.0,,Competitions Master
+,12.0,2.0,2.0,94,,,Competitions Expert
+"Rome, Lazio, Italy",9.0,26.0,10.0,98,,,Discussion Expert
+"Nottingham, England, United Kingdom",17.0,13.0,2.0,168,,,Competitions Expert
+,9.0,,3.0,195,,,Discussion Expert
+"Kolkata, West Bengal, India",3.0,17.0,39.0,228,424.0,,Datasets Expert
+"Delhi, Delhi, India",,9.0,30.0,95,784.0,,Notebooks Expert
+"Moscow, Russia",48.0,9.0,23.0,239,512.0,,Competitions Expert
+"Gurugram, Haryana, India",11.0,,2.0,67,,,Competitions Expert
+"Bengaluru, Karnataka, India",,3.0,,132,,,Discussion Expert
+"Sadul Shahar, Rajasthan, India",,1.0,2.0,92,,,Discussion Expert
+"Delhi, Delhi, India",2.0,1.0,10.0,145,806.0,,Notebooks Expert
+"Sakarya, Sakarya, Turkey",,,9.0,318,458.0,,Notebooks Expert
+"Alexandria, Alexandria Governorate, Egypt",6.0,1.0,9.0,147,,,Discussion Expert
+"Dhanbad, Jharkhand, India",,5.0,7.0,168,569.0,,Datasets Expert
+"Noida, Uttar Pradesh, India",,1.0,7.0,150,828.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,15.0,28.0,263,157.0,,Notebooks Master
+"San Jose, California, United States",,,5.0,112,,,Discussion Expert
+"Yaounde, Centre, Cameroon",,2.0,13.0,291,617.0,,Notebooks Expert
+"Solapur, Maharashtra, India",5.0,3.0,8.0,109,662.0,,Datasets Expert
+"Pune, Maharashtra, India",,1.0,3.0,154,,,Discussion Expert
+"Patna, Bihar, India",17.0,6.0,15.0,183,186.0,,Notebooks Master
+"Seoul, Seoul, South Korea",18.0,7.0,27.0,163,926.0,,Notebooks Expert
+"New Delhi, Delhi, India",,6.0,47.0,291,134.0,,Notebooks Master
+"Pune, Maharashtra, India",8.0,10.0,72.0,130,876.0,,Notebooks Expert
+"Vemulawada, Telangana, India",12.0,4.0,15.0,89,1346.0,,Datasets Expert
+"Ernakulam, Kerala, India",,5.0,8.0,87,910.0,,Datasets Expert
+"Thiruvananthapuram, Kerala, India",3.0,5.0,15.0,136,409.0,,Datasets Expert
+"Thiruvananthapuram, Kerala, India",,,12.0,137,701.0,,Notebooks Expert
+"Gothenburg, Västra Götaland County, Sweden",5.0,2.0,24.0,191,1265.0,,Notebooks Expert
+"Greater Noida, Uttar Pradesh, India",8.0,3.0,22.0,178,182.0,,Notebooks Master
+"Rahim Yar Khan, Punjab, Pakistan",,6.0,20.0,254,768.0,,Datasets Expert
+"Bhandara, Maharashtra, India",1.0,2.0,5.0,96,930.0,,Notebooks Expert
+"Gunung Putri, West Java, Indonesia",3.0,2.0,11.0,180,673.0,,Notebooks Expert
+"Kolkata, West Bengal, India",42.0,17.0,130.0,684,15.0,,Notebooks Master
+"Newark, California, United States",35.0,1.0,5.0,257,,,Competitions Expert
+"Stockholm, Stockholm County, Sweden",55.0,,2.0,209,,,Discussion Expert
+"London, England, United Kingdom",,5.0,15.0,88,,,Discussion Expert
+"Washington, District of Columbia, United States",1.0,7.0,25.0,123,256.0,,Notebooks Expert
+"Athens, Greece",23.0,,1.0,177,,,Competitions Master
+"Brahmapur, Odisha, India",6.0,1.0,2.0,148,,,Discussion Expert
+"Kolkata, West Bengal, India",,4.0,115.0,207,501.0,,Notebooks Expert
+"Santa Clara, California, United States",27.0,4.0,23.0,181,,,Discussion Expert
+"Pune, Maharashtra, India",,2.0,10.0,189,1037.0,,Notebooks Expert
+"Blida, Blida Province, Algeria",2.0,1.0,2.0,118,,,Discussion Expert
+"Saint-Ouen, Île-de-France, France",,,7.0,245,557.0,,Notebooks Expert
+"Karnal, Haryana, India",,7.0,28.0,156,242.0,,Datasets Expert
+"Stockholm, Stockholm County, Sweden",3.0,,7.0,169,941.0,,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",,3.0,25.0,101,519.0,,Datasets Expert
+"Saint Petersburg, Russia",,,9.0,111,773.0,,Notebooks Expert
+"Tokyo, Tokyo, Japan",,,,230,,,Discussion Expert
+"Thiruvananthapuram, Kerala, India",,1.0,5.0,87,814.0,,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",,,1.0,111,,,Discussion Expert
+"Satna, Madhya Pradesh, India",,1.0,1.0,69,,,Discussion Expert
+,1.0,,6.0,99,968.0,,Notebooks Expert
+,,,,52,,,Discussion Expert
+"Mumbai, Maharashtra, India",24.0,20.0,50.0,217,657.0,,Datasets Expert
+"Austin, Texas, United States",1.0,118.0,47.0,475,53.0,,Datasets Grandmaster
+"Kharkiv, Kharkiv Oblast, Ukraine",16.0,,4.0,110,,,Discussion Expert
+,12.0,1.0,27.0,"1,322",65.0,,Competitions Expert
+"Chennai, Tamil Nadu, India",22.0,13.0,2.0,111,,,Competitions Master
+"Bengaluru, Karnataka, India",3.0,3.0,9.0,92,310.0,,Notebooks Expert
+,33.0,6.0,54.0,443,51.0,,Competitions Master
+"Mumbai, Maharashtra, India",2.0,4.0,55.0,160,463.0,,Datasets Expert
+"Bengaluru, Karnataka, India",1.0,2.0,32.0,137,1501.0,,Notebooks Expert
+"Pune, Maharashtra, India",5.0,,9.0,114,1656.0,,Notebooks Expert
+"Oslo, Oslo, Norway",8.0,8.0,57.0,184,109.0,,Notebooks Master
+"Palakkad, Kerala, India",12.0,,,401,,,Discussion Expert
+"Gurugram, Haryana, India",,,,105,,,Discussion Expert
+"Noida, Uttar Pradesh, India",1.0,3.0,18.0,235,329.0,,Datasets Expert
+"Beijing, Beijing, China",24.0,21.0,33.0,105,785.0,,Notebooks Expert
+"Kyiv, Ukraine",4.0,9.0,30.0,133,425.0,,Datasets Expert
+"Jabalpur, Madhya Pradesh, India",4.0,11.0,11.0,95,668.0,,Datasets Expert
+"Rennes, Brittany, France",4.0,1.0,12.0,173,,,Competitions Expert
+"İzmir, İzmir, Turkey",16.0,4.0,56.0,164,645.0,,Datasets Expert
+"İstanbul, İstanbul, Turkey",,,13.0,195,675.0,,Notebooks Expert
+"Kristiansand, Agder, Norway",,210.0,86.0,192,345.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,5.0,14.0,201,409.0,,Datasets Expert
+"Ankara, Ankara, Turkey",4.0,2.0,10.0,249,,,Discussion Expert
+"Bharatpur, Rajasthan, India",,3.0,14.0,230,502.0,,Datasets Expert
+"İstanbul, İstanbul, Turkey",,,15.0,147,569.0,,Notebooks Expert
+"Seoul, Seoul, South Korea",5.0,11.0,15.0,142,410.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",26.0,2.0,2.0,218,,,Competitions Expert
+"Kyiv, Ukraine",98.0,1.0,36.0,119,30.0,,Competitions Master
+"Bhopal, Madhya Pradesh, India",30.0,3.0,55.0,289,302.0,,Notebooks Expert
+"Tel Aviv-Yafo, Tel Aviv District, Israel",17.0,6.0,29.0,287,60.0,,Competitions Master
+"Barcelona, Catalonia, Spain",,8.0,17.0,889,30.0,,Notebooks Grandmaster
+"Saarbrücken, Saarland, Germany",18.0,13.0,53.0,144,28.0,,Competitions Master
+"Singapore, Singapore",9.0,17.0,13.0,119,1158.0,,Competitions Expert
+"Moscow, Russia",23.0,8.0,7.0,332,,,Competitions Master
+,34.0,8.0,17.0,111,262.0,,Competitions Master
+"Bengaluru, Karnataka, India",14.0,1.0,18.0,244,312.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",7.0,4.0,14.0,131,105.0,,Notebooks Master
+"Mangalore, Karnataka, India",1.0,2.0,7.0,134,499.0,,Notebooks Expert
+"Varanasi, Uttar Pradesh, India",1.0,1.0,3.0,86,,,Discussion Expert
+"Kyiv, Ukraine",9.0,1.0,6.0,103,793.0,,Notebooks Expert
+"Annavaram, Andhra Pradesh, India",53.0,92.0,45.0,212,156.0,,Notebooks Master
+"İzmit, Kocaeli, Turkey",1.0,6.0,27.0,180,525.0,,Datasets Expert
+"Dubai, Dubai, United Arab Emirates",6.0,1.0,1.0,104,,,Competitions Expert
+"Toronto, Ontario, Canada",7.0,8.0,43.0,353,236.0,,Datasets Expert
+"Bristol, England, United Kingdom",1.0,4.0,10.0,163,2528.0,,Datasets Expert
+"San Francisco, California, United States",2.0,10.0,8.0,155,787.0,,Datasets Expert
+"Indore, Madhya Pradesh, India",5.0,1.0,12.0,186,,,Discussion Expert
+"Bengaluru, Karnataka, India",,4.0,10.0,146,1447.0,,Datasets Expert
+"Bengaluru, Karnataka, India",,1.0,3.0,123,,,Discussion Expert
+"Dehradun, Uttarakhand, India",16.0,6.0,4.0,94,,,Competitions Expert
+,1.0,1.0,1.0,81,,,Discussion Expert
+"New Delhi, Delhi, India",4.0,2.0,11.0,87,1472.0,,Notebooks Expert
+"Meerut, Uttar Pradesh, India",3.0,4.0,21.0,150,879.0,,Notebooks Expert
+"Hyderabad, Telangana, India",14.0,12.0,8.0,77,1771.0,,Notebooks Expert
+"Karachi, Sindh, Pakistan",,,16.0,154,1121.0,,Notebooks Expert
+"Agartala, Tripura, India",1.0,,18.0,114,1450.0,,Notebooks Expert
+"Mashhad, Razavi Khorasan Province, Iran",,3.0,7.0,126,649.0,,Datasets Expert
+"İstanbul, İstanbul, Turkey",3.0,,30.0,122,357.0,,Notebooks Expert
+"Karachi, Sindh, Pakistan",1.0,3.0,8.0,102,1473.0,,Notebooks Expert
+,,3.0,15.0,136,537.0,,Notebooks Expert
+"Tehran, Tehran Province, Iran",,,8.0,78,645.0,,Notebooks Expert
+"Indianapolis, Indiana, United States",46.0,,10.0,537,,,Competitions Grandmaster
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",5.0,1.0,8.0,607,623.0,,Notebooks Expert
+"Hyderabad, Telangana, India",,3.0,8.0,570,443.0,,Notebooks Expert
+Belarus,12.0,3.0,14.0,187,173.0,,Competitions Expert
+"Rolla, Missouri, United States",14.0,,,86,,,Competitions Master
+"Paris, Île-de-France, France",18.0,,1.0,94,,,Competitions Master
+"Brisbane, Queensland, Australia",,3.0,5.0,105,939.0,,Notebooks Expert
+"Kalyani, West Bengal, India",17.0,5.0,12.0,234,157.0,,Notebooks Master
+Ukraine,6.0,,,195,,,Competitions Expert
+"Singapore, Singapore",15.0,2.0,5.0,108,434.0,,Competitions Expert
+"Kolkata, West Bengal, India",46.0,14.0,31.0,203,144.0,,Competitions Expert
+"Vadodara, Gujarat, India",17.0,48.0,44.0,123,77.0,,Notebooks Master
+"Lucknow, Uttar Pradesh, India",3.0,1.0,5.0,112,1555.0,,Notebooks Expert
+"Jaunpur, Uttar Pradesh, India",14.0,2.0,19.0,188,943.0,,Notebooks Expert
+"Indore, Madhya Pradesh, India",2.0,2.0,15.0,167,,,Discussion Expert
+"Bengaluru, Karnataka, India",1.0,5.0,7.0,91,1056.0,,Datasets Expert
+"Kolkata, West Bengal, India",,9.0,48.0,95,728.0,,Datasets Expert
+"Stockholm, Stockholm County, Sweden",4.0,5.0,18.0,100,1188.0,,Datasets Expert
+"Hyderabad, Telangana, India",10.0,1.0,10.0,117,1533.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,5.0,5.0,177,777.0,,Datasets Expert
+"London, England, United Kingdom",,3.0,19.0,173,,,Discussion Expert
+"Watford, England, United Kingdom",6.0,3.0,3.0,135,,,Discussion Expert
+"New Delhi, Delhi, India",,3.0,6.0,168,711.0,,Datasets Expert
+"Bengaluru, Karnataka, India",,7.0,7.0,102,707.0,,Datasets Master
+"Fresnes, Île-de-France, France",,,10.0,109,1179.0,,Notebooks Expert
+"Toronto, Ontario, Canada",4.0,2.0,7.0,179,340.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",4.0,4.0,12.0,73,1306.0,,Notebooks Expert
+"Moscow, Russia",4.0,,7.0,113,1348.0,,Notebooks Expert
+"Cairo, Cairo Governorate, Egypt",6.0,,14.0,109,535.0,,Notebooks Expert
+"Lipa, Calabarzon, Philippines",,,7.0,123,1156.0,,Notebooks Expert
+"Vellore, Tamil Nadu, India",,1.0,4.0,96,1943.0,,Notebooks Expert
+"Colombo, Western Province, Sri Lanka",2.0,3.0,2.0,97,,,Discussion Expert
+"Schongau, Bavaria, Germany",1.0,,5.0,141,,,Discussion Expert
+"Incheon, Incheon, South Korea",8.0,2.0,2.0,105,,,Discussion Expert
+"Belo Horizonte, State of Minas Gerais, Brazil",,1.0,4.0,84,,,Discussion Expert
+"Algiers, Algiers Province, Algeria",2.0,,5.0,110,623.0,,Notebooks Expert
+"Bhiwani, Haryana, India",1.0,,5.0,80,745.0,,Notebooks Expert
+"Minusinsk, Krasnoyarsk Krai, Russia",169.0,2.0,150.0,220,1211.0,,Competitions Grandmaster
+"Ahmedabad, Gujarat, India",33.0,20.0,176.0,383,3.0,,Notebooks Master
+"Shenzhen, Guangdong Province, China",29.0,9.0,8.0,233,309.0,,Competitions Master
+"Guwahati, Assam, India",20.0,8.0,106.0,390,344.0,,Datasets Expert
+"Bengaluru, Karnataka, India",9.0,4.0,13.0,210,109.0,,Competitions Expert
+"Chicago, Illinois, United States",8.0,2.0,13.0,124,643.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,6.0,7.0,182,579.0,,Datasets Expert
+"Bengaluru, Karnataka, India",5.0,16.0,26.0,217,437.0,,Notebooks Expert
+,27.0,,9.0,68,47.0,,Competitions Expert
+"Seoul, Seoul, South Korea",11.0,,67.0,218,348.0,,Notebooks Expert
+"Philadelphia, Pennsylvania, United States",7.0,,7.0,179,62.0,,Competitions Expert
+"College Park, Maryland, United States",3.0,,13.0,165,194.0,,Notebooks Master
+"Hyderabad, Telangana, India",9.0,2.0,14.0,209,482.0,,Notebooks Expert
+"Kharagpur, West Bengal, India",2.0,,,59,,,Discussion Expert
+"Mumbai, Maharashtra, India",2.0,3.0,22.0,96,1259.0,,Notebooks Expert
+"Guwahati, Assam, India",1.0,5.0,11.0,174,838.0,,Datasets Expert
+"Mahdia, Mahdia, Tunisia",,10.0,45.0,139,107.0,,Notebooks Master
+"Lucknow, Uttar Pradesh, India",,4.0,6.0,138,1707.0,,Datasets Expert
+"Fairfax, Virginia, United States",,,4.0,189,,,Discussion Expert
+"Kolkata, West Bengal, India",10.0,3.0,1.0,96,,,Discussion Expert
+"Barisal Division, Bangladesh",4.0,7.0,25.0,109,226.0,,Notebooks Master
+"Singapore, Singapore",27.0,4.0,7.0,77,,,Discussion Expert
+"İstanbul, İstanbul, Turkey",,1.0,1.0,85,,,Discussion Expert
+"Jamshedpur, Jharkhand, India",10.0,4.0,7.0,93,900.0,,Notebooks Expert
+"Richardson, Texas, United States",9.0,8.0,7.0,108,231.0,,Competitions Expert
+"Seoul, Seoul, South Korea",28.0,,14.0,117,2112.0,,Notebooks Expert
+"Alwar, Rajasthan, India",,,6.0,200,494.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,,6.0,82,1063.0,,Notebooks Expert
+"Kayseri, Kayseri, Turkey",,,6.0,159,732.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",14.0,1.0,14.0,126,825.0,,Notebooks Expert
+"Warsaw, Masovian Voivodeship, Poland",14.0,,1.0,184,,,Competitions Master
+"Berkeley, California, United States",1.0,,1.0,71,,,Discussion Expert
+,18.0,,,159,,,Competitions Expert
+"Kharkiv, Kharkiv Oblast, Ukraine",12.0,2.0,1.0,110,,,Competitions Expert
+"Beijing, Beijing, China",11.0,1.0,4.0,96,,,Competitions Grandmaster
+"Tokyo, Tokyo, Japan",2.0,,,119,,,Discussion Expert
+,23.0,,8.0,414,,,Competitions Master
+"Hyderabad, Telangana, India",,2.0,7.0,195,903.0,,Notebooks Expert
+"Felton, California, United States",10.0,4.0,7.0,316,261.0,,Notebooks Expert
+"Milan, Lombardy, Italy",9.0,5.0,7.0,233,243.0,,Competitions Expert
+"Barcelona, Catalonia, Spain",1.0,5.0,20.0,157,561.0,,Datasets Expert
+"Chennai, Tamil Nadu, India",,5.0,11.0,214,913.0,,Datasets Expert
+"Moscow, Russia",,3.0,10.0,496,1178.0,,Datasets Expert
+"Karaj, Alborz Province, Iran",4.0,,8.0,273,661.0,,Notebooks Expert
+"Ranchi, Jharkhand, India",8.0,5.0,43.0,282,110.0,,Notebooks Master
+"Rochester, New York, United States",10.0,39.0,5.0,123,500.0,,Competitions Expert
+"Chennai, Tamil Nadu, India",37.0,14.0,27.0,169,328.0,,Competitions Expert
+"Arcadia, California, United States",3.0,1.0,,237,,,Discussion Expert
+,3.0,5.0,1.0,107,,,Datasets Expert
+"Tunis, Tunis, Tunisia",1.0,4.0,8.0,350,100.0,,Datasets Expert
+"Kolkata, West Bengal, India",2.0,,13.0,197,497.0,,Notebooks Expert
+"İstanbul, İstanbul, Turkey",3.0,26.0,11.0,306,188.0,,Datasets Expert
+"Boston, Massachusetts, United States",,,,79,,,Discussion Expert
+"Bengaluru, Karnataka, India",,3.0,5.0,169,932.0,,Datasets Expert
+"Jaipur, Rajasthan, India",4.0,3.0,12.0,228,876.0,,Notebooks Expert
+"Navi Mumbai, Maharashtra, India",6.0,10.0,81.0,195,295.0,,Datasets Expert
+"Hyderabad, Telangana, India",10.0,,8.0,109,,,Discussion Expert
+"Thiruvananthapuram, Kerala, India",1.0,4.0,9.0,74,601.0,,Datasets Expert
+"Chandigarh, Punjab, India",6.0,1.0,4.0,90,,,Discussion Expert
+"Lagos, Lagos, Nigeria",,3.0,15.0,115,,,Discussion Expert
+"Abuja, Federal Capital Territory, Nigeria",,1.0,9.0,83,1326.0,,Notebooks Expert
+"Kyiv, Ukraine",13.0,1.0,4.0,141,,,Competitions Expert
+"Beijing, Beijing, China",18.0,2.0,6.0,135,152.0,,Competitions Grandmaster
+"Yongin-si, Gyeonggi-do, South Korea",17.0,4.0,11.0,163,239.0,,Competitions Master
+"Bengaluru, Karnataka, India",1.0,,7.0,108,,,Discussion Expert
+"Faridabad, Haryana, India",,,6.0,217,696.0,,Notebooks Expert
+"Tunis, Tunis, Tunisia",10.0,4.0,10.0,69,628.0,,Notebooks Expert
+"Fes, Fez-Meknès, Morocco",32.0,5.0,28.0,350,896.0,,Competitions Expert
+"Chennai, Tamil Nadu, India",5.0,2.0,15.0,117,678.0,,Notebooks Expert
+"Gurugram, Haryana, India",2.0,5.0,19.0,294,427.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",6.0,4.0,42.0,254,263.0,,Datasets Expert
+"Bengaluru, Karnataka, India",7.0,2.0,2.0,119,,,Discussion Expert
+"Gdańsk, Pomeranian Voivodeship, Poland",4.0,,6.0,125,,,Discussion Expert
+"Kolkata, West Bengal, India",1.0,2.0,8.0,205,168.0,,Notebooks Expert
+,1.0,5.0,3.0,76,,,Datasets Expert
+"Hanoi, Hanoi, Vietnam",4.0,1.0,1.0,136,,,Discussion Expert
+"Bengaluru, Karnataka, India",,4.0,29.0,210,571.0,,Datasets Expert
+"Bengaluru, Karnataka, India",2.0,1.0,7.0,209,397.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,1.0,1.0,148,,,Discussion Expert
+"Aurangabad, Maharashtra, India",1.0,2.0,18.0,153,764.0,,Notebooks Expert
+"Gurugram, Haryana, India",,,,152,,,Discussion Expert
+"Bengaluru, Karnataka, India",1.0,3.0,20.0,126,1003.0,,Notebooks Expert
+"Moscow, Russia",4.0,,10.0,83,759.0,,Notebooks Expert
+"Bursa, Bursa, Turkey",3.0,2.0,12.0,76,992.0,,Notebooks Expert
+,2.0,3.0,29.0,138,521.0,,Datasets Expert
+,83.0,,21.0,157,88.0,,Competitions Grandmaster
+"Melbourne, Victoria, Australia",56.0,62.0,35.0,170,497.0,,Competitions Master
+"Hanover, Lower Saxony, Germany",21.0,,,85,,,Competitions Expert
+"Chennai, Tamil Nadu, India",23.0,1.0,116.0,866,70.0,,Notebooks Expert
+"Warsaw, Masovian Voivodeship, Poland",2.0,1.0,,133,,,Discussion Expert
+"Bengaluru, Karnataka, India",27.0,23.0,46.0,200,240.0,,Competitions Expert
+"Berlin, Berlin, Germany",23.0,,3.0,509,,,Competitions Expert
+"Lahore, Punjab, Pakistan",2.0,20.0,81.0,185,485.0,,Notebooks Expert
+"Pune, Maharashtra, India",42.0,2.0,14.0,142,160.0,,Competitions Expert
+,11.0,,5.0,168,,,Competitions Expert
+"Beijing, Beijing, China",42.0,4.0,10.0,157,,,Competitions Expert
+"Belfast, Northern Ireland, United Kingdom",2.0,6.0,11.0,137,404.0,,Datasets Expert
+"Bengaluru, Karnataka, India",,4.0,28.0,137,491.0,,Notebooks Expert
+"Kharkiv, Kharkiv Oblast, Ukraine",16.0,6.0,25.0,216,120.0,,Notebooks Master
+"Cupertino, California, United States",11.0,,,218,,,Competitions Expert
+"Rajshahi, Rajshahi Division, Bangladesh",5.0,5.0,16.0,100,691.0,,Datasets Expert
+"Timișoara, Timiș County, Romania",,2.0,11.0,160,697.0,,Notebooks Expert
+"Surat, Gujarat, India",,2.0,4.0,127,,,Discussion Expert
+"Singapore, Singapore",1.0,5.0,9.0,180,,,Discussion Expert
+"Kyiv, Ukraine",2.0,3.0,5.0,133,1494.0,,Datasets Expert
+,1.0,,4.0,139,,,Discussion Expert
+"Delhi, Delhi, India",2.0,2.0,1.0,172,,,Discussion Expert
+"Noida, Uttar Pradesh, India",,3.0,4.0,110,,,Datasets Expert
+"Jaipur, Rajasthan, India",,28.0,13.0,179,178.0,,Notebooks Master
+"Greater Noida, Uttar Pradesh, India",1.0,8.0,7.0,168,898.0,,Datasets Expert
+,7.0,20.0,28.0,123,1153.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",6.0,2.0,6.0,115,1210.0,,Notebooks Expert
+"Hyderabad, Telangana, India",16.0,1.0,9.0,78,1186.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,,11.0,180,216.0,,Notebooks Master
+,,,22.0,132,648.0,,Notebooks Expert
+"Pune, Maharashtra, India",1.0,,2.0,92,,,Discussion Expert
+"Mumbai, Maharashtra, India",53.0,4.0,6.0,103,648.0,,Competitions Expert
+"Melbourne, Victoria, Australia",10.0,,1.0,366,,,Discussion Expert
+"Tours, Centre-Val de Loire, France",29.0,,2.0,712,,,Competitions Expert
+"Fairfax, Virginia, United States",8.0,5.0,39.0,186,242.0,,Notebooks Expert
+"Newport Beach, California, United States",7.0,9.0,13.0,130,262.0,,Notebooks Expert
+"Stuttgart, Baden-Württemberg, Germany",21.0,7.0,30.0,194,451.0,,Notebooks Expert
+"Durgapur, West Bengal, India",11.0,2.0,37.0,216,217.0,,Notebooks Master
+"Sheffield, England, United Kingdom",5.0,3.0,2.0,163,,,Discussion Expert
+"Gurugram, Haryana, India",2.0,7.0,6.0,125,497.0,,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",14.0,,1.0,97,,,Competitions Expert
+"Guwahati, Assam, India",3.0,,,154,,,Discussion Expert
+"Vancouver, British Columbia, Canada",3.0,3.0,9.0,273,1769.0,,Notebooks Expert
+"Glastonbury, Connecticut, United States",,1.0,15.0,257,96.0,,Notebooks Expert
+"Thrissur, Kerala, India",5.0,,15.0,124,1053.0,,Notebooks Expert
+"Puerto Princesa, MIMAROPA, Philippines",35.0,2.0,36.0,147,403.0,,Notebooks Expert
+"Delhi, Delhi, India",,1.0,5.0,178,,,Discussion Expert
+"Dhaka, Dhaka Division, Bangladesh",1.0,1.0,12.0,202,148.0,,Notebooks Master
+"İstanbul, Istanbul, Turkey",4.0,17.0,51.0,281,845.0,,Datasets Expert
+"Budapest, Hungary",2.0,,1.0,90,,,Discussion Expert
+"Chennai, Tamil Nadu, India",1.0,,5.0,80,,,Discussion Expert
+"Tunis, Tunis, Tunisia",1.0,3.0,4.0,140,,,Discussion Expert
+,1.0,2.0,5.0,147,764.0,,Notebooks Expert
+"Jashore, Khulna Division, Bangladesh",17.0,,45.0,205,189.0,,Notebooks Expert
+"Riga, Latvia",,3.0,1.0,79,,,Datasets Expert
+"Naihati, West Bengal, India",7.0,2.0,13.0,131,908.0,,Notebooks Expert
+"Kyiv, Ukraine",,3.0,6.0,131,935.0,,Notebooks Expert
+"Kolkata, West Bengal, India",2.0,1.0,9.0,106,1448.0,,Notebooks Expert
+"Faridabad, Haryana, India",2.0,5.0,18.0,234,344.0,,Datasets Expert
+"Tampa, Florida, United States",3.0,1.0,4.0,93,,,Discussion Expert
+"Tehran, Tehran Province, Iran",,25.0,85.0,175,322.0,,Notebooks Expert
+"São Paulo, State of São Paulo, Brazil",,4.0,19.0,105,,,Discussion Expert
+,2.0,,1.0,73,,,Discussion Expert
+"Jupiter, Florida, United States",41.0,1.0,11.0,98,,,Competitions Expert
+"McLean, Virginia, United States",42.0,1.0,7.0,110,74.0,,Competitions Expert
+"Hadano, Kanagawa, Japan",2.0,,1.0,158,,,Discussion Expert
+"Kraków, Lesser Poland Voivodeship, Poland",20.0,,4.0,232,,,Competitions Expert
+"Dublin, County Dublin, Ireland",4.0,4.0,6.0,125,1133.0,,Competitions Expert
+"Zürich, Zurich, Switzerland",4.0,,12.0,139,355.0,,Notebooks Expert
+"Hiroshima, Hiroshima, Japan",190.0,17.0,58.0,184,373.0,,Competitions Expert
+"São Paulo, State of São Paulo, Brazil",17.0,11.0,3.0,155,,,Competitions Expert
+"Riyadh, Riyadh Province, Saudi Arabia",,2.0,16.0,174,,,Discussion Expert
+"Chennai, Tamil Nadu, India",18.0,2.0,18.0,174,337.0,,Notebooks Expert
+"Modi'in-Maccabim-Re'ut, Center District, Israel",8.0,2.0,7.0,126,246.0,,Competitions Expert
+"Yokohama, Kanagawa, Japan",29.0,16.0,1.0,121,,,Competitions Master
+"Pamplona, Navarre, Spain",7.0,,2.0,122,,,Discussion Expert
+"Hamburg, Hamburg, Germany",10.0,,2.0,87,,,Discussion Expert
+,1.0,,8.0,115,1352.0,,Notebooks Expert
+"İstanbul, Istanbul, Turkey",12.0,5.0,12.0,84,1607.0,,Datasets Expert
+,41.0,1.0,16.0,128,,,Competitions Master
+"Tunis, Tunis, Tunisia",8.0,4.0,9.0,93,563.0,,Competitions Expert
+"Mumbai, Maharashtra, India",,2.0,1.0,192,,,Discussion Expert
+"New Delhi, Delhi, India",4.0,3.0,10.0,157,451.0,,Datasets Expert
+"Bengaluru, Karnataka, India",10.0,13.0,18.0,78,596.0,,Datasets Expert
+"Yaoundé, Centre, Cameroon",4.0,5.0,36.0,209,545.0,,Notebooks Expert
+"Hanover, New Hampshire, United States",9.0,2.0,51.0,312,180.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,1.0,6.0,157,598.0,,Notebooks Expert
+"Dublin, County Dublin, Ireland",10.0,4.0,22.0,192,616.0,,Datasets Expert
+"Delhi, Delhi, India",11.0,3.0,7.0,112,,,Discussion Expert
+"Bangkok, Bangkok, Thailand",,,6.0,90,966.0,,Notebooks Expert
+"Basel, Basel City, Switzerland",6.0,5.0,11.0,122,,,Discussion Expert
+"Los Olivos, Lima Region, Peru",5.0,1.0,13.0,138,510.0,,Notebooks Expert
+"Khammam, Telangana, India",,4.0,4.0,124,,,Discussion Expert
+"İzmir, İzmir, Turkey",,3.0,2.0,113,,,Datasets Expert
+"New York, New York, United States",3.0,1.0,8.0,182,348.0,,Notebooks Expert
+"New Delhi, Delhi, India",1.0,,4.0,94,,,Discussion Expert
+"Aurangabad, Maharashtra, India",,,5.0,106,968.0,,Notebooks Expert
+"Columbus, Ohio, United States",,6.0,4.0,91,,,Datasets Expert
+,,,,72,,,Discussion Expert
+"Tehran, Tehran Province, Iran",,,6.0,103,1331.0,,Notebooks Expert
+,39.0,,8.0,190,,,Competitions Grandmaster
+"Christchurch, Canterbury, New Zealand",25.0,3.0,5.0,199,,,Competitions Master
+"London, England, United Kingdom",7.0,5.0,13.0,113,433.0,,Competitions Expert
+"Amsterdam, North Holland, Netherlands",19.0,,16.0,211,151.0,,Competitions Expert
+"Toulouse, Occitanie, France",8.0,,3.0,84,,,Discussion Expert
+"Antwerp, Flanders, Belgium",9.0,5.0,11.0,105,904.0,,Datasets Expert
+"İstanbul, Istanbul, Turkey",20.0,4.0,15.0,103,583.0,,Notebooks Expert
+"Rostov-on-Don, Rostov Oblast, Russia",27.0,2.0,10.0,236,999.0,,Competitions Expert
+"Mumbai, Maharashtra, India",22.0,1.0,9.0,135,1507.0,,Competitions Expert
+"Karachi, Sindh, Pakistan",2.0,1.0,9.0,119,909.0,,Notebooks Expert
+"Istanbul, Istanbul, Turkey",,6.0,8.0,143,628.0,,Datasets Expert
+"London, England, United Kingdom",2.0,4.0,14.0,187,84.0,,Datasets Expert
+"Singapore, Singapore",15.0,,14.0,174,138.0,,Notebooks Expert
+"Hyderabad, Telangana, India",10.0,2.0,11.0,91,1333.0,,Notebooks Expert
+"Alexandria, Virginia, United States",9.0,16.0,19.0,183,502.0,,Datasets Master
+"Ariana, Ariana, Tunisia",10.0,3.0,15.0,101,1122.0,,Notebooks Expert
+"Kolkata, West Bengal, India",3.0,2.0,4.0,132,,,Discussion Expert
+,2.0,,,138,,,Discussion Expert
+"Hanoi, Hanoi, Vietnam",8.0,1.0,12.0,143,356.0,,Notebooks Master
+"Bengaluru, Karnataka, India",3.0,1.0,8.0,112,758.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",35.0,1.0,16.0,114,1918.0,,Notebooks Expert
+"Stuttgart, Baden-Württemberg, Germany",4.0,1.0,5.0,88,,,Discussion Expert
+"Moncton, New Brunswick, Canada",22.0,49.0,28.0,416,,,Discussion Expert
+"Mumbai, Maharashtra, India",1.0,4.0,6.0,87,867.0,,Datasets Expert
+"Lucknow, Uttar Pradesh, India",,1.0,3.0,93,,,Discussion Expert
+"Crateús, State of Ceará, Brazil",,3.0,17.0,218,586.0,,Notebooks Expert
+"Chandigarh, Chandigarh, India",14.0,,,129,,,Discussion Expert
+"Hyderabad, Telangana, India",2.0,25.0,18.0,190,636.0,,Datasets Expert
+"Coimbatore, Tamil Nadu, India",5.0,5.0,8.0,108,,,Datasets Expert
+"Mogalturu, Andhra Pradesh, India",2.0,3.0,7.0,181,490.0,,Datasets Expert
+"New Delhi, Delhi, India",36.0,12.0,18.0,161,313.0,,Competitions Expert
+"Delhi, Delhi, India",,,4.0,191,,,Discussion Expert
+"İstanbul, İstanbul, Turkey",1.0,1.0,9.0,116,539.0,,Notebooks Expert
+"İstanbul, İstanbul, Turkey",,3.0,6.0,133,930.0,,Datasets Expert
+"Durg, Chhattisgarh, India",1.0,2.0,7.0,65,1133.0,,Notebooks Expert
+"Hyderabad, Telangana, India",4.0,,2.0,122,,,Discussion Expert
+,6.0,5.0,7.0,108,876.0,,Datasets Expert
+"Houten, Utrecht, Netherlands",1.0,,,136,,,Discussion Expert
+"Sirsa, Haryana, India",4.0,2.0,8.0,128,866.0,,Notebooks Expert
+"Ulm, Baden-Württemberg, Germany",30.0,,10.0,142,69.0,,Competitions Master
+"Paris, Île-de-France, France",15.0,3.0,40.0,419,11.0,,Competitions Master
+"Bengaluru, Karnataka, India",17.0,7.0,10.0,181,,,Competitions Expert
+"Philadelphia, Pennsylvania, United States",15.0,12.0,49.0,186,296.0,,Competitions Expert
+"Ho Chi Minh City, Ho Chi Minh City, Vietnam",78.0,3.0,6.0,106,98.0,,Competitions Grandmaster
+"Colombo, Western Province, Sri Lanka",1.0,,10.0,414,74.0,,Notebooks Master
+"Taoyuan, Taoyuan City, Taiwan",11.0,18.0,6.0,139,,,Competitions Expert
+"New Delhi, Delhi, India",11.0,,,132,,,Discussion Expert
+"Kraków, Lesser Poland Voivodeship, Poland",31.0,2.0,2.0,207,,,Competitions Master
+"Sunnyvale, California, United States",5.0,,27.0,464,63.0,,Notebooks Master
+"Bengaluru, Karnataka, India",1.0,16.0,24.0,360,32.0,,Notebooks Master
+"Udaipur, Rajasthan, India",45.0,56.0,8.0,134,146.0,,Competitions Master
+"Valencia, Valencian Community, Spain",,8.0,9.0,71,2658.0,,Datasets Expert
+"Baton Rouge, Louisiana, United States",2.0,,,99,,,Discussion Expert
+"Chandigarh, Chandigarh, India",6.0,,25.0,177,430.0,,Notebooks Expert
+"Madison, Wisconsin, United States",3.0,9.0,13.0,97,2378.0,,Datasets Expert
+"Delhi, Delhi, India",11.0,5.0,9.0,145,,,Discussion Expert
+"Sikar, Rajasthan, India",37.0,5.0,4.0,211,,,Competitions Expert
+"Mangalore, Karnataka, India",,2.0,19.0,90,708.0,,Notebooks Expert
+"Bellevue, Nebraska, United States",6.0,1.0,11.0,126,2208.0,,Notebooks Expert
+"Pune, Maharashtra, India",3.0,4.0,7.0,103,1396.0,,Datasets Expert
+"New Delhi, Delhi, India",4.0,1.0,9.0,79,545.0,,Notebooks Expert
+"Vadodara, Gujarat, India",6.0,2.0,10.0,326,84.0,,Notebooks Master
+"Basel, Basel City, Switzerland",7.0,3.0,4.0,83,,,Discussion Expert
+"Busan, Busan, South Korea",11.0,,40.0,302,216.0,,Competitions Expert
+"İzmit, Kocaeli, Turkey",,1.0,5.0,91,738.0,,Notebooks Expert
+"İstanbul, İstanbul, Turkey",1.0,,9.0,82,3045.0,,Notebooks Expert
+"Faridabad, Haryana, India",2.0,,,90,,,Discussion Expert
+"Chandigarh, Chandigarh, India",11.0,19.0,39.0,231,476.0,,Notebooks Expert
+"Bratislava, Bratislava Region, Slovakia",,1.0,11.0,240,490.0,,Notebooks Expert
+"Navi Mumbai, Maharashtra, India",1.0,,24.0,101,650.0,,Notebooks Expert
+"Munich, Bavaria, Germany",5.0,,3.0,120,,,Discussion Expert
+"Jaipur, Rajasthan, India",1.0,2.0,10.0,190,646.0,,Notebooks Expert
+"Gothenburg, Västra Götaland County, Sweden",,,,232,,,Discussion Expert
+"Shikohabad, Uttar Pradesh, India",2.0,1.0,2.0,113,,,Discussion Expert
+"Delhi, Delhi, India",3.0,1.0,6.0,102,1348.0,,Notebooks Expert
+,1.0,,6.0,118,662.0,,Notebooks Expert
+"St Andrews, Scotland, United Kingdom",1.0,,11.0,141,475.0,,Notebooks Expert
+"Perth, Scotland, United Kingdom",4.0,3.0,13.0,192,,,Discussion Expert
+"Buenos Aires, Buenos Aires, Argentina",,2.0,11.0,165,709.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",11.0,6.0,10.0,126,669.0,,Notebooks Expert
+"Valsad, Gujarat, India",3.0,5.0,7.0,155,,,Discussion Expert
+"Bhubaneswar, Odisha, India",,2.0,6.0,131,984.0,,Notebooks Expert
+"Tiruppur, Tamil Nadu, India",,4.0,10.0,161,696.0,,Notebooks Expert
+"Noida, Uttar Pradesh, India",2.0,2.0,13.0,128,850.0,,Notebooks Expert
+"Ajmer, Rajasthan, India",2.0,,7.0,108,1070.0,,Notebooks Expert
+"Rosenheim, Bavaria, Germany",2.0,,11.0,98,,,Discussion Expert
+"İstanbul, İstanbul, Turkey",,1.0,6.0,89,942.0,,Notebooks Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",,4.0,7.0,80,1217.0,,Datasets Expert
+,1.0,,,79,,,Discussion Expert
+"Bangkok, Bangkok, Thailand",13.0,6.0,48.0,422,158.0,,Notebooks Expert
+"Dublin, County Dublin, Ireland",14.0,,2.0,69,,,Competitions Master
+"Kazakhstan, Almaty Province, Kazakhstan",14.0,1.0,20.0,187,,,Competitions Expert
+"Santiago, Santiago Metropolitan Region, Chile",4.0,,2.0,146,,,Competitions Expert
+,8.0,,1.0,363,,,Discussion Expert
+"New Delhi, Delhi, India",17.0,,3.0,95,,,Discussion Expert
+"Navi Mumbai, Maharashtra, India",1.0,,8.0,152,1178.0,,Notebooks Expert
+"Hangzhou, Zhejiang, China",40.0,12.0,4.0,102,,,Competitions Master
+"Paris, Île-de-France, France",1.0,,37.0,157,561.0,,Notebooks Expert
+,12.0,5.0,27.0,139,40.0,,Notebooks Grandmaster
+"Tokyo, Tokyo, Japan",20.0,2.0,12.0,125,109.0,,Competitions Master
+"Bengaluru, Karnataka, India",,7.0,13.0,147,798.0,,Notebooks Expert
+"Ahmedabad, Gujarat, India",4.0,2.0,16.0,315,252.0,,Notebooks Expert
+"New Delhi, Delhi, India",1.0,1.0,6.0,143,,,Discussion Expert
+"Dramaga, West Java, Indonesia",19.0,6.0,20.0,167,,,Discussion Expert
+"New Delhi, Delhi, India",17.0,,14.0,124,1192.0,,Notebooks Expert
+"İstanbul, İstanbul, Turkey",4.0,,8.0,109,1806.0,,Notebooks Expert
+"Budapest, Hungary",1.0,1.0,3.0,81,,,Discussion Expert
+"New Delhi, Delhi, India",,1.0,6.0,124,977.0,,Notebooks Expert
+,2.0,9.0,9.0,116,297.0,,Datasets Expert
+"Deggendorf, Bavaria, Germany",1.0,,4.0,144,,,Discussion Expert
+"Patna, Bihar, India",1.0,,3.0,77,,,Discussion Expert
+"Sylhet, Sylhet Division, Bangladesh",2.0,5.0,30.0,228,,,Discussion Expert
+"Noisy-le-Grand, Île-de-France, France",12.0,5.0,21.0,102,833.0,,Datasets Expert
+"Agra, Uttar Pradesh, India",5.0,,3.0,102,,,Discussion Expert
+"Gurugram, Haryana, India",,,26.0,128,1282.0,,Notebooks Expert
+"Crac'h, Brittany, France",,,1.0,167,,,Discussion Expert
+"Kolkata, West Bengal, India",3.0,1.0,20.0,158,549.0,,Notebooks Expert
+"Chattogram, Chittagong Division, Bangladesh",1.0,,17.0,134,672.0,,Notebooks Expert
+"Mansoura, Dakahlia Governorate, Egypt",5.0,4.0,17.0,163,524.0,,Datasets Expert
+"Haldwani, Uttarakhand, India",,2.0,4.0,73,,,Discussion Expert
+"New Delhi, Delhi, India",5.0,,24.0,238,522.0,,Notebooks Expert
+"6th of October City, Giza Governorate, Egypt",,3.0,6.0,124,1081.0,,Datasets Expert
+"Udupi, Karnataka, India",1.0,1.0,11.0,116,1802.0,,Notebooks Expert
+"New Delhi, Delhi, India",,,8.0,165,347.0,,Notebooks Expert
+,,1.0,,83,,,Discussion Expert
+"İstanbul, İstanbul, Turkey",,96.0,222.0,238,148.0,,Datasets Expert
+"Horsham, England, United Kingdom",63.0,1.0,43.0,312,6.0,,Competitions Master
+"Pune, Maharashtra, India",2.0,,,110,,,Discussion Expert
+"Shanghai, Shanghai, China",24.0,14.0,1.0,163,,,Competitions Expert
+"Beijing, Beijing, China",60.0,4.0,52.0,161,272.0,,Competitions Expert
+"New York, New York, United States",6.0,,3.0,96,,,Discussion Expert
+"Warsaw, Masovian Voivodeship, Poland",9.0,,4.0,213,,,Competitions Master
+,2.0,,,123,,,Discussion Expert
+"Vienna, Vienna, Austria",9.0,,1.0,138,,,Competitions Expert
+"Santa Clara, California, United States",2.0,,3.0,149,,,Discussion Expert
+"Gurugram, Haryana, India",16.0,1.0,21.0,500,27.0,,Notebooks Master
+"Charlottesville, Virginia, United States",20.0,1.0,11.0,137,,,Competitions Expert
+"El Djazair, Algiers Province, Algeria",13.0,2.0,24.0,131,152.0,,Notebooks Master
+"Mysuru, Karnataka, India",5.0,,21.0,217,397.0,,Notebooks Expert
+"Leuven, Flanders, Belgium",,1.0,7.0,374,94.0,,Notebooks Expert
+"Karlskrona, Blekinge County, Sweden",,,13.0,117,619.0,,Notebooks Expert
+"Kolkata, West Bengal, India",,,2.0,115,,,Discussion Expert
+"İstanbul, İstanbul, Turkey",13.0,8.0,34.0,90,152.0,,Notebooks Master
+"Gurugram, Haryana, India",5.0,,2.0,219,,,Discussion Expert
+"Cairo, Cairo Governorate, Egypt",1.0,1.0,9.0,218,762.0,,Notebooks Expert
+"Delhi, Delhi, India",1.0,9.0,9.0,177,308.0,,Datasets Expert
+"Mangalore, Karnataka, India",3.0,4.0,8.0,102,431.0,,Datasets Expert
+"Guwahati, Assam, India",,,,104,,,Discussion Expert
+"Gorakhpur, Uttar Pradesh, India",3.0,6.0,31.0,202,611.0,,Datasets Expert
+"Ranchi, Jharkhand, India",1.0,,6.0,144,1054.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",1.0,2.0,1.0,81,,,Discussion Expert
+"Hyderabad, Telangana, India",,4.0,13.0,154,416.0,,Notebooks Expert
+"Larache, Tangier-Tétouan-Al Hoceima, Morocco",,1.0,7.0,110,2215.0,,Notebooks Expert
+"Jaipur, Rajasthan, India",,1.0,8.0,117,571.0,,Notebooks Expert
+"Osaka, Osaka, Japan",11.0,1.0,2.0,135,,,Discussion Expert
+,,,10.0,244,,,Discussion Expert
+"Noida, Uttar Pradesh, India",2.0,4.0,14.0,127,599.0,,Notebooks Expert
+"Nagpur, Maharashtra, India",,6.0,11.0,92,,,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",2.0,,2.0,74,,,Discussion Expert
+"Hyderabad, Telangana, India",,,5.0,82,,,Discussion Expert
+"Seoul, Seoul, South Korea",,1.0,19.0,97,1349.0,,Notebooks Expert
+"Delhi, Delhi, India",,3.0,,77,,,Datasets Expert
+"Las Palmas de Gran Canaria, Canary Islands, Spain",,,4.0,72,,,Discussion Expert
+"Pune, Maharashtra, India",,3.0,2.0,111,,,Datasets Expert
+"Chandigarh, Punjab, India",1.0,1.0,5.0,189,824.0,,Notebooks Expert
+"San Francisco, California, United States",241.0,9.0,26.0,311,,,Competitions Grandmaster
+"Bellevue, Washington, United States",65.0,,117.0,201,,,Competitions Grandmaster
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",34.0,3.0,76.0,153,13.0,,Notebooks Master
+"Oulu, Finland",20.0,6.0,45.0,221,506.0,,Notebooks Expert
+"Gurugram, Haryana, India",2.0,3.0,10.0,97,1222.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,3.0,5.0,82,1237.0,,Datasets Expert
+"Karachi, Sindh, Pakistan",1.0,7.0,14.0,133,974.0,,Notebooks Expert
+"Kanpur, Uttar Pradesh, India",6.0,,4.0,128,,,Discussion Expert
+"Bengaluru, Karnataka, India",2.0,,,123,,,Discussion Expert
+"Texas City, Texas, United States",4.0,7.0,20.0,148,796.0,,Notebooks Expert
+"Brest, Brittany, France",10.0,,16.0,185,844.0,,Notebooks Expert
+"Cairo, Cairo Governorate, Egypt",,2.0,6.0,144,,,Discussion Expert
+"London, England, United Kingdom",5.0,4.0,11.0,97,333.0,,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",23.0,3.0,29.0,194,385.0,,Notebooks Expert
+"Istanbul, Istanbul, Turkey",7.0,,4.0,189,,,Discussion Expert
+"Orlando, Florida, United States",28.0,10.0,13.0,139,1284.0,,Datasets Expert
+"İskenderun, Hatay, Turkey",,,8.0,116,1095.0,,Notebooks Expert
+"Yokohama, Kanagawa, Japan",,,25.0,91,1054.0,,Notebooks Expert
+"Delhi, Delhi, India",7.0,3.0,5.0,137,630.0,,Competitions Expert
+"Mumbai, Maharashtra, India",3.0,3.0,9.0,188,290.0,,Datasets Expert
+"Khulna, Khulna Division, Bangladesh",1.0,7.0,27.0,200,497.0,,Datasets Expert
+"Delhi, Delhi, India",7.0,3.0,6.0,113,842.0,,Notebooks Expert
+"Delhi, Delhi, India",2.0,6.0,2.0,95,,,Datasets Expert
+"Minato City, Tokyo, Japan",8.0,4.0,5.0,106,2146.0,,Datasets Expert
+"Hyderabad, Telangana, India",1.0,,4.0,167,,,Discussion Expert
+"Bengaluru, Karnataka, India",,7.0,7.0,117,628.0,,Datasets Expert
+"Tokyo, Tokyo, Japan",4.0,,4.0,115,,,Discussion Expert
+"Pune, Maharashtra, India",2.0,2.0,10.0,134,925.0,,Notebooks Expert
+"Bokaro Steel City, Jharkhand, India",1.0,3.0,19.0,73,326.0,,Datasets Expert
+,29.0,13.0,54.0,204,92.0,,Notebooks Master
+"Tunis, Tunis, Tunisia",6.0,,5.0,173,,,Competitions Expert
+"Sandhikharka, Western Development Region, Nepal",1.0,6.0,14.0,201,275.0,,Datasets Expert
+"Rochester, New York, United States",10.0,2.0,5.0,101,,,Discussion Expert
+"Gurugram, Haryana, India",,3.0,5.0,166,1052.0,,Notebooks Expert
+"Mysuru, Karnataka, India",2.0,3.0,5.0,81,643.0,,Datasets Expert
+"Rosemère, Quebec, Canada",,1.0,10.0,150,452.0,,Notebooks Expert
+"Rangpur, Rangpur Division, Bangladesh",,7.0,16.0,102,710.0,,Datasets Expert
+"London, England, United Kingdom",5.0,,4.0,101,,,Discussion Expert
+"Lima, Callao Region, Peru",3.0,,1.0,59,,,Discussion Expert
+"Houston, Texas, United States",,2.0,4.0,76,,,Discussion Expert
+"Ankara, Ankara, Turkey",,,5.0,114,,,Discussion Expert
+"New Delhi, Delhi, India",1.0,,,52,,,Discussion Expert
+"Atlanta, Georgia, United States",,,6.0,158,,,Discussion Expert
+,2.0,2.0,8.0,89,,,Discussion Expert
+,5.0,,1.0,168,,,Competitions Expert
+"Kansas City, Missouri, United States",4.0,,13.0,82,1353.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",44.0,,6.0,203,,,Competitions Expert
+"São Paulo, State of São Paulo, Brazil",10.0,3.0,38.0,491,158.0,,Notebooks Expert
+"Delhi, Delhi, India",8.0,7.0,39.0,230,100.0,,Datasets Expert
+"Sydney, New South Wales, Australia",,17.0,25.0,136,,,Datasets Master
+"Hyderabad, Telangana, India",,2.0,16.0,214,553.0,,Notebooks Expert
+"Rio de Janeiro, State of Rio de Janeiro, Brazil",3.0,6.0,30.0,135,991.0,,Datasets Expert
+"Thane, Maharashtra, India",25.0,13.0,24.0,130,880.0,,Datasets Expert
+"Enerhodar, Zaporizhia Oblast, Ukraine",51.0,6.0,22.0,151,119.0,,Notebooks Master
+"Thiruvananthapuram, Kerala, India",3.0,6.0,29.0,143,475.0,,Notebooks Expert
+"Worlds End, County Cork, Ireland",16.0,3.0,4.0,224,,,Competitions Master
+"Lucknow, Uttar Pradesh, India",3.0,5.0,8.0,126,230.0,,Datasets Expert
+"Hyderabad, Telangana, India",9.0,3.0,12.0,161,754.0,,Competitions Expert
+"Canberra, Australian Capital Territory, Australia",9.0,19.0,14.0,272,,,Discussion Expert
+"İstanbul, İstanbul, Turkey",3.0,6.0,11.0,280,299.0,,Datasets Expert
+"Tunis, Tunis, Tunisia",9.0,,,96,,,Competitions Expert
+,9.0,3.0,1.0,242,,,Competitions Expert
+"Bengaluru, Karnataka, India",,,7.0,140,323.0,,Notebooks Expert
+"Pune, Maharashtra, India",3.0,14.0,22.0,143,817.0,,Notebooks Expert
+"Pune, Maharashtra, India",2.0,4.0,13.0,214,,,Discussion Expert
+"Atlanta, Georgia, United States",31.0,,,156,,,Discussion Expert
+"Bengaluru, Karnataka, India",,,1.0,107,,,Discussion Expert
+"Bengaluru, Karnataka, India",,,3.0,183,,,Discussion Expert
+"Cairo, Cairo Governorate, Egypt",2.0,3.0,18.0,153,838.0,,Notebooks Expert
+"Hyderabad, Telangana, India",,4.0,4.0,96,,,Discussion Expert
+"Mymensingh, Dhaka Division, Bangladesh",,1.0,6.0,191,706.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,7.0,15.0,135,692.0,,Notebooks Expert
+"Fremont, California, United States",2.0,,,117,,,Discussion Expert
+"Kolkata, West Bengal, India",1.0,1.0,7.0,96,,,Discussion Expert
+"Melbourne, Victoria, Australia",,14.0,31.0,188,268.0,,Datasets Expert
+"6th of October City, Giza Governorate, Egypt",1.0,3.0,13.0,149,736.0,,Notebooks Expert
+"Jamshedpur, Jharkhand, India",6.0,,75.0,171,536.0,,Notebooks Expert
+"Agadir, Souss-Massa, Morocco",,3.0,2.0,143,,,Discussion Expert
+"Moscow, Russia",3.0,,8.0,109,954.0,,Notebooks Expert
+"Istanbul, Istanbul, Turkey",39.0,,,194,,,Competitions Master
+"Moscow, Russia",44.0,,14.0,156,132.0,,Competitions Master
+"Kyiv, Ukraine",36.0,,1.0,90,,,Competitions Master
+"Bengaluru, Karnataka, India",47.0,1.0,13.0,191,2563.0,,Competitions Master
+,33.0,,2.0,234,,,Competitions Expert
+,26.0,4.0,15.0,94,312.0,,Competitions Expert
+"Hyderabad, Telangana, India",1.0,1.0,4.0,99,,,Discussion Expert
+,51.0,1.0,12.0,233,104.0,,Competitions Expert
+"Stuttgart, Baden-Württemberg, Germany",6.0,,2.0,132,,,Discussion Expert
+"Bengaluru, Karnataka, India",2.0,,2.0,91,,,Discussion Expert
+"Tallinn, Harju County, Estonia",1.0,,10.0,71,733.0,,Notebooks Expert
+"San José, San José Province, Costa Rica",5.0,1.0,7.0,110,,,Discussion Expert
+"Hangzhou, Zhejiang, China",14.0,,8.0,163,194.0,,Competitions Master
+"São Paulo, State of São Paulo, Brazil",20.0,,33.0,250,31.0,,Competitions Master
+"Bengaluru, Karnataka, India",10.0,,20.0,101,,,Discussion Expert
+"Pune, Maharashtra, India",2.0,,3.0,314,,,Discussion Expert
+"Bengaluru, Karnataka, India",,,,95,,,Discussion Expert
+"Chennai, Tamil Nadu, India",,5.0,25.0,228,395.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,1.0,5.0,105,971.0,,Notebooks Expert
+"Jakarta, Jakarta, Indonesia",3.0,,4.0,167,,,Competitions Expert
+"Dublin, County Dublin, Ireland",5.0,15.0,38.0,193,505.0,,Notebooks Expert
+"Incheon, Incheon, South Korea",5.0,6.0,59.0,87,431.0,,Datasets Expert
+"Colombo, Western Province, Sri Lanka",,4.0,14.0,165,348.0,,Datasets Expert
+"Raipur, Chhattisgarh, India",,1.0,9.0,92,1010.0,,Notebooks Expert
+"Stockholm, Stockholm County, Sweden",7.0,7.0,36.0,275,1241.0,,Notebooks Expert
+"Coimbatore, Tamil Nadu, India",,4.0,7.0,181,421.0,,Datasets Expert
+"Cairo, Cairo Governorate, Egypt",1.0,,6.0,88,1077.0,,Notebooks Expert
+"Thiruvananthapuram, Kerala, India",2.0,6.0,16.0,110,,,Discussion Expert
+"Seattle, Washington, United States",10.0,,1.0,108,,,Competitions Expert
+"Challand-saint-anselme, Valle d'Aosta, Italy",4.0,2.0,7.0,90,,,Discussion Expert
+"Manali, Himachal Pradesh, India",1.0,,,114,,,Discussion Expert
+"College Station, Texas, United States",,,4.0,75,991.0,,Notebooks Expert
+"São Bernardo do Campo, State of São Paulo, Brazil",1.0,3.0,5.0,138,552.0,,Datasets Expert
+"Chattogram, Chittagong Division, Bangladesh",21.0,,,78,,,Competitions Expert
+"Almaty, Almaty Province, Kazakhstan",1.0,,1.0,80,,,Discussion Expert
+"Mumbai, Maharashtra, India",,,5.0,91,718.0,,Notebooks Expert
+"Hyderabad, Telangana, India",5.0,1.0,,67,,,Discussion Expert
+"Bangkok, Bangkok, Thailand",1.0,,,137,,,Discussion Expert
+"Kyoto, Kyoto, Japan",5.0,,3.0,76,,,Discussion Expert
+"Baltimore, Maryland, United States",7.0,7.0,18.0,131,309.0,,Competitions Expert
+"Dresden, Saxony, Germany",26.0,,9.0,380,8.0,,Competitions Grandmaster
+"İstanbul, Istanbul, Turkey",38.0,1.0,9.0,123,272.0,,Notebooks Expert
+"Dallas, Texas, United States",7.0,1.0,1.0,112,,,Competitions Expert
+"Hyderabad, Telangana, India",3.0,,28.0,169,387.0,,Notebooks Expert
+"Kyiv, Ukraine",33.0,1.0,16.0,171,13.0,,Competitions Expert
+,44.0,62.0,5.0,97,,,Competitions Master
+"London, England, United Kingdom",34.0,3.0,103.0,379,25.0,,Notebooks Master
+"Melbourne, Victoria, Australia",15.0,,26.0,222,61.0,,Notebooks Master
+"Bern, Canton of Bern, Switzerland",11.0,,,92,,,Discussion Expert
+"Dhaka, Dhaka Division, Bangladesh",2.0,6.0,46.0,114,484.0,,Datasets Expert
+"Islamabad, Islamabad Capital Territory, Pakistan",31.0,1.0,12.0,83,325.0,,Notebooks Expert
+"Winnipeg, Manitoba, Canada",15.0,5.0,25.0,138,,,Competitions Expert
+"Stockholm, Stockholm County, Sweden",,,,88,,,Discussion Expert
+"Noida, Uttar Pradesh, India",2.0,72.0,19.0,114,,,Discussion Expert
+"London, England, United Kingdom",1.0,2.0,9.0,121,,,Discussion Expert
+"Pune, Maharashtra, India",2.0,,14.0,164,541.0,,Notebooks Expert
+"Sahibzada Ajit Singh Nagar, Punjab, India",,5.0,24.0,236,114.0,,Notebooks Master
+"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",6.0,9.0,6.0,168,,,Competitions Expert
+"Bhuj, Gujarat, India",8.0,1.0,28.0,268,129.0,,Notebooks Master
+"Delhi, Delhi, India",1.0,1.0,5.0,132,405.0,,Notebooks Expert
+"Aberdeen, Scotland, United Kingdom",22.0,,11.0,92,896.0,,Competitions Expert
+"Gurugram, Haryana, India",,3.0,10.0,135,673.0,,Datasets Expert
+"Bengaluru, Karnataka, India",,,7.0,90,1403.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",5.0,1.0,19.0,225,273.0,,Notebooks Expert
+,,3.0,30.0,143,307.0,,Notebooks Expert
+"Pune, Maharashtra, India",,,5.0,72,1826.0,,Notebooks Expert
+"Aarhus, Denmark",1.0,10.0,27.0,124,401.0,,Datasets Expert
+"Guelmim, Guelmim-Oued Noun, Morocco",,,5.0,103,342.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",1.0,3.0,15.0,123,1196.0,,Notebooks Expert
+"Nellore, Andhra Pradesh, India",1.0,3.0,19.0,132,720.0,,Datasets Expert
+"Chennai, Tamil Nadu, India",5.0,3.0,20.0,141,549.0,,Datasets Expert
+"Coimbatore, Tamil Nadu, India",1.0,2.0,1.0,132,,,Discussion Expert
+"Durgapur, West Bengal, India",8.0,1.0,21.0,96,980.0,,Notebooks Expert
+"Lucknow, Uttar Pradesh, India",,6.0,11.0,101,952.0,,Datasets Expert
+"Bengaluru, Karnataka, India",15.0,3.0,2.0,82,,,Competitions Expert
+"Kanpur, Uttar Pradesh, India",,,5.0,66,866.0,,Notebooks Expert
+"Kannur, Kerala, India",2.0,1.0,8.0,71,1231.0,,Notebooks Expert
+"Dhaka, Dhaka Division, Bangladesh",,7.0,14.0,85,886.0,,Datasets Expert
+"Adelaide, South Australia, Australia",6.0,,1.0,119,,,Competitions Expert
+,151.0,31.0,87.0,161,95.0,,Competitions Master
+,61.0,,5.0,125,,,Competitions Expert
+"Moscow, Russia",19.0,,1.0,159,,,Competitions Master
+"Athens, Greece",19.0,,23.0,190,149.0,,Notebooks Expert
+"Copenhagen, Denmark",5.0,,13.0,108,23.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",4.0,,1.0,70,,,Discussion Expert
+"Dandong, Liaoning, China",1.0,2.0,2.0,138,,,Discussion Expert
+"Edmond, Oklahoma, United States",6.0,3.0,17.0,101,420.0,,Notebooks Expert
+"Sydney, New South Wales, Australia",11.0,2.0,18.0,309,32.0,,Notebooks Master
+"Honolulu, Hawaii, United States",26.0,,1.0,132,,,Competitions Master
+"Los Angeles, California, United States",5.0,,1.0,130,,,Discussion Expert
+"Santa Clara, California, United States",6.0,7.0,13.0,92,111.0,,Competitions Expert
+Taiwan,26.0,1.0,1.0,180,,,Competitions Master
+"Cambridge, Massachusetts, United States",1.0,,,141,,,Discussion Expert
+"Heidelberg, Baden-Württemberg, Germany",14.0,,24.0,318,76.0,,Competitions Expert
+"Coimbatore, Tamil Nadu, India",,2.0,10.0,126,413.0,,Notebooks Expert
+"Paris, Île-de-France, France",1.0,,2.0,82,,,Discussion Expert
+"Seongnam-si, Gyeonggi-do, South Korea",11.0,,15.0,232,238.0,,Competitions Expert
+"Hyderabad, Telangana, India",2.0,5.0,14.0,234,355.0,,Notebooks Expert
+"Warangal, Telangana, India",20.0,13.0,17.0,79,664.0,,Datasets Expert
+"Vellore, Tamil Nadu, India",,1.0,3.0,76,,,Discussion Expert
+"Bengaluru, Karnataka, India",7.0,32.0,30.0,222,448.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,4.0,9.0,91,,,Discussion Expert
+"Bengaluru, Karnataka, India",1.0,,,221,,,Discussion Expert
+"Udupi, Karnataka, India",1.0,,,68,,,Discussion Expert
+"Natal, State of Rio Grande do Norte, Brazil",2.0,7.0,24.0,94,718.0,,Datasets Expert
+"Chhatarpur, Madhya Pradesh, India",35.0,2.0,6.0,135,,,Discussion Expert
+"İzmir, Izmir, Turkey",4.0,,7.0,218,163.0,,Notebooks Expert
+"Coimbatore, Tamil Nadu, India",,1.0,6.0,96,,,Discussion Expert
+"Chandigarh, Chandigarh, India",,1.0,14.0,127,,,Discussion Expert
+"Hyderabad, Telangana, India",4.0,1.0,4.0,128,,,Discussion Expert
+"Ranchi, Jharkhand, India",7.0,1.0,11.0,131,442.0,,Notebooks Expert
+"Surat, Gujarat, India",1.0,3.0,6.0,114,454.0,,Datasets Expert
+"Karur, Tamil Nadu, India",1.0,6.0,9.0,81,632.0,,Datasets Expert
+"Bengaluru, Karnataka, India",,,8.0,96,1010.0,,Notebooks Expert
+"Athens, Greece",85.0,,17.0,161,,,Competitions Master
+"Tübingen, Baden-Württemberg, Germany",46.0,,15.0,280,217.0,,Competitions Expert
+"London, England, United Kingdom",9.0,,,177,,,Competitions Expert
+,160.0,1.0,,141,,,Competitions Expert
+"Tokyo, Tokyo, Japan",52.0,12.0,20.0,110,,,Competitions Expert
+"São Paulo, State of São Paulo, Brazil",18.0,3.0,43.0,773,12.0,,Notebooks Grandmaster
+"Corvallis, Oregon, United States",13.0,4.0,29.0,212,105.0,,Competitions Expert
+"Warsaw, Masovian Voivodeship, Poland",14.0,,3.0,102,,,Competitions Master
+"Seattle, Washington, United States",16.0,,3.0,148,,,Competitions Expert
+"Mumbai, Maharashtra, India",7.0,19.0,27.0,182,128.0,,Notebooks Master
+"Munich, Bavaria, Germany",5.0,,25.0,193,114.0,,Competitions Expert
+"Barcelona, Catalonia, Spain",,,,122,,,Discussion Expert
+"Jaipur, Rajasthan, India",26.0,,15.0,175,405.0,,Notebooks Expert
+"Duhok, Kurdistan Region, Iraq",5.0,,8.0,217,332.0,,Notebooks Expert
+"New Delhi, Delhi, India",8.0,1.0,9.0,237,273.0,,Notebooks Expert
+"São Bernardo do Campo, State of São Paulo, Brazil",1.0,2.0,19.0,156,373.0,,Notebooks Expert
+"Cairo, Cairo Governorate, Egypt",6.0,3.0,6.0,104,,,Discussion Expert
+"Bengaluru, Karnataka, India",,1.0,15.0,127,1032.0,,Notebooks Expert
+"New Delhi, Delhi, India",1.0,3.0,5.0,80,426.0,,Datasets Expert
+"Kozhikode, Kerala, India",7.0,,7.0,113,,,Discussion Expert
+"Chelyabinsk, Chelyabinsk Oblast, Russia",2.0,2.0,8.0,229,363.0,,Notebooks Expert
+"Pratapgarh, Uttar Pradesh, India",7.0,8.0,19.0,93,743.0,,Datasets Expert
+"Kolkata, West Bengal, India",5.0,1.0,29,182.0,242.0,,Notebooks Expert
+"Davanagere, Karnataka, India",,2.0,12,155.0,772.0,,Notebooks Expert
+"İstanbul, Istanbul, Turkey",1.0,,1,96.0,,,Discussion Expert
+"Hyderabad, Telangana, India",,,7,99.0,793.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",1.0,4.0,11,167.0,180.0,,Notebooks Master
+"Seoul, Seoul, South Korea",,,,77.0,,,Discussion Expert
+"Bengaluru, Karnataka, India",,1.0,2,109.0,,,Discussion Expert
+"Dhaka, Dhaka Division, Bangladesh",,,1,149.0,,,Discussion Expert
+"Samara, Samara Oblast, Russia",,,1,62.0,,,Discussion Expert
+"Kolkata, West Bengal, India",,,8,148.0,452.0,,Notebooks Expert
+"Antarctic Great Wall Station, Antarctica",4.0,,,111.0,,,Discussion Expert
+"Chattogram, Chittagong Division, Bangladesh",3.0,2.0,11,144.0,,,Discussion Expert
+"Johannesburg, Gauteng, South Africa",,4.0,4,99.0,,,Datasets Expert
+,,,8,71.0,456.0,,Notebooks Expert
+"Stockholm, Stockholm County, Sweden",20.0,,11,405.0,135.0,,Competitions Master
+Netherlands,101.0,,41,823.0,4.0,,Competitions Master
+"Tel Aviv-Yafo, Tel Aviv District, Israel",15.0,9.0,35,179.0,9.0,,Competitions Master
+"Montreal, Quebec, Canada",4.0,,2,120.0,,,Discussion Expert
+United States,64.0,3.0,1,236.0,,,Competitions Grandmaster
+"Boston, Massachusetts, United States",3.0,1.0,6,185.0,,,Discussion Expert
+"Frankfurt, Hesse, Germany",44.0,,12,147.0,46.0,,Competitions Expert
+"Paris, Île-de-France, France",106.0,,,93.0,,,Competitions Master
+"Taipei, Taiwan",11.0,,1,54.0,,,Discussion Expert
+"Kolkata, West Bengal, India",,1.0,9,89.0,764.0,,Notebooks Expert
+"Moscow, Russia",32.0,,15,105.0,146.0,,Competitions Expert
+,2.0,41.0,261,209.0,296.0,,Datasets Expert
+"Tampere, Finland",33.0,,,178.0,,,Competitions Expert
+"Madrid, Community of Madrid, Spain",10.0,,1,168.0,,,Discussion Expert
+"Cologne, North Rhine-Westphalia, Germany",2.0,1.0,12,97.0,1641.0,,Notebooks Expert
+"Singapore, Singapore",,,7,182.0,308.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,4.0,8,113.0,558.0,,Notebooks Expert
+"Cambridge, Massachusetts, United States",,,,153.0,,,Discussion Expert
+"Pittsburgh, Pennsylvania, United States",10.0,18.0,11,132.0,,,Discussion Expert
+"Bengaluru, Karnataka, India",9.0,,4,83.0,,,Discussion Expert
+"Chandigarh, Punjab, India",18.0,5.0,19,249.0,249.0,,Notebooks Expert
+"Tokyo, Tokyo, Japan",66.0,2.0,22,157.0,572.0,,Competitions Master
+"Canterbury, England, United Kingdom",5.0,288.0,"1,003",,134.0,,Datasets Expert
+"New Delhi, Delhi, India",6.0,2.0,11,127.0,1810.0,,Notebooks Expert
+"Ankara, Ankara, Turkey",,,11,177.0,86.0,,Notebooks Expert
+"New York, New York, United States",25.0,4.0,8,85.0,,,Competitions Expert
+"New Brunswick, New Jersey, United States",3.0,1.0,7,82.0,1085.0,,Notebooks Expert
+"Delhi, Delhi, India",1.0,2.0,4,176.0,,,Discussion Expert
+"Salt Lake City, Utah, United States",6.0,2.0,10,96.0,779.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",17.0,1.0,2,191.0,,,Discussion Expert
+"Ranchi, Jharkhand, India",1.0,,14,151.0,,,Discussion Expert
+"Boston, Massachusetts, United States",6.0,3.0,2,125.0,,,Discussion Expert
+"College Park, Maryland, United States",4.0,21.0,45,138.0,750.0,,Competitions Expert
+"Pune, Maharashtra, India",2.0,,19,113.0,766.0,,Notebooks Expert
+"Indore, Madhya Pradesh, India",,,14,258.0,177.0,,Notebooks Expert
+"Biella, Piedmont, Italy",1.0,,5,86.0,626.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",5.0,,9,116.0,229.0,,Notebooks Expert
+"London, England, United Kingdom",4.0,1.0,2,73.0,,,Discussion Expert
+"Pune, Maharashtra, India",,25.0,20,120.0,684.0,,Notebooks Expert
+"New York, New York, United States",2.0,,,190.0,,,Discussion Expert
+"Bengaluru, Karnataka, India",1.0,8.0,6,87.0,531.0,,Notebooks Expert
+"Mumbai, Maharashtra, India",,,11,98.0,702.0,,Notebooks Expert
+"Limerick, County Limerick, Ireland",3.0,2.0,14,114.0,726.0,,Notebooks Expert
+"Raipur, Chhattisgarh, India",,,,65.0,,,Discussion Expert
+"Mumbai, Maharashtra, India",1.0,1.0,8,110.0,646.0,,Notebooks Expert
+"Gurugram, Haryana, India",3.0,8.0,8,116.0,673.0,,Notebooks Expert
+"Ahmedabad, Gujarat, India",,39.0,18,128.0,504.0,,Notebooks Expert
+"London, England, United Kingdom",,1.0,4,94.0,,,Discussion Expert
+"Toronto, Ontario, Canada",,1.0,11,115.0,647.0,,Notebooks Expert
+"Mathura, Uttar Pradesh, India",,3.0,5,92.0,534.0,,Datasets Expert
+,,,11,101.0,586.0,,Notebooks Expert
+"Hyderabad, Telangana, India",6.0,,6,122.0,826.0,,Notebooks Expert
+"Jaipur, Rajasthan, India",,,10,112.0,543.0,,Notebooks Expert
+"Moscow, Russia",90.0,3.0,12,216.0,177.0,,Competitions Master
+"Helsinki, Finland",6.0,,1,83.0,,,Discussion Expert
+,32.0,,18,164.0,85.0,,Competitions Grandmaster
+,46.0,1.0,10,207.0,,,Competitions Expert
+"Kraków, Lesser Poland Voivodeship, Poland",15.0,4.0,15,160.0,95.0,,Competitions Expert
+"Zürich, Zurich, Switzerland",15.0,1.0,,141.0,,,Competitions Expert
+"Brussels, Brussels, Belgium",97.0,12.0,25,151.0,646.0,,Competitions Expert
+"Beijing, Beijing, China",13.0,,5,288.0,,,Competitions Master
+"Istanbul, Istanbul, Turkey",,1.0,5,95.0,,,Discussion Expert
+"Harelbeke, Flanders, Belgium",325.0,27.0,257,273.0,111.0,,Notebooks Expert
+"Gurugram, Haryana, India",14.0,7.0,26,110.0,403.0,,Notebooks Expert
+"Lille, Hauts-de-France, France",5.0,,3,151.0,,,Competitions Expert
+"Dubai, Dubai, United Arab Emirates",4.0,,7,167.0,380.0,,Notebooks Expert
+"Guwahati, Assam, India",2.0,1.0,,127.0,,,Discussion Expert
+"Bengaluru, Karnataka, India",,6.0,11,114.0,457.0,,Notebooks Expert
+"Seattle, Washington, United States",,,6,88.0,493.0,,Notebooks Expert
+"Kolkata, West Bengal, India",8.0,3.0,18,82.0,207.0,,Notebooks Expert
+"Delhi, Delhi, India",4.0,,1,114.0,,,Discussion Expert
+"New Delhi, Delhi, India",9.0,1.0,12,108.0,396.0,,Notebooks Expert
+"Surat, Gujarat, India",7.0,,1,88.0,,,Discussion Expert
+"Karimnagar, Telangana, India",1.0,1.0,4,114.0,,,Discussion Expert
+"Tokyo, Tokyo, Japan",62.0,1.0,,189.0,,,Competitions Expert
+"Orlando, Florida, United States",1.0,,5,171.0,98.0,,Notebooks Expert
+,,2.0,8,161.0,,,Discussion Expert
+"Hyderabad, Telangana, India",1.0,,8,246.0,509.0,,Notebooks Expert
+"Rome, Lazio, Italy",5.0,3.0,4,161.0,353.0,,Notebooks Expert
+,9.0,,13,116.0,1283.0,,Notebooks Expert
+"Barcelona, Catalonia, Spain",5.0,,10,166.0,162.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",1.0,,2,202.0,,,Discussion Expert
+"Bengaluru, Karnataka, India",,2.0,11,174.0,996.0,,Notebooks Expert
+"Tiruchirappalli, Tamil Nadu, India",1.0,1.0,11,89.0,,,Discussion Expert
+"Hyderabad, Telangana, India",6.0,,15,118.0,4089.0,,Notebooks Expert
+"Kanpur, Uttar Pradesh, India",3.0,5.0,8,72.0,759.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",7.0,5.0,7,148.0,310.0,,Notebooks Expert
+"Tabriz, East Azerbaijan Province, Iran",,,,123.0,,,Discussion Expert
+"Paris, Île-de-France, France",2.0,,,106.0,,,Discussion Expert
+"Ahmedabad, Gujarat, India",5.0,5.0,6,146.0,318.0,,Notebooks Expert
+"Mombasa, Mombasa County, Kenya",2.0,4.0,11,130.0,662.0,,Datasets Expert
+"Bhopal, Madhya Pradesh, India",2.0,,3,110.0,,,Discussion Expert
+"Jersey City, New Jersey, United States",1.0,3.0,12,168.0,279.0,,Notebooks Expert
+"Kursk, Kursk Oblast, Russia",10.0,,15,111.0,642.0,,Notebooks Expert
+"Singapore, Singapore",4.0,,,88.0,,,Discussion Expert
+"Austin, Texas, United States",98.0,5.0,17,151.0,6.0,,Competitions Grandmaster
+"Berlin, Berlin, Germany",4.0,,3,122.0,,,Competitions Expert
+"Manteca, California, United States",16.0,2.0,21,100.0,,,Competitions Expert
+"Bengaluru, Karnataka, India",17.0,3.0,40.0,127,210.0,,Notebooks Expert
+"Helsinki, Finland",17.0,,3.0,259,,,Competitions Master
+"Paris, Île-de-France, France",21.0,3.0,11.0,153,,,Competitions Expert
+"Changsha, Hunan, China",79.0,1.0,10.0,154,216.0,,Competitions Grandmaster
+"Bellevue, Washington, United States",28.0,,10.0,375,27.0,,Competitions Master
+"Taipei, Taiwan",8.0,1.0,3.0,244,,,Competitions Expert
+"London, England, United Kingdom",18.0,,16.0,229,281.0,,Competitions Expert
+"São Paulo, State of São Paulo, Brazil",19.0,10.0,12.0,193,1059.0,,Competitions Expert
+"Bengaluru, Karnataka, India",22.0,,32.0,171,,,Competitions Expert
+"New Brunswick, New Jersey, United States",8.0,,23.0,327,262.0,,Competitions Expert
+"Unknown Village, Arusha Region, Tanzania",35.0,1.0,4.0,517,,,Competitions Expert
+"Berlin, Berlin, Germany",39.0,1.0,30.0,431,9.0,,Notebooks Master
+"Homs, Homs Governorate, Syria",1.0,,,137,,,Discussion Expert
+"Kochi, Kerala, India",8.0,2.0,7.0,219,,,Discussion Expert
+"St Andrews, Scotland, United Kingdom",2.0,1.0,3.0,142,,,Discussion Expert
+"Bandung, West Java, Indonesia",21.0,11.0,87.0,130,269.0,,Competitions Expert
+"Chennai, Tamil Nadu, India",10.0,,17.0,157,,,Discussion Expert
+"Bengaluru, Karnataka, India",8.0,21.0,108.0,387,,,Discussion Expert
+"Ankara, Ankara, Turkey",,1.0,20.0,404,120.0,,Notebooks Expert
+"Rajshahi, Rajshahi Division, Bangladesh",19.0,1.0,2.0,99,,,Competitions Expert
+"São Paulo, State of São Paulo, Brazil",2.0,,1.0,99,,,Discussion Expert
+"Cairo, Cairo Governorate, Egypt",,,3.0,103,,,Discussion Expert
+"São Paulo, State of São Paulo, Brazil",7.0,14.0,31.0,180,105.0,,Datasets Expert
+"Bengaluru, Karnataka, India",1.0,,,90,,,Discussion Expert
+"Delhi, Delhi, India",,,7.0,159,1109.0,,Notebooks Expert
+"Rome, Lazio, Italy",3.0,5.0,7.0,105,,,Datasets Expert
+"Tarlac City, Central Luzon, Philippines",,3.0,18.0,105,711.0,,Notebooks Expert
+"Seville, Andalusia, Spain",1.0,,10.0,86,2630.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,3.0,3.0,91,,,Datasets Expert
+"Kolkata, West Bengal, India",,1.0,8.0,88,458.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",,1.0,6.0,106,374.0,,Notebooks Expert
+"New Orleans, Louisiana, United States",17.0,,7.0,115,421.0,,Competitions Master
+"Orsay, Île-de-France, France",,,,238,,,Discussion Expert
+"New York, New York, United States",1.0,44.0,230.0,675,12.0,,Notebooks Grandmaster
+"Tallinn, Harju County, Estonia",99.0,,3.0,173,,,Competitions Expert
+"Pune, Maharashtra, India",12.0,,28.0,177,291.0,,Notebooks Expert
+"Kaiserslautern, Rhineland-Palatinate, Germany",6.0,19.0,11.0,132,141.0,,Competitions Expert
+"Taipei, Taiwan",6.0,,7.0,121,55.0,,Competitions Master
+"Bengaluru, Karnataka, India",,2.0,3.0,213,,,Discussion Expert
+"Kanpur, Uttar Pradesh, India",2.0,,6.0,114,,,Discussion Expert
+"Eindhoven, North Brabant, Netherlands",2.0,,9.0,288,311.0,,Notebooks Expert
+"Forks, Washington, United States",2.0,,,164,,,Discussion Expert
+"Sanford, North Carolina, United States",,6.0,5.0,128,,,Discussion Expert
+"Philadelphia, Pennsylvania, United States",3.0,,3.0,102,,,Discussion Expert
+"Delhi, Delhi, India",4.0,3.0,14.0,160,1407.0,,Notebooks Expert
+"Noida, Uttar Pradesh, India",1.0,5.0,8.0,135,,,Discussion Expert
+"Syracuse, New York, United States",,,,74,,,Discussion Expert
+"İstanbul, Istanbul, Turkey",3.0,,2.0,141,,,Discussion Expert
+"İstanbul, Istanbul, Turkey",,1.0,22.0,92,349.0,,Notebooks Expert
+"Vinnytsia, Vinnytsia Oblast, Ukraine",23.0,4.0,21.0,117,882.0,,Notebooks Expert
+,1.0,1.0,,118,,,Discussion Expert
+"Branford, Connecticut, United States",9.0,,,58,,,Discussion Expert
+,67.0,,,145,,,Competitions Grandmaster
+,15.0,,1.0,83,,,Competitions Expert
+,21.0,1.0,8.0,136,333.0,,Competitions Expert
+"New York, New York, United States",156.0,1.0,53.0,203,61.0,,Competitions Expert
+"Moscow, Russia",22.0,,6.0,118,,,Competitions Expert
+"Amsterdam, North Holland, Netherlands",3.0,,18.0,158,,,Discussion Expert
+Canada,22.0,,10.0,221,,,Competitions Expert
+,37.0,,1.0,106,,,Competitions Expert
+"Melbourne, Victoria, Australia",5.0,3.0,18.0,86,62.0,,Notebooks Expert
+"Los Angeles, California, United States",15.0,3.0,30.0,194,116.0,,Notebooks Expert
+,44.0,4.0,54.0,115,42.0,,Competitions Expert
+"Moscow, Russia",17.0,3.0,3.0,121,,,Competitions Expert
+"New Jersey, United States",37.0,,1.0,150,,,Competitions Master
+"São Paulo, State of São Paulo, Brazil",5.0,,1.0,221,,,Discussion Expert
+"Amsterdam, North Holland, Netherlands",15.0,,9.0,120,160.0,,Competitions Expert
+"Bengaluru, Karnataka, India",57.0,1.0,20.0,463,6.0,,Notebooks Master
+"New York, New York, United States",7.0,1.0,20.0,132,110.0,,Competitions Expert
+"New York, New York, United States",9.0,,,168,,,Competitions Master
+"Utrecht, Utrecht, Netherlands",17.0,,,216,,,Competitions Expert
+"Sattur, Tamil Nadu, India",10.0,1.0,19.0,164,180.0,,Notebooks Expert
+"Hangzhou, Zhejiang, China",24.0,1.0,,191,,,Competitions Expert
+,7.0,12.0,62.0,228,,,Discussion Expert
+"Ann Arbor, Michigan, United States",9.0,8.0,4.0,176,,,Discussion Expert
+"Chennai, Tamil Nadu, India",4.0,1.0,8.0,192,62.0,,Notebooks Expert
+"Buffalo, New York, United States",4.0,,9.0,189,,,Discussion Expert
+"New Delhi, Delhi, India",1.0,3.0,48.0,189,,,Discussion Expert
+"Guangzhou, Guangdong Province, China",10.0,1.0,1.0,158,,,Competitions Expert
+"Renningen, Baden-Württemberg, Germany",3.0,,,201,,,Competitions Expert
+"Boston, Massachusetts, United States",1.0,,6.0,124,199.0,,Notebooks Expert
+"São Paulo, State of São Paulo, Brazil",8.0,4.0,19.0,111,70.0,,Notebooks Expert
+"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",6.0,,,119,,,Competitions Expert
+"Bengaluru, Karnataka, India",,,1.0,134,,,Discussion Expert
+"Sundsvall, Västernorrland County, Sweden",10.0,,,78,,,Discussion Expert
+"Bazpur, Uttarakhand, India",7.0,2.0,6.0,92,505.0,,Notebooks Expert
+"Bergen, Vestland, Norway",,,6.0,170,,,Discussion Expert
+"Moscow, Russia",10.0,,2.0,78,,,Discussion Expert
+"Warsaw, Masovian Voivodeship, Poland",,,13.0,111,345.0,,Notebooks Expert
+"Noida, Uttar Pradesh, India",,,1.0,63,,,Discussion Expert
+"Los Angeles, California, United States",3.0,,,92,,,Discussion Expert
+,81.0,,3.0,204,,,Competitions Master
+,20.0,,9.0,133,220.0,,Competitions Master
+"Oakland, California, United States",,1.0,35.0,173,,,Discussion Expert
+,22.0,1.0,1.0,136,,,Competitions Grandmaster
+"Nashville, Tennessee, United States",5.0,2.0,9.0,353,,,Competitions Expert
+"New York, New York, United States",24.0,,8.0,141,242.0,,Competitions Expert
+"Mumbai, Maharashtra, India",1.0,2.0,25.0,259,10.0,,Notebooks Master
+"Bengaluru, Karnataka, India",128.0,3.0,13.0,69,38.0,,Notebooks Master
+"Moscow, Russia",4.0,,1.0,100,,,Discussion Expert
+"San Francisco, California, United States",23.0,,,188,,,Competitions Master
+"Bengaluru, Karnataka, India",4.0,1.0,25.0,173,,,Discussion Expert
+"Gurugram, Haryana, India",7.0,2.0,15.0,126,116.0,,Notebooks Expert
+"New York, New York, United States",3.0,,6.0,231,,,Discussion Expert
+"Jammu, Himachal Pradesh, India",5.0,,1.0,168,,,Discussion Expert
+"Shanghai, Shanghai, China",2.0,,5.0,132,83.0,,Notebooks Expert
+"Stavanger, Rogaland, Norway",22.0,,,78,,,Competitions Expert
+"Philadelphia, Pennsylvania, United States",10.0,1.0,4.0,106,,,Competitions Expert
+"Ambala, Haryana, India",11.0,1.0,14.0,199,1628.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",,,,105,,,Discussion Expert
+"Paris, Île-de-France, France",7.0,1.0,3.0,183,,,Competitions Expert
+"Curitiba, State of Paraná, Brazil",1.0,,,80,,,Discussion Expert
+"Saint Petersburg, Russia",2.0,16.0,9.0,82,773.0,,Datasets Expert
+"Mymensingh, Dhaka Division, Bangladesh",,,,149,,,Discussion Expert
+"Kanazawa, Ishikawa, Japan",16.0,,,73,,,Discussion Expert
+,28.0,,1.0,207,,,Competitions Grandmaster
+"Singapore, Singapore",34.0,,32.0,174,,,Competitions Master
+"Bern, Canton of Bern, Switzerland",22.0,1.0,2.0,220,,,Competitions Master
+"Worcester, Massachusetts, United States",5.0,,9.0,149,,,Discussion Expert
+"London, England, United Kingdom",43.0,,11.0,168,,,Competitions Expert
+"Santiago, Santiago Metropolitan Region, Chile",43.0,,27.0,144,95.0,,Competitions Grandmaster
+"Arizona, United States",39.0,1.0,13.0,227,32.0,,Competitions Expert
+,13.0,1.0,7.0,146,,,Competitions Expert
+"Gurugram, Haryana, India",52.0,,38.0,115,134.0,,Competitions Master
+,7.0,,6.0,101,,,Discussion Expert
+"Bengaluru, Karnataka, India",1.0,1.0,8.0,111,115.0,,Notebooks Expert
+"Mountain View, California, United States",2.0,3.0,32.0,194,63.0,,Notebooks Master
+"Khairpur, Sindh, Pakistan",6.0,4.0,3.0,334,,,Discussion Expert
+"Buenos Aires, Buenos Aires, Argentina",11.0,,27.0,261,,,Competitions Expert
+"Cambridge, Massachusetts, United States",28.0,,,102,,,Competitions Master
+"Karlsruhe, Baden-Württemberg, Germany",7.0,,,270,,,Competitions Master
+"London, England, United Kingdom",1.0,,2.0,335,,,Discussion Expert
+"Rotterdam, South Holland, Netherlands",8.0,,,98,,,Competitions Expert
+"Bengaluru, Karnataka, India",3.0,2.0,8.0,127,133.0,,Notebooks Expert
+"Paris, Île-de-France, France",15.0,1.0,6.0,330,,,Competitions Expert
+"Paris, Île-de-France, France",3.0,,,147,,,Discussion Expert
+"Kolkata, West Bengal, India",1.0,,3.0,123,,,Discussion Expert
+"New Delhi, Delhi, India",1.0,3.0,12.0,150,411.0,,Notebooks Expert
+,6.0,,1.0,82,,,Discussion Expert
+"İstanbul, İstanbul, Turkey",3.0,5.0,2.0,93,,,Discussion Expert
+"Mountain View, California, United States",14.0,,5.0,131,,,Competitions Expert
+"Bengaluru, Karnataka, India",9.0,,,142,,,Discussion Expert
+"Sydney, New South Wales, Australia",7.0,2.0,331.0,342,,,Competitions Expert
+"Dubai, Dubai, United Arab Emirates",6.0,18.0,24.0,232,345.0,,Competitions Master
+,54.0,,1.0,242,,,Competitions Master
+"Singapore, Singapore",41.0,,5.0,328,,,Competitions Grandmaster
+"Palo Alto, California, United States",,,229.0,294,13.0,,Notebooks Master
+"Bengaluru, Karnataka, India",33.0,,8.0,132,124.0,,Notebooks Expert
+"Stavanger, Rogaland, Norway",20.0,,13.0,278,58.0,,Competitions Expert
+"London, England, United Kingdom",9.0,,7.0,134,274.0,,Notebooks Expert
+"New Delhi, Delhi, India",13.0,,20.0,121,135.0,,Notebooks Expert
+"Beijing, Beijing, China",12.0,,3.0,191,,,Competitions Master
+Canada,5.0,,10.0,152,143.0,,Notebooks Expert
+"Vancouver, British Columbia, Canada",3.0,,10.0,141,105.0,,Notebooks Expert
+"Virginia Beach, Virginia, United States",10.0,,18.0,279,115.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",15.0,,6.0,122,297.0,,Competitions Expert
+"Bordeaux, Nouvelle-Aquitaine, France",24.0,,16.0,214,71.0,,Notebooks Master
+"Boston, Massachusetts, United States",8.0,11.0,22.0,202,7.0,,Notebooks Master
+"Los Angeles, California, United States",67.0,,3.0,117,,,Competitions Expert
+"Denver, Colorado, United States",15.0,1.0,8.0,176,208.0,,Notebooks Expert
+"Lisbon, Lisbon, Portugal",15.0,,2.0,128,,,Competitions Expert
+"Hanover, Lower Saxony, Germany",19.0,,9.0,132,137.0,,Notebooks Expert
+"Amsterdam, North Holland, Netherlands",3.0,1.0,1.0,102,,,Competitions Expert
+"İzmir, Izmir, Turkey",3.0,,23.0,231,122.0,,Notebooks Master
+"Magdeburg, Saxony-Anhalt, Germany",1.0,3.0,14.0,184,77.0,,Notebooks Master
+"Washington, District of Columbia, United States",4.0,,4.0,114,,,Discussion Expert
+"Cagliari, Sardinia, Italy",,3.0,7.0,112,299.0,,Notebooks Expert
+"Moscow, Russia",2.0,,,99,,,Discussion Expert
+"Jerusalem, Jerusalem District, Israel",4.0,,10.0,142,162.0,,Notebooks Expert
+"Vancouver, British Columbia, Canada",3.0,2.0,7.0,141,123.0,,Notebooks Expert
+"Seattle, Washington, United States",26.0,,,101,,,Competitions Master
+"Burlington, North Carolina, United States",30.0,,1.0,111,,,Competitions Expert
+"Toronto, Ontario, Canada",22.0,,,131,,,Competitions Grandmaster
+,17.0,,4.0,153,,,Competitions Expert
+"Bengaluru, Karnataka, India",11.0,,,92,,,Competitions Expert
+,9.0,4.0,46.0,275,4.0,,Competitions Expert
+"Stavanger, Rogaland, Norway",1.0,2.0,2.0,81,,,Discussion Expert
+"Toronto, Ontario, Canada",2.0,3.0,49.0,221,26.0,,Notebooks Master
+"Stockholm, Stockholm County, Sweden",8.0,,2.0,142,,,Competitions Expert
+"Warsaw, Masovian Voivodeship, Poland",32.0,,23.0,90,79.0,,Competitions Master
+"London, England, United Kingdom",12.0,,29.0,308,1.0,,Notebooks Grandmaster
+"Frankfurt, Hessen, Germany",20.0,,24.0,161,12.0,,Competitions Expert
+"San Diego, California, United States",,,1.0,83,,,Discussion Expert
+"Paris, Île-de-France, France",3.0,4.0,12.0,146,963.0,,Notebooks Expert
+"Austin, Texas, United States",13.0,3.0,11.0,102,546.0,,Notebooks Expert
+"Barishal, Barisal Division, Bangladesh",5.0,9.0,35.0,174,90.0,,Notebooks Expert
+"Istanbul, Istanbul, Turkey",,,33.0,853,4.0,,Notebooks Grandmaster
+"Ranchi, Jharkhand, India",11.0,,30.0,118,,,Discussion Expert
+"Hyderabad, Telangana, India",5.0,,1.0,150,,,Discussion Expert
+"Tokyo, Tokyo, Japan",11.0,1.0,31.0,124,275.0,,Notebooks Expert
+"Gurugram, Haryana, India",,,7.0,71,332.0,,Notebooks Expert
+"Tiruchirappalli, Tamil Nadu, India",2.0,,1.0,143,,,Discussion Expert
+,16.0,,7.0,161,,,Competitions Grandmaster
+,68.0,,13.0,351,,,Competitions Grandmaster
+"Mountain View, California, United States",20.0,,1.0,343,,,Discussion Expert
+"San Mateo, California, United States",77.0,1.0,23.0,306,14.0,,Competitions Master
+"St. Louis, Missouri, United States",42.0,,,228,,,Competitions Expert
+"New York, New York, United States",35.0,,10.0,197,,,Competitions Grandmaster
+"Germiston, Gauteng, South Africa",103.0,,7.0,272,,,Competitions Expert
+,28.0,,20.0,101,29.0,,Competitions Expert
+,21.0,,7.0,264,,,Competitions Master
+,21.0,,15.0,156,6.0,,Competitions Expert
+,13.0,,18.0,124,1.0,,Competitions Master
+,64.0,,42.0,165,223.0,,Competitions Master
+"London, England, United Kingdom",4.0,1.0,5.0,78,,,Discussion Expert
+,19.0,,8.0,149,,,Competitions Master
+"Philadelphia, Pennsylvania, United States",20.0,,40.0,163,8.0,,Notebooks Master
+"Tianjin, Tianjin, China",9.0,,4.0,123,,,Competitions Expert
+"New York, New York, United States",1.0,,21.0,243,123.0,,Notebooks Expert
+"Claremont, California, United States",2.0,2.0,20.0,168,85.0,,Notebooks Expert
+"Chennai, Tamil Nadu, India",6.0,,13.0,169,154.0,,Notebooks Expert
+"Ghent, Flanders, Belgium",2.0,,4.0,197,,,Competitions Expert
+,12.0,,3.0,112,,,Competitions Master
+"Taipei, Taiwan",9.0,4.0,27.0,148,94.0,,Notebooks Expert
+"London, England, United Kingdom",3.0,,6.0,122,217.0,,Notebooks Expert
+"Visakhapatnam, Andhra Pradesh, India",10.0,3.0,6.0,163,,,Discussion Expert
+,,1.0,11.0,185,,,Discussion Expert
+"Seville, Andalusia, Spain",61.0,,2.0,236,,,Competitions Grandmaster
+"Derp, North Brabant, Netherlands",46.0,,15.0,133,176.0,,Competitions Expert
+,1.0,5.0,,200,,,Discussion Expert
+,9.0,,,102,,,Competitions Grandmaster
+,107.0,,21.0,172,43.0,,Competitions Grandmaster
+"Los Angeles, California, United States",19.0,,1.0,147,,,Competitions Master
+,25.0,,13.0,242,15.0,,Competitions Grandmaster
+"Seattle, Washington, United States",24.0,,,382,,,Competitions Grandmaster
+"Pisa, Tuscany, Italy",30.0,1.0,5.0,128,,,Competitions Master
+,16.0,,7.0,80,298.0,,Competitions Grandmaster
+"Maine, Maine, United States",88.0,,26.0,218,14.0,,Competitions Expert
+"Dublin, County Dublin, Ireland",12.0,,2.0,220,,,Competitions Expert
+,11.0,2.0,2.0,237,,,Competitions Expert
+"Madrid, Community of Madrid, Spain",25.0,,3.0,108,,,Competitions Master
+"Milwaukee, Wisconsin, United States",1.0,,32.0,210,9.0,,Notebooks Expert
+"Bengaluru, Karnataka, India",10.0,3.0,13.0,164,28.0,,Competitions Expert
+,13.0,,6.0,152,,,Competitions Master
+"New York, New York, United States",25.0,,75.0,113,1.0,,Competitions Master
+"Oxford, England, United Kingdom",8.0,,2.0,146,,,Competitions Master
+"Santa Clara, California, United States",12.0,,5.0,159,,,Competitions Expert
+"Belo Horizonte, State of Minas Gerais, Brazil",19.0,,4.0,90,,,Competitions Expert
+"Berlin, Berlin, Germany",,3.0,357.0,188,299.0,,Notebooks Expert
+"Seattle, Washington, United States",15.0,,2.0,204,,,Competitions Expert
+"Marrakesh, Marrakesh-Safi, Morocco",19.0,,5.0,176,,,Competitions Expert
+"Maputo, Maputo, Mozambique",16.0,,40.0,224,,,Competitions Expert
+"Atlanta, Georgia, United States",2.0,1.0,8.0,223,8.0,,Notebooks Expert
+"London, England, United Kingdom",4.0,,5.0,99,,,Discussion Expert
+"Amsterdam, North Holland, Netherlands",7.0,,15.0,169,88.0,,Competitions Expert
+,19.0,,9.0,121,38.0,,Competitions Master
+"Tempe, Arizona, United States",4.0,,11.0,140,,,Discussion Expert
+,,5.0,5.0,171,,,Discussion Expert
+,23.0,,,365,,,Competitions Grandmaster
+,31.0,,1.0,272,,,Competitions Expert
+,6.0,,1.0,242,,,Discussion Expert
+,49.0,,,539,,,Competitions Grandmaster
+,38.0,3.0,7.0,198,,,Competitions Master
+"Hyderabad, Telangana, India",164.0,,27.0,265,,,Competitions Master
+,1.0,,,305,,,Discussion Expert
+,14.0,,4.0,219,,,Competitions Expert
+,8.0,,5.0,113,10.0,,Competitions Master
+,35.0,,1.0,257,,,Competitions Master
+,7.0,,4.0,220,,,Competitions Master
+"Mountain View, California, United States",21.0,,19.0,178,,,Competitions Master
+,10.0,,,83,,,Competitions Master
+,12.0,,2.0,116,,,Competitions Expert
+,11.0,,2.0,147,,,Competitions Master
+,,,,141,,,Discussion Expert
+"Philadelphia, Pennsylvania, United States",3.0,10.0,186.0,155,14.0,,Datasets Expert
+"Montpellier, Occitanie, France",4.0,,3.0,567,,,Discussion Expert
+,19.0,,6.0,236,,,Competitions Master
+"Texas, United States",11.0,,18.0,157,66.0,,Notebooks Expert
+,3.0,,,263,,,Discussion Expert
+,16.0,,,190,,,Competitions Master
+,21.0,,,226,,,Competitions Grandmaster
+,6.0,1.0,116.0,382,15.0,,Competitions Expert
+,4.0,,2.0,173,,,Discussion Expert
+,18.0,,,167,,,Competitions Master
+,,,,168,,,Discussion Expert
+,19.0,,,139,,,Competitions Master
+,2.0,,,316,,,Discussion Expert
+"Hilversum, North Holland, Netherlands",24.0,,11.0,107,,,Competitions Expert
+,12.0,,,157,,,Competitions Master
+,14.0,,,197,,,Competitions Master
+,19.0,,,156,,,Competitions Expert
+"Seattle, Washington, United States",36.0,,1.0,122,,,Competitions Master
+,37.0,,,95,,,Competitions Grandmaster
+,,,,167,,,Discussion Expert
+,40.0,,5.0,156,,,Competitions Expert
+,15.0,,1.0,154,,,Competitions Master
+,17.0,,1.0,189,,,Competitions Expert
+,2.0,,3.0,235,,,Discussion Expert
